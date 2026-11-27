@@ -1,0 +1,451 @@
+{
+  "pack_count": 41,
+  "total_pack_bytes": 2662173913,
+  "packs": [
+    {
+      "pack": "第00包_公共工具与说明.zip",
+      "bytes": 31834037,
+      "sha256": "fe6144401f7f565881fc01ed3ad7b38a4abdd5a6ed3a4bac1a8383dadd941a54",
+      "contains": [
+        "公共工具",
+        "README",
+        "映射"
+      ]
+    },
+    {
+      "pack": "第01包_项目源文件.zip",
+      "bytes": 61769321,
+      "sha256": "55ca15a5d562dbe98f8311ad7bfb1f5e730006a47fbeae2d3f456a02fcd94b57",
+      "projects": [
+        "001_活动报名：周末手作体验客户版_activity",
+        "003_地址库_address_详细案例",
+        "005_代理充值升级_agentrecharge_详细案例"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第02包_项目源文件.zip",
+      "bytes": 62049374,
+      "sha256": "199341777cfedc18fc8c92dc0c78e71f4664bc00f4b39ccb46c01877f81608e9",
+      "projects": [
+        "006_AI开放接口_aiapi_详细案例",
+        "008_AI 数据源_aidatasource_详细案例",
+        "009_大象短剧_aidrama_详细案例"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第03包_项目源文件.zip",
+      "bytes": 69419504,
+      "sha256": "6239aee9f8e787b6a5b6a736bcf795757c7dede7c631b0409e7257a265bb53f0",
+      "projects": [
+        "010_AI商品场景_aiscene_详细案例",
+        "012_AI诊疗：影像采集与记录管理_aizhenliao",
+        "014_阿里云OCR识别_aliyun-ocr"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第04包_项目源文件.zip",
+      "bytes": 56326243,
+      "sha256": "30a60ea45627bfb44f7dc742b2507cc8c2362c38fdc947d2c1150b227179e908",
+      "projects": [
+        "015_联盟活动引擎_allianceactivity",
+        "022_生日有礼_birthday"
+      ],
+      "project_count": 2
+    },
+    {
+      "pack": "第05包_项目源文件.zip",
+      "bytes": 68793452,
+      "sha256": "f308077ab3e0b936a197a9307c105307945911e6c8c7c516f89dcc69a7256c97",
+      "projects": [
+        "024_脑机睡眠管理：音频内容运营_brainsleep",
+        "025_轮播支付：易支付通道轮询_carouselpay",
+        "029_城市代理：区域身份与后台管理_cityagent"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第06包_项目源文件.zip",
+      "bytes": 74788986,
+      "sha256": "79412ef7233f81dd4362357b5f5b5abe7e8ce4abb3e907798cbd1edd8125c99f",
+      "projects": [
+        "030_同城电话本_citytelbook",
+        "035_超级发券：业务领券与后台发放_coupon_hub",
+        "037_中金支付：商户进件流程_cpcnpay"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第07包_项目源文件.zip",
+      "bytes": 53443723,
+      "sha256": "166f102254467f4b6e8d3e7d9ecbbf3c544f9edbf3dc61765fe2bb2ba758b012",
+      "projects": [
+        "043_每日金句：累计登录解锁学习_dailyjinju",
+        "044_单数奖励：活动规则与记录管理_danshujiang"
+      ],
+      "project_count": 2
+    },
+    {
+      "pack": "第08包_项目源文件.zip",
+      "bytes": 68238839,
+      "sha256": "8586ef6091e68702b117f62b49fcf8f463f79db123bf7e132e19a78dc3523166",
+      "projects": [
+        "045_到家服务：会员价与结算配置_daojia",
+        "048_大事记：项目反馈与处理进度_dashiji",
+        "056_股权池：后台台账与参数管理_equitypool"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第09包_项目源文件.zip",
+      "bytes": 64539189,
+      "sha256": "54b468f3dbaca42b20644a9ace1e61d2b00f83ba6603a30b64c4e65ef9b0a484",
+      "projects": [
+        "058_测评系统：聚合入口与一题多评_evaluation",
+        "060_快递100：网点配置与电子面单_express100",
+        "061_萤石云摄像头：设备同步与预览控制_ezviz"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第10包_项目源文件.zip",
+      "bytes": 62194992,
+      "sha256": "32ef5aca667d8aefe359b6d84582878ae86c73d2032ea0336e8e0e3060c4fe46",
+      "projects": [
+        "062_法大大电子签：模板配置到合同签署_fadada",
+        "063_房源协作：房东员工与看房流程_fangyuan",
+        "066_文件管家：文件分类与列表维护_filem"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第11包_项目源文件.zip",
+      "bytes": 72586753,
+      "sha256": "d0345f0ed77b26b66bf62900f18dd108b4c37c0578e33ddbba0bbbab5aa9f656",
+      "projects": [
+        "067_自定义表单：字段收集到审核查询_form",
+        "068_分销发券：额度预算与定向发放_fxcoupon",
+        "070_黄金金价：多市场行情查看_goldprice"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第12包_项目源文件.zip",
+      "bytes": 63366221,
+      "sha256": "886cb78c12b31a71ca229f3b00843bf072dfe1b64fc2d83a02c7b58d559a66a2",
+      "projects": [
+        "072_商品榜单：选品排序与榜单展示_goodsrank",
+        "074_拓客活动：订单参与抽奖与履约记录_hbtk",
+        "076_节日管理：日期资料与启停维护_holiday"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第13包_项目源文件.zip",
+      "bytes": 74410436,
+      "sha256": "4e01a24b4ec0e95ecd2fd0c60699f85aeadbf1713fe5a2c7959de49b2afc22bc",
+      "projects": [
+        "085_阶梯全返：活动规则与解锁记录_jietiquanfan",
+        "090_聚水潭ERP：授权绑定到订单回写_jushuitan",
+        "094_口子贷：产品展示与申请线索管理_kouzidai"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第14包_项目源文件.zip",
+      "bytes": 69501976,
+      "sha256": "c7d9055b1049c015b2b7c04586a441dc2dc6a55a83848c95f5eb49940d5278ea",
+      "projects": [
+        "101_零工招聘：发布报名到验收结算_linggong",
+        "105_直播：预告开播互动到商品讲解_live"
+      ],
+      "project_count": 2
+    },
+    {
+      "pack": "第15包_项目源文件.zip",
+      "bytes": 67893008,
+      "sha256": "3ccd29cfa71931faa1f31ad12afdd5ab3babe919c89118cabc76a700aa0a56ed",
+      "projects": [
+        "107_用户论坛：发布互动与分级审核_luntan",
+        "109_麦芽田聚合配送：门店接入与状态回查_maiyatian",
+        "112_矩阵奖励：关系点位与记录核对_matrixreward"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第16包_项目源文件.zip",
+      "bytes": 50200386,
+      "sha256": "984da2890ca52e83904bb5d8bcd0f50e6127f12f26916473b0940fd63b85475c",
+      "projects": [
+        "115_会员拆红包：等级限制与每日活动管理_memberredpacket",
+        "116_门店社区团购：店长手机货盘管理_mendiangroupbuy"
+      ],
+      "project_count": 2
+    },
+    {
+      "pack": "第17包_项目源文件.zip",
+      "bytes": 59128026,
+      "sha256": "1bd972fb1a7866a8fa08e9963f9d49852a32efcc56d32a37359301e8d63fef38",
+      "projects": [
+        "120_小程序中心：授权运营与能力管理_mpcenter",
+        "122_外单转换：会员提交与人工审核_ordercvt"
+      ],
+      "project_count": 2
+    },
+    {
+      "pack": "第18包_项目源文件.zip",
+      "bytes": 73255394,
+      "sha256": "f70dce65fe1204d077cd71778ea4d516402c89af3df3c34cab46973895e7497a",
+      "projects": [
+        "127_同城配送：人员订单与运营记录_peisong",
+        "128_陪诊：预约下单与服务工单协作_peizhen",
+        "130_周期服务：从购买到逐期工单_periodicservice"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第19包_项目源文件.zip",
+      "bytes": 76756548,
+      "sha256": "cc0837f1d49c936c62d3cb0c939597e198dd67eb2f3a15a72aeee2f12d5f62dc",
+      "projects": [
+        "131_预售券：先购买再预约与到店核销_presalevoucher",
+        "132_商品独立分享图：方案设计与商品应用_productshareposter",
+        "133_物业管理：房屋建档到账单缴费_property"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第20包_项目源文件.zip",
+      "bytes": 73636608,
+      "sha256": "5d3dffeb8a7301f5441eb59a3a79201ed08c43a7fb954b967223b43a59592527",
+      "projects": [
+        "135_企业微信：通讯录绑定与应用消息测试_qywx",
+        "137_红包活动：配置打卡解锁与领取记录_redpacket",
+        "143_黄积分：增减记录与提现审核_scorehuang"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第21包_项目源文件.zip",
+      "bytes": 74823389,
+      "sha256": "5577999adf14ee8399b4ca07d214a14a2f859949d40f351eb20e3bf219a14a68",
+      "projects": [
+        "147_上香供奉许愿：数字体验与订单记录_shangxiang",
+        "150_排班系统：校区班次与人员协作_shiftmaster",
+        "156_数权宝调用端：对接配置与同步记录_shuquanbaoclient"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第22包_项目源文件.zip",
+      "bytes": 61795933,
+      "sha256": "011e41e927df68a9801404332d1331fba5810fddea43018a85e8d50374deef77",
+      "projects": [
+        "157_积分签到：每日参与与连续奖励_sign",
+        "159_溯源防伪：商品编码与多角色流转_suyuan"
+      ],
+      "project_count": 2
+    },
+    {
+      "pack": "第23包_项目源文件.zip",
+      "bytes": 60963035,
+      "sha256": "21f75f5dea162cfb1b0f1d8889d81c03e280f0badef2c5fd9ec4592e7e3e2f15",
+      "projects": [
+        "160_幸运抽奖：活动奖项与任务次数管理_sweepstakes",
+        "168_幸运定时开奖：任务领号与统一开奖_timedlottery"
+      ],
+      "project_count": 2
+    },
+    {
+      "pack": "第24包_项目源文件.zip",
+      "bytes": 57789166,
+      "sha256": "66ece8cb5b0f37c32eedc41ba427ce3e9a156847e302f954966fed87aa87d478",
+      "projects": [
+        "174_拓展员CRM：从公海认领到商机跟进_tuozhancrm",
+        "175_拓展员：申请绑定与费用记录管理_tuozhanyuan"
+      ],
+      "project_count": 2
+    },
+    {
+      "pack": "第25包_项目源文件.zip",
+      "bytes": 58150995,
+      "sha256": "6fd309d2ceaa9085f1df40cc76d4c51d1fa5d8493fa68d3c1f0688066e9a5f92",
+      "projects": [
+        "178_仓库管理：出入库组装与盘点_warehouse",
+        "181_微商素材：内容维护与会员专属海报_weishangsucai"
+      ],
+      "project_count": 2
+    },
+    {
+      "pack": "第26包_项目源文件.zip",
+      "bytes": 51240881,
+      "sha256": "8fb06d9bcb839b7e46e2e4bc39ac8bdb85a82dd5603dc2a135de84d082e4634f",
+      "projects": [
+        "183_AI五行：文化互动与推荐记录管理_wuxing",
+        "190_月结中心：会员额度与欠费账期管理_yuejie"
+      ],
+      "project_count": 2
+    },
+    {
+      "pack": "第27包_项目源文件.zip",
+      "bytes": 64130857,
+      "sha256": "0ea3e2e6c3d3e256e8c45a2c2214ff28c049bab51610803932f1e2cd19ffbfd4",
+      "projects": [
+        "192_预约服务：项目预约到派单核销_yuyue",
+        "198_一键追爆AI：图文任务组素材接入_zhuibaoagent"
+      ],
+      "project_count": 2
+    },
+    {
+      "pack": "第28包_项目源文件.zip",
+      "bytes": 75863446,
+      "sha256": "b6263cfd6153ceb77d7532f8dd6aa5d200c4a4e0db2df7a753e8260003689d6e",
+      "projects": [
+        "199_资产分期：活动转化计划与会员额度_zichanfenqi",
+        "核心01_商品发布与日常维护_core_product",
+        "核心02_等级分销的商品参数配置_core_distribution"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第29包_项目源文件.zip",
+      "bytes": 59035266,
+      "sha256": "ac31ead33f5c6d94d65d59c7de7878dcd19fc7ab12dad550fdd2d48487a83231",
+      "projects": [
+        "核心03_会员升级申请资料与记录_core_upgrade",
+        "核心04_会员足迹与浏览记录查看_core_history",
+        "核心05_会员关系图：查看推荐关系_core_relation"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第30包_项目源文件.zip",
+      "bytes": 70020008,
+      "sha256": "f98d2ec88231a15541a1129bd9d7b9caf485e9b316b06736f46130a378465dab",
+      "projects": [
+        "核心06_会员标签：保持期与升降配置_core_member_tags",
+        "核心07_会员资料：模板导入与筛选导出_core_member_data",
+        "核心08_站内通知：后台推送与结果查看_core_notice_push"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第31包_项目源文件.zip",
+      "bytes": 63469818,
+      "sha256": "292e8ca80eac005d12a8d337fa39affd01a7b926009664274773e2720c6a0b09",
+      "projects": [
+        "核心09_佣金明细：查看关联业务订单_core_commission_order",
+        "核心10_页面装修：商品大图与标签展示_core_product_display",
+        "核心11_多商户：商家图式首页展示_core_business_home"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第32包_项目源文件.zip",
+      "bytes": 59202503,
+      "sha256": "6303e5ad50aa2196a00cdfd4d4105b1960a954a3ed27141e153c5016ef81e9ec",
+      "projects": [
+        "核心12_会员管理：资料维护与账号状态_core_member_operations",
+        "核心13_会员账户：余额佣金积分调整_core_member_accounts",
+        "核心14_会员运营：筛选与统计面板_core_member_dashboard"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第33包_项目源文件.zip",
+      "bytes": 63561458,
+      "sha256": "8972e5604e47accac04940085e6fc6c07da518e18e680df1e527cd17df935ca3",
+      "projects": [
+        "核心15_商品批发价：阶梯会员价与规格联动_core_wholesale",
+        "核心16_会员注册：推荐人与接点人校验_core_register_jiedian",
+        "核心17_会员信息组件：样式选择与设计预览_core_userinfo_preview"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第34包_项目源文件.zip",
+      "bytes": 66360252,
+      "sha256": "04788ef63ec083e0b80aabcd570fba0d145abbc048e03375de6b35c914f22e69",
+      "projects": [
+        "核心18_同城配送：专属绑定范围派单与排期_core_delivery_assign",
+        "核心19_同城配送：配送日批次与配货送达_core_delivery_day",
+        "核心20_同城配送：按容量手动分车与打印_core_delivery_capacity"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第35包_项目源文件.zip",
+      "bytes": 77836357,
+      "sha256": "2fe6bb949006a70a2b16605d37400a8cebe2a965fe11820b51487e1bf654cccf",
+      "projects": [
+        "核心21_余额提现：微信确认收款与状态回查_core_balance_receipt",
+        "核心22_商家买单：按支付方式配置奖励范围_core_maidan_reward_paytype",
+        "核心23_会员等级：基础信息与权益说明维护_core_member_level_basics",
+        "核心24_普通商品售后：退款申请与审核处理_core_refund_process"
+      ],
+      "project_count": 4
+    },
+    {
+      "pack": "第36包_项目源文件.zip",
+      "bytes": 55226586,
+      "sha256": "e42605481ea44d674bcf83def895c07d7ccd8ecdc2b1c42de1fef989f1cb53aa",
+      "projects": [
+        "核心25_秒杀商品：按规格维护会员价_core_seckill_level_price",
+        "核心26_核心收银台：订单修改与作废审核_core_cashier_audit",
+        "核心27_商品维护：复制商品与发布前核对_core_product_copy"
+      ],
+      "project_count": 3
+    },
+    {
+      "pack": "第37包_项目源文件.zip",
+      "bytes": 70758351,
+      "sha256": "07dda24d91525ab5f62d65994ba6162e5b4bbdaf8657775cc87ec333434d0572",
+      "projects": [
+        "核心28_秒杀商品详情：可视化内容设计_core_seckill_detail_designer",
+        "核心29_团长文章：浏览时长与足迹记录_core_article_trace",
+        "核心30_积分明细：筛选查询与导出管理_core_score_records",
+        "核心31_消费明细：按支付项目定位记录_core_consume_project_search"
+      ],
+      "project_count": 4
+    },
+    {
+      "pack": "第38包_项目源文件.zip",
+      "bytes": 71730252,
+      "sha256": "a80e5c3cd898ccdaaea1735199093d7b44b37c824e206596e0b764449c4fcde4",
+      "projects": [
+        "核心32_按钮导航：布局图标与文字配置_core_menu_layout",
+        "核心33_礼品卡兑换码：冻结解冻与状态管理_core_giftcode_freeze",
+        "核心34_答题记录：条件查询与表格导出_core_exam_records",
+        "核心35_页面展示：队列消费记录组件配置_core_queue_display"
+      ],
+      "project_count": 4
+    },
+    {
+      "pack": "第39包_项目源文件.zip",
+      "bytes": 68773331,
+      "sha256": "87587bf2fb3b08355a06386cb2339d7a12171bc3b3dbc95214f428670beca1b9",
+      "projects": [
+        "核心36_贡献值设置：扣减适用等级配置_core_contribution_level",
+        "核心37_会员订单：状态列表搜索与刷新_core_order_member_list",
+        "核心38_押金管理：会员台账与页面配置_core_deposit_admin",
+        "核心39_团长文章：文字发布与状态维护_core_article_content"
+      ],
+      "project_count": 4
+    },
+    {
+      "pack": "第40包_项目源文件.zip",
+      "bytes": 77309013,
+      "sha256": "e85a5777daf633497bcb429d0eff54dbe3f0af3688928d3b96f183c5a1b32a96",
+      "projects": [
+        "核心40_页面商品组件：分类来源与预览更新_core_design_group_preview",
+        "核心41_后台学习中心：分类进度与快速定位_core_learning_navigation",
+        "核心42_分红点设置：计算范围与预览核对_core_fenhongdian_mode",
+        "核心43_阈值配置：流水与利润计算口径_core_hualuo_threshold",
+        "核心44_周分红后台：会员商品范围筛选_core_zhoufenhong_filter"
+      ],
+      "project_count": 5
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿分类,视频主题,功能标识,时长（秒）,文件名,相对路径
+插件,地址库,address,100.54,003_地址库_address_详细案例.mp4,插件/003_地址库_address_详细案例.mp4
+插件,代理充值升级,agentrecharge,79.08,005_代理充值升级_agentrecharge_详细案例.mp4,插件/005_代理充值升级_agentrecharge_详细案例.mp4
+插件,AI开放接口,aiapi,133.42,006_AI开放接口_aiapi_详细案例.mp4,插件/006_AI开放接口_aiapi_详细案例.mp4
+插件,AI 数据源,aidatasource,101.83,008_AI 数据源_aidatasource_详细案例.mp4,插件/008_AI 数据源_aidatasource_详细案例.mp4
+插件,大象短剧,aidrama,171.21,009_大象短剧_aidrama_详细案例.mp4,插件/009_大象短剧_aidrama_详细案例.mp4
+插件,AI商品场景,aiscene,128.92,010_AI商品场景_aiscene_详细案例.mp4,插件/010_AI商品场景_aiscene_详细案例.mp4
+插件,AI诊疗：影像采集与记录管理,aizhenliao,181.96,012_AI诊疗：影像采集与记录管理_aizhenliao.mp4,插件/012_AI诊疗：影像采集与记录管理_aizhenliao.mp4
+插件,阿里云OCR识别,aliyun-ocr,142.75,014_阿里云OCR识别_aliyun-ocr.mp4,插件/014_阿里云OCR识别_aliyun-ocr.mp4
+插件,联盟活动引擎,allianceactivity,206.38,015_联盟活动引擎_allianceactivity.mp4,插件/015_联盟活动引擎_allianceactivity.mp4
+插件,生日有礼,birthday,159.29,022_生日有礼_birthday.mp4,插件/022_生日有礼_birthday.mp4
+插件,脑机睡眠管理：音频内容运营,brainsleep,162.96,024_脑机睡眠管理：音频内容运营_brainsleep.mp4,插件/024_脑机睡眠管理：音频内容运营_brainsleep.mp4
+插件,轮播支付：易支付通道轮询,carouselpay,96.83,025_轮播支付：易支付通道轮询_carouselpay.mp4,插件/025_轮播支付：易支付通道轮询_carouselpay.mp4
+核心功能,商品发布与日常维护,core_product,145.12,核心01_商品发布与日常维护_core_product.mp4,核心功能/核心01_商品发布与日常维护_core_product.mp4
+核心功能,等级分销的商品参数配置,core_distribution,121.38,核心02_等级分销的商品参数配置_core_distribution.mp4,核心功能/核心02_等级分销的商品参数配置_core_distribution.mp4
+核心功能,会员升级申请资料与记录,core_upgrade,122.42,核心03_会员升级申请资料与记录_core_upgrade.mp4,核心功能/核心03_会员升级申请资料与记录_core_upgrade.mp4
+核心功能,会员足迹与浏览记录查看,core_history,123.46,核心04_会员足迹与浏览记录查看_core_history.mp4,核心功能/核心04_会员足迹与浏览记录查看_core_history.mp4
+核心功能,会员关系图：查看推荐关系,core_relation,136.75,核心05_会员关系图：查看推荐关系_core_relation.mp4,核心功能/核心05_会员关系图：查看推荐关系_core_relation.mp4
+核心功能,会员标签：保持期与升降配置,core_member_tags,164.96,核心06_会员标签：保持期与升降配置_core_member_tags.mp4,核心功能/核心06_会员标签：保持期与升降配置_core_member_tags.mp4
+核心功能,会员资料：模板导入与筛选导出,core_member_data,145.46,核心07_会员资料：模板导入与筛选导出_core_member_data.mp4,核心功能/核心07_会员资料：模板导入与筛选导出_core_member_data.mp4
