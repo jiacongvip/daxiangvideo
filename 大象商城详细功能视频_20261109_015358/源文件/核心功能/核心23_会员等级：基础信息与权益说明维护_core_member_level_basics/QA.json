@@ -1,0 +1,36 @@
+{
+  "script_sha256": "9f5a95855da13dd774162341f5ee867d1fd96176370d7c59e7c205b0bac510cb",
+  "voice_sha256": "20fc97cb9cf1a29968c11b9f452314cdeac9697ee639e623c8e8ba20f59cbddc",
+  "id": "core_member_level_basics",
+  "title": "会员等级：基础信息与权益说明维护",
+  "duration": 126.5,
+  "video": "/workspace/daxiang_detailed_series/core/core_member_level_basics/核心23_会员等级：基础信息与权益说明维护_core_member_level_basics.mp4",
+  "bytes": 3033805,
+  "sha256": "14ead9dabf842ce1ec39148280c6cdff23a2466b68be766585cf9bdd6ad5f994",
+  "full_decode_ok": true,
+  "audio_duration": 126.5,
+  "voice_duration": 126.496,
+  "last_speech_boundary": 126.43,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.9429405426879207,
+  "subtitle_count": 19,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅等级基础与内容维护有明确已完成支持；不解决等级折扣/商品权限的版本冲突。",
+    "不宣传自动到期续期、等级自动升降、优惠券赠送、专属商品选择器；后者原报告明确未完成。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

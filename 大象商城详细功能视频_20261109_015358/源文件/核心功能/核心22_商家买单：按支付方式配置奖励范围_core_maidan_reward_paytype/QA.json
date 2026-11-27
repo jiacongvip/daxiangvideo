@@ -1,0 +1,37 @@
+{
+  "script_sha256": "dbc93dfea1292b040e6806680a18c01f7747b516ee2738761d1e8e6b1d4828f8",
+  "voice_sha256": "47fb1a30f00cf1adba9e3f2171aaacc41dfe4db657382f4c959e1e7ac9782574",
+  "id": "core_maidan_reward_paytype",
+  "title": "商家买单：按支付方式配置奖励范围",
+  "duration": 108.20833333333333,
+  "video": "/workspace/daxiang_detailed_series/core/core_maidan_reward_paytype/核心22_商家买单：按支付方式配置奖励范围_core_maidan_reward_paytype.mp4",
+  "bytes": 2602823,
+  "sha256": "f059cde88dba59d3a81046161660232784ea5c012a2d4aa5cd850e8922095740",
+  "full_decode_ok": true,
+  "audio_duration": 108.208,
+  "voice_duration": 108.208,
+  "last_speech_boundary": 108.157,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.4849095168361566,
+  "subtitle_count": 14,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "独立核心配置主题，不包装为买单插件付款/聚合收款码完整业务已核实；maidan插件本批仍hold，并交叉引用本片覆盖的窄配置。",
+    "业务README描述字段、后台步骤和现有发放逻辑，无明确待开发标识；本轮未做真实支付或代码验收。",
+    "不编奖励比例、贡献值黄积分兑换规则、到账时效；仅说明支付方式筛选配置。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

@@ -1,0 +1,36 @@
+{
+  "script_sha256": "87c0e7639d83189b941e7622903d24f557f332f4aa3be0d1fc637b6fcc0c7250",
+  "voice_sha256": "58899334d646cd9bada0cf5e476aaf6a3b570eb1c4b67477e2870760e80d98ea",
+  "id": "core_relation",
+  "title": "会员关系图：查看推荐关系",
+  "duration": 136.75,
+  "video": "/workspace/daxiang_detailed_series/core/core_relation/核心05_会员关系图：查看推荐关系_core_relation.mp4",
+  "bytes": 3183848,
+  "sha256": "7a5b8f1d20e5352b84a03bd6e39ed8b8457008c15c534a6c10ab6a07b0a27fce",
+  "full_decode_ok": true,
+  "audio_duration": 136.75,
+  "voice_duration": 136.712,
+  "last_speech_boundary": 136.663,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.0301850092079885,
+  "subtitle_count": 21,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "只做推荐关系查看，不宣称编辑上级、导出图片、全量展开或分佣权益；这些无完成支持。",
+    "总数口径与最大展开深度的关系需实测；视频不承诺全网或全历史总人数。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

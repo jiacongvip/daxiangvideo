@@ -1,0 +1,36 @@
+{
+  "script_sha256": "10b1094496b153f74f0b114e98ce6fa061188b723f8e0860ababa0ef3e36f0bd",
+  "voice_sha256": "bd31596bfe85d53ef32a1d6a7a8a10b1dda7c182f9e82e69e4d0fda1aabc420c",
+  "id": "core_score_records",
+  "title": "积分明细：筛选查询与导出管理",
+  "duration": 122.91666666666667,
+  "video": "/workspace/daxiang_detailed_series/core/core_score_records/核心30_积分明细：筛选查询与导出管理_core_score_records.mp4",
+  "bytes": 2937211,
+  "sha256": "16c2711169c9819ee31df3dd507b99dfd925c69adde0975905139e44efbe53a5",
+  "full_decode_ok": true,
+  "audio_duration": 122.917,
+  "voice_duration": 122.896,
+  "last_speech_boundary": 122.849,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.0856130987431047,
+  "subtitle_count": 18,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "开发完成待测试报告支持所讲列表配置；不声称已实机验收。",
+    "只说导出，不猜原生xlsx或CSV格式；不扩写类型对应提现规则，不把删除日志当撤销账户变更。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

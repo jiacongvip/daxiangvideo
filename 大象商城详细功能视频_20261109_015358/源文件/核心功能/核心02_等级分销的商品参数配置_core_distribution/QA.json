@@ -1,0 +1,39 @@
+{
+  "script_sha256": "84873ffaf1cebb691ca8bc1ee36fd1b0038711fccd98888390cd2f5bf5156578",
+  "voice_sha256": "773d18c75e755d690ce02b8ba948e31a19198829955eeb2c2f9e6bd2596580c6",
+  "id": "core_distribution",
+  "title": "等级分销的商品参数配置",
+  "duration": 121.375,
+  "video": "/workspace/daxiang_detailed_series/core/core_distribution/核心02_等级分销的商品参数配置_core_distribution.mp4",
+  "bytes": 2848672,
+  "sha256": "d96dab366e202cd13791dd8c142cfae09e57b88d0e484a6f3d56b94ea11b8c1b",
+  "full_decode_ok": true,
+  "audio_duration": 121.375,
+  "voice_duration": 121.368,
+  "last_speech_boundary": 121.329,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.848215611701721,
+  "subtitle_count": 19,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅制作商品配置范围，不宣称已验证佣金结算、打款、退款回退或分红执行",
+    "完整实现/完成总结写前端完成后端待实现；修复完成/最终修复说明补有后台等级加载接口已实现，但功能验证清单仍未勾选",
+    "不将未勾选验收清单当通过；不使用固定层数、收益比例或招募语句",
+    "会员等级创建与分销资格设置本体仍缺独立完成说明"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview",
+  "final_hash_and_decode_recheck": true
+}

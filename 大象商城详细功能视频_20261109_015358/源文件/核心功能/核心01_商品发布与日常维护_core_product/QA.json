@@ -1,0 +1,39 @@
+{
+  "script_sha256": "08513611ba9d57bfffd1dd55c3ffe7fc4a0e7fcf571947fe258637ea4cd56aa3",
+  "voice_sha256": "be4640b39d6c8363850b83155fd2d3d360f55cb667006555455851f7a6942c27",
+  "id": "core_product",
+  "title": "商品发布与日常维护",
+  "duration": 145.125,
+  "video": "/workspace/daxiang_detailed_series/core/core_product/核心01_商品发布与日常维护_core_product.mp4",
+  "bytes": 3301467,
+  "sha256": "a410a68ac56b7b3eecabd6445c34ec5af91366224c80607ec0a341c873fdc031",
+  "full_decode_ok": true,
+  "audio_duration": 145.125,
+  "voice_duration": 145.088,
+  "last_speech_boundary": 145.046,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.3440997421525585,
+  "subtitle_count": 23,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "不展示排序保存：列表说明185-187行明确保存接口待接入",
+    "会员价/折扣权限与SKU手册后续建议存在范围差异，剔除并另列待证",
+    "不宣称视频号同步、导入导出、排队加速等未细化能力",
+    "2025-10-23列表文档称编辑页待开发；2025-10-26分销前端完成报告及SKU使用手册支持后续编辑组件范围，但当前部署仍未验收"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview",
+  "final_hash_and_decode_recheck": true
+}

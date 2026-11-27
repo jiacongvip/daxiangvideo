@@ -1,0 +1,36 @@
+{
+  "script_sha256": "e9644df3a3fba12fa5fbfe686fe3a20fd4e50b006da6c8e150119133cd0ccc13",
+  "voice_sha256": "25ca0451273ffba967eb0b192b672b3c9b7a48440cfbcc6f339934a7e364d22c",
+  "id": "core_commission_order",
+  "title": "佣金明细：查看关联业务订单",
+  "duration": 108.625,
+  "video": "/workspace/daxiang_detailed_series/core/core_commission_order/核心09_佣金明细：查看关联业务订单_core_commission_order.mp4",
+  "bytes": 2538553,
+  "sha256": "4d529412bc225d85f92fd5737b5aac98d554ff711a05a266fd1a300573bc1d6d",
+  "full_decode_ok": true,
+  "audio_duration": 108.625,
+  "voice_duration": 108.592,
+  "last_speech_boundary": 108.523,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -0.40408901472984937,
+  "subtitle_count": 15,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅佣金明细关联订单子功能，不覆盖余额/积分/消费全量明细或提现。",
+    "匹配有金额+时间、分红关联和备注推断，存在误匹配；片中以核对型操作说明真实功能边界，不声称100%自动财务确认。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

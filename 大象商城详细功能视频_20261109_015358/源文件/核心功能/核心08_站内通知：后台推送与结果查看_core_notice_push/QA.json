@@ -1,0 +1,36 @@
+{
+  "script_sha256": "8438ea6b41a0a8f16a48d011700598d2b228368a7f4ee4d091c34763d1533a15",
+  "voice_sha256": "0cf26f32df786d16883a416d75198cc15b2dda8acb76445d28a855d88cba7615",
+  "id": "core_notice_push",
+  "title": "站内通知：后台推送与结果查看",
+  "duration": 143.875,
+  "video": "/workspace/daxiang_detailed_series/core/core_notice_push/核心08_站内通知：后台推送与结果查看_core_notice_push.mp4",
+  "bytes": 3420169,
+  "sha256": "560855216c00cad366f264925ebddad3a1a6b44860190fb6d8f53b419c342715",
+  "full_decode_ok": true,
+  "audio_duration": 143.875,
+  "voice_duration": 143.84,
+  "last_speech_boundary": 143.788,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.8268426248021552,
+  "subtitle_count": 22,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "不宣称所有业务已自动接入；只讲接入统一通知后的正常流程。",
+    "不保证触达率或所有渠道同时送达；不扩写独立短信模板编辑、系统操作日志管理。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

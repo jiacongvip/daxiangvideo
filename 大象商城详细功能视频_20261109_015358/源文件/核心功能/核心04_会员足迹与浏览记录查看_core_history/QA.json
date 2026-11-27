@@ -1,0 +1,39 @@
+{
+  "script_sha256": "3cd1d26d0eb380c26999c5c058fdf90844d731f0240296ffd50aa4cfcfb29fd5",
+  "voice_sha256": "65a7a0bfdbe1c83bb4e6319554f3ea90a27664059ae656698238142d174af410",
+  "id": "core_history",
+  "title": "会员足迹与浏览记录查看",
+  "duration": 123.45833333333333,
+  "video": "/workspace/daxiang_detailed_series/core/core_history/核心04_会员足迹与浏览记录查看_core_history.mp4",
+  "bytes": 2880758,
+  "sha256": "ac3a6d5c1e45a7a203ae776a32da0f47cfb7431f2370c3d0e58c0fa1750e4640",
+  "full_decode_ok": true,
+  "audio_duration": 123.458,
+  "voice_duration": 123.432,
+  "last_speech_boundary": 123.367,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.908541323265022,
+  "subtitle_count": 19,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "不宣称全页面/所有终端采集覆盖；路由接入范围未实测",
+    "不宣称浏览时长精度、后台全量埋点、跨端去重或购买意向评分",
+    "不演示前台会员删除/清空与后台删除权限，现有完成说明没有对应UI操作证明",
+    "数据保留期、隐私告知与授权需业务另核，未放客户片"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview",
+  "final_hash_and_decode_recheck": true
+}

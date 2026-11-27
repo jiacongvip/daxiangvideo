@@ -1,0 +1,36 @@
+{
+  "script_sha256": "7325f2ae1ed10439279b0c4079ffc94120e40fe1aa4524400f4bbe180227addc",
+  "voice_sha256": "33269406cc53e698171921321ec55efa305227475f6d6115b753e9a105e251b3",
+  "id": "core_article_trace",
+  "title": "团长文章：浏览时长与足迹记录",
+  "duration": 102.04166666666667,
+  "video": "/workspace/daxiang_detailed_series/core/core_article_trace/核心29_团长文章：浏览时长与足迹记录_core_article_trace.mp4",
+  "bytes": 2390152,
+  "sha256": "3076ec2e4ca3574e5d814bd70b57a5606f6cee03cb58097510d868b5b02c5195",
+  "full_decode_ok": true,
+  "audio_duration": 102.042,
+  "voice_duration": 102.008,
+  "last_speech_boundary": 101.96,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.939907735098954,
+  "subtitle_count": 15,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅团长带货文章页面；不证明article独立CMS插件迁移完成，不声称普通文章全平台时长采集。",
+    "不展示IP、真实会员身份或虚构阅读成绩；不宣传自动推荐算法或转化归因。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

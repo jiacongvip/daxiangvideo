@@ -1,0 +1,36 @@
+{
+  "script_sha256": "65d83f98e9c7e1fb7cf500e3883a7ae7280369d31fbc583eaa3ba974cd14a739",
+  "voice_sha256": "cbf8da74ac5cfd4d249727bef1e39d95b8c2a74b8d4e3370a880c86a339fa360",
+  "id": "core_seckill_level_price",
+  "title": "秒杀商品：按规格维护会员价",
+  "duration": 127.20833333333333,
+  "video": "/workspace/daxiang_detailed_series/core/core_seckill_level_price/核心25_秒杀商品：按规格维护会员价_core_seckill_level_price.mp4",
+  "bytes": 3147548,
+  "sha256": "e2c7cc464c984ede2b009e9ed50c0187d69ba144f6e45aef1b2d11a53f1c1eb8",
+  "full_decode_ok": true,
+  "audio_duration": 127.208,
+  "voice_duration": 127.168,
+  "last_speech_boundary": 127.103,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.1926065969733384,
+  "subtitle_count": 20,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅秒杀商品配置；不是普通商品SKU会员价全链路已完成，不解决原核心等级折扣/权限冲突。",
+    "不宣传用户结算自动匹配细则、最低价选择、促销叠加或秒杀插件全部业务已实现。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

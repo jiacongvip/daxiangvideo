@@ -1,0 +1,37 @@
+{
+  "script_sha256": "0808bf815babc92a8ec1177e54f980ad7e284e46d73860f9e3ea14ac7d21590b",
+  "voice_sha256": "81405b8e1da52ced50bd11a1c321d07efb92ff49d36926238402a4774450b1db",
+  "id": "core_balance_receipt",
+  "title": "余额提现：微信确认收款与状态回查",
+  "duration": 111.91666666666667,
+  "video": "/workspace/daxiang_detailed_series/core/core_balance_receipt/核心21_余额提现：微信确认收款与状态回查_core_balance_receipt.mp4",
+  "bytes": 2625292,
+  "sha256": "e432b3b12bdb5d19f7dbbf60c018f33fa533a7bf03cbe80ca828e7d34114cde4",
+  "full_decode_ok": true,
+  "audio_duration": 111.917,
+  "voice_duration": 111.88,
+  "last_speech_boundary": 111.829,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.5058025195346447,
+  "subtitle_count": 16,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "业务功能说明测试要点已勾选；源描述旧前端tpshopqianduan路径，未核对当前部署分支，只介绍文档支持的微信确认与状态流程，不讲当前线上菜单布局或已上线。",
+    "范围只为余额提现的用户确认及状态回查，不讲未有资料的申请额度、手续费、新旧通道自动选择等规则；不是整套提现模块已全面覆盖。",
+    "不保证真实到账时点或支付机构处理成功，未执行真实资金操作。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

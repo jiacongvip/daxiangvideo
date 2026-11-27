@@ -1,0 +1,36 @@
+{
+  "script_sha256": "57e175330f52071db83202de7a4f0ee491d016f6c4973a98926387d5a9bacf6c",
+  "voice_sha256": "55283d53bc5dfeabc56b881ad586573b36d97f3be753e12a75f899868052e9af",
+  "id": "zhuibaoagent",
+  "title": "一键追爆AI：图文任务组素材接入",
+  "duration": 186.125,
+  "video": "/workspace/daxiang_detailed_series/plugins/198_zhuibaoagent/198_一键追爆AI：图文任务组素材接入_zhuibaoagent.mp4",
+  "bytes": 4551087,
+  "sha256": "d1c56eca8bb81b7bae31ada547881ef6485f380cef4282749b0f819ae6e9d83d",
+  "full_decode_ok": true,
+  "audio_duration": 186.125,
+  "voice_duration": 186.112,
+  "last_speech_boundary": 186.067,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.386606187981229,
+  "subtitle_count": 27,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅图文任务拉取/任务组接入子范围有接口对接业务说明，不推广一键追爆全插件创建生成/计费/全平台发布能力。",
+    "客户端对接建议不等于已有客户端自动入库/推送/发布，片中按接入人员核对操作讲述；不展示凭据、真实账号或外部素材。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

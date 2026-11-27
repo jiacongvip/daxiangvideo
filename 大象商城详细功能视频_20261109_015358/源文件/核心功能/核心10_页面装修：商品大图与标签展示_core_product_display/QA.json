@@ -1,0 +1,36 @@
+{
+  "script_sha256": "a0918d4ccf0bcfd2f5cc99b9b2a37bf07c340ead3559eb561c98e3f40795d630",
+  "voice_sha256": "29048919006789ee8f12551443a07fdb3ce303ff0247210f11e9f9016b12ddd0",
+  "id": "core_product_display",
+  "title": "页面装修：商品大图与标签展示",
+  "duration": 144.75,
+  "video": "/workspace/daxiang_detailed_series/core/core_product_display/核心10_页面装修：商品大图与标签展示_core_product_display.mp4",
+  "bytes": 3325658,
+  "sha256": "dbe2b50609c0e2c02db40cb5c445b928a0d6a31450e3dcf217c8ae860b379d36",
+  "full_decode_ok": true,
+  "audio_duration": 144.75,
+  "voice_duration": 144.728,
+  "last_speech_boundary": 144.681,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.746101401756369,
+  "subtitle_count": 22,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "只讲明确已完成的单排大图与配置；双排/三排新版优化、瀑布流等路线图待做，不声称已完成。",
+    "跟买氛围头像和人数来源未有充分真实数据证据，不展示或宣传；不伪造购买量、评价和实际UI。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

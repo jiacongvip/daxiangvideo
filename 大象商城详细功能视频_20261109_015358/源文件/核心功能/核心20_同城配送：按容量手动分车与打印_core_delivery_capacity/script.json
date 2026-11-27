@@ -1,0 +1,114 @@
+{
+  "id": "core_delivery_capacity",
+  "title": "同城配送：按容量手动分车与打印",
+  "index": 220,
+  "kind": "core",
+  "output_filename": "核心20_同城配送：按容量手动分车与打印_core_delivery_capacity.mp4",
+  "chapters": [
+    {
+      "heading": "同一配送员当天的货，一车装不下",
+      "role": "演示：分车配货",
+      "points": [
+        "先设容量",
+        "待配货批次手动拆",
+        "各车次独立打印"
+      ],
+      "narration": "这里是大象商城。用一组演示待配货订单，介绍按容量手动分车。管理员先设置每车容量，再从待配货批次执行分车，把同一配送员当天的订单组织为多个车次，仓库按每个车次独立打印核对。",
+      "source": "b06_delivery_capacity.md:1-12;b06_delivery_capacity.md:33-35",
+      "visual": "intro",
+      "phase": 0
+    },
+    {
+      "heading": "最大单数和最大件数，是两个上限",
+      "role": "配送管理员",
+      "points": [
+        "每车最大单数",
+        "每车最大件数",
+        "零表示不限"
+      ],
+      "narration": "开启批次后，可以分别配置每车最大订单数和最大件数，零表示对应口径不限。单数限制接收几笔订单，件数限制这批商品有多少件；两项同时设置时，任一上限超出就进入新车次。",
+      "source": "b06_delivery_capacity.md:7-10;b06_delivery_capacity.md:25-28",
+      "visual": "limits",
+      "phase": 0
+    },
+    {
+      "heading": "分车由人触发，只处理待配货",
+      "role": "仓库与配送管理员",
+      "points": [
+        "选择待配货批次",
+        "确认分车",
+        "非待配货禁止拆"
+      ],
+      "narration": "在配货批次列表找到待配货批次，点击分车并确认。系统按订单编号升序稳定装入各车次，下一笔放入会超出任一上限时，另开新车次。已经配货或已完成的批次不能再分车，不会因为容量参数变更就自动拆掉已履约批次。",
+      "source": "b06_delivery_capacity.md:7-12;b06_delivery_capacity.md:25-28",
+      "visual": "split",
+      "phase": 1
+    },
+    {
+      "heading": "单张超大订单，单独占车次",
+      "role": "仓库核对人员",
+      "points": [
+        "整张订单不丢弃",
+        "单独车次",
+        "继续核对商品"
+      ],
+      "narration": "如果一张订单自身已经超过设置上限，它会单独占用一个车次，不会被丢掉，也不把一张订单随意拆成多个客户订单。仓库需要核对这个车次的实际商品与装载条件；软件容量分组不是车辆安全装载证明。",
+      "source": "b06_delivery_capacity.md:8-10",
+      "visual": "oversize",
+      "phase": 2
+    },
+    {
+      "heading": "每个车次，独立标识和打印",
+      "role": "仓库与配送员",
+      "points": [
+        "配送日与配送员",
+        "车次序号",
+        "汇总单与配送清单"
+      ],
+      "narration": "分车后批次标识加入车次序号，按配送日、配送员和车次区分。仓库从对应批次打印配货汇总单，配送员拿该车次配送清单。打印按批次处理，不把其中一车的单据当作当天所有车的完整清单。",
+      "source": "b06_delivery_capacity.md:14-17;b06_delivery_capacity.md:33-35",
+      "visual": "print",
+      "phase": 3
+    },
+    {
+      "heading": "重新排期，会回到首车次",
+      "role": "配送管理员",
+      "points": [
+        "改期重归组",
+        "回首车次",
+        "需要时再次分车"
+      ],
+      "narration": "重新配送排期，会把订单归回首车次，需要时再次手动分车。排期改变日期和分组，分车按当前容量组织车次，是两次不同操作。改期后先检查归组，再核对是否需要重新执行分车。",
+      "source": "b06_delivery_capacity.md:33-35",
+      "visual": "reschedule",
+      "phase": 3
+    },
+    {
+      "heading": "容量、拆分与单据一起核对",
+      "role": "功能回顾",
+      "points": [
+        "先配容量",
+        "手动分车",
+        "按车次打印回查"
+      ],
+      "narration": "这次演示先配置单数和件数上限，从待配货批次分车，单独处理超大订单，再按车次打印；改期后重新核对分组。大象商城手动分车让配送日、人员和装载批次对应清楚，不把分组算法当成路线或载重自动优化。",
+      "source": "b06_delivery_capacity.md:3-17;b06_delivery_capacity.md:33-35",
+      "visual": "close",
+      "phase": 3
+    }
+  ],
+  "phases": [
+    "配置容量",
+    "手动分车",
+    "异常订单",
+    "车次打印"
+  ],
+  "accent": "#B9C5C9",
+  "gaps": [
+    "只按单数/件数拆分，未支持体积重量容量、路径最优或实际车辆载重安全评估；不宣传这些能力。",
+    "只对待配货批次手动触发；改期回首车次保留为重要业务边界，不包装自动智能派车。"
+  ],
+  "parent_theme": "core_delivery",
+  "customer_scope": "同城配送：按容量手动分车与打印",
+  "visual_revision": "final_audit_clockwise_recap_1_2_3_4"
+}

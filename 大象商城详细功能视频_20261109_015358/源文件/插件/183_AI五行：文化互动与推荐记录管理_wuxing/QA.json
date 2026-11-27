@@ -1,0 +1,37 @@
+{
+  "script_sha256": "a8e5dc321db7b1155e0fce7893041ef70b39c131d61c97187725dcf11bbdcd7f",
+  "voice_sha256": "812b875dce2923776aa35a4d4b91d04b0ca17801a4b4a360d165e16298e54692",
+  "id": "wuxing",
+  "title": "AI五行：文化互动与推荐记录管理",
+  "duration": 188.66666666666666,
+  "video": "/workspace/daxiang_detailed_series/plugins/183_wuxing/183_AI五行：文化互动与推荐记录管理_wuxing.mp4",
+  "bytes": 4545420,
+  "sha256": "46ed423d4ea9604f70b22f68c614e2568f08539d7b4b77887bee0739f65cc72d",
+  "full_decode_ok": true,
+  "audio_duration": 188.667,
+  "voice_duration": 188.656,
+  "last_speech_boundary": 188.615,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.84608769376586,
+  "subtitle_count": 23,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅文化娱乐，不宣称科学人格测评、命运预测准确、健康诊断、治疗或商品改运功效。",
+    "推荐类型采用实施报告，商品选择按后续2025-12-19商品/预约服务完善说明；旧报告课程/短视频具体最新入口未展开。",
+    "正式Coze凭据可用性/收费细则/工作流内容与效果未核，不承诺外部服务永远可用或给出付费数字。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

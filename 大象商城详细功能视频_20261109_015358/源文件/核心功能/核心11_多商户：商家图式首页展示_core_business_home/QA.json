@@ -1,0 +1,36 @@
+{
+  "script_sha256": "9f683cd2efa458de2cb1c7107211dd7b44efcf99f895050daae8b1495362a1a8",
+  "voice_sha256": "153caf1cdbcc703462f58677de1ed700687fe385713c3aebf3ac8666eecee4ca",
+  "id": "core_business_home",
+  "title": "多商户：商家图式首页展示",
+  "duration": 156.95833333333334,
+  "video": "/workspace/daxiang_detailed_series/core/core_business_home/核心11_多商户：商家图式首页展示_core_business_home.mp4",
+  "bytes": 3630821,
+  "sha256": "ec8fa141eb04376c396d5c18bbab8b28ed7756edd69ac501dee7ec64a71bf562",
+  "full_decode_ok": true,
+  "audio_duration": 156.958,
+  "voice_duration": 156.928,
+  "last_speech_boundary": 156.881,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.814040302116851,
+  "subtitle_count": 22,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅商家首页模板2，不宣称多商户订单、商品审核或结算模块整体已验收。",
+    "不使用真实门店照片/评分/成交数据，所有图形为原创示意；排队免单比例标签不作收益宣传。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

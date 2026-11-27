@@ -1,0 +1,36 @@
+{
+  "script_sha256": "d42553e6544186b5e1dc17fc80662f6659eccd69301086772e657cfa3975eafd",
+  "voice_sha256": "7754a7bfefc733af55928739bb475515c4585e417c954121913ba584a752cf8f",
+  "id": "yuyue",
+  "title": "预约服务：项目预约到派单核销",
+  "duration": 229.125,
+  "video": "/workspace/daxiang_detailed_series/plugins/192_yuyue/192_预约服务：项目预约到派单核销_yuyue.mp4",
+  "bytes": 5489367,
+  "sha256": "d8e353d0d86fbb2b8f237972bb89411bb951746c5b62e5ef0d5280b654a4b05c",
+  "full_decode_ok": true,
+  "audio_duration": 229.125,
+  "voice_duration": 229.088,
+  "last_speech_boundary": 229.029,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.3580066673255475,
+  "subtitle_count": 31,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "不编自动排班算法、冲突容量、位置定位、退款资格比例时效、核销权限次数、套餐有效期转赠或外部自动打款。",
+    "与周期服务/预售券/陪诊各独立业务插件区分；本片完整介绍预约主插件操作顺序，不外推其他插件场次规则。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

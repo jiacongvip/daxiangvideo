@@ -1,0 +1,128 @@
+{
+  "id": "core_register_jiedian",
+  "title": "会员注册：推荐人与接点人校验",
+  "index": 216,
+  "kind": "core",
+  "output_filename": "核心16_会员注册：推荐人与接点人校验_core_register_jiedian.mp4",
+  "chapters": [
+    {
+      "heading": "注册填写，先分清两种关系",
+      "role": "演示：注册关系配置",
+      "points": [
+        "推荐关系",
+        "接点关系",
+        "填写与校验"
+      ],
+      "narration": "这里是大象商城。用一次演示注册填写，介绍推荐人与接点人的区别。推荐人表示邀请来源，接点人表示接点网中的安置关系；后台分别配置填写方式，用户提交时校验目标，后续保留关系记录。",
+      "source": "b05_core_registration.md:8-15;b05_core_registration_done.md:28-55",
+      "visual": "intro",
+      "phase": 0
+    },
+    {
+      "heading": "关闭、选填和强制，是不同配置",
+      "role": "后台配置人员",
+      "points": [
+        "关闭填写",
+        "选填",
+        "强制填写"
+      ],
+      "narration": "后台可以把注册接点人设置为关闭、选填或强制填写，也能设置默认同邀请人。关闭的是注册框的填写配置，不代表账号一定没有接点关系；已有邀请上下文仍可能按系统兜底进入安置处理。",
+      "source": "b05_core_registration_done.md:32-55",
+      "visual": "settings",
+      "phase": 0
+    },
+    {
+      "heading": "默认同邀请人，可以再手动修改",
+      "role": "注册用户",
+      "points": [
+        "默认预填",
+        "点击修改",
+        "清空后重新检查"
+      ],
+      "narration": "有邀请上下文且开启默认同邀请人时，页面预填接点信息，并提供点击修改。手动修改后按填写内容提交。强制填写时，没有邀请且未填，或手动清空，都需要先补充，不直接带着空值继续。",
+      "source": "b05_core_registration.md:88-95",
+      "visual": "fill",
+      "phase": 1
+    },
+    {
+      "heading": "填写标识，解析对应会员",
+      "role": "注册用户与系统",
+      "points": [
+        "会员编号",
+        "手机号",
+        "邀请码"
+      ],
+      "narration": "接点填写兼容会员编号、手机号或邀请码，按当前邀请标识类型解析。这里选的是具体会员，不是随意创建一条新人物信息。提交后先解析目标，再按相关条件做检查，不把输入框接受文字当成已经关联成功。",
+      "source": "b05_core_registration.md:25-43",
+      "visual": "resolve",
+      "phase": 1
+    },
+    {
+      "heading": "有推荐人且手填时，检查接点线下",
+      "role": "后台配置与注册用户",
+      "points": [
+        "接点人是推荐人",
+        "位于其接点线下",
+        "跨线则拦截"
+      ],
+      "narration": "有推荐人并手填接点人时，目标必须是推荐人本人，或者位于推荐人的接点网线下，否则拦截。检查使用接点关系链，不是沿普通推荐关系链判断。同样是团队，两套关系的用途不能混为一谈。",
+      "source": "b05_core_registration_done.md:15-24;b05_core_registration_done.md:63-71",
+      "visual": "line",
+      "phase": 2
+    },
+    {
+      "heading": "没有推荐人，不执行这项线下检查",
+      "role": "注册用户与后台",
+      "points": [
+        "无推荐上下文",
+        "不做线下范围判断",
+        "其他检查仍分开"
+      ],
+      "narration": "没有推荐人时，没有根节点可对照，因此不执行这项线下范围检查。这不等于任何无效标识都能通过；目标解析与其他检查仍分别处理。默认同邀请人的情况，本身符合这项范围关系。",
+      "source": "b05_core_registration_done.md:19-24;b05_core_registration.md:69-73",
+      "visual": "conditions",
+      "phase": 2
+    },
+    {
+      "heading": "通过校验后，按配置写入实际关系",
+      "role": "后台核对人员",
+      "points": [
+        "先校验再建号",
+        "继续安置处理",
+        "保留关系记录"
+      ],
+      "narration": "注册先解析并校验，再创建账号，按平台接点与安置配置处理实际关系，并记录流水。填写目标不直接等于最终安置位置。后台新增、编辑和接点修改审核也接入相应校验，避免不同入口把同一关系规则绕开。",
+      "source": "b05_core_registration.md:40-45;b05_core_registration.md:61-84",
+      "visual": "record",
+      "phase": 3
+    },
+    {
+      "heading": "配置、填写、校验、记录",
+      "role": "功能回顾",
+      "points": [
+        "区分两套关系",
+        "按条件填写",
+        "核对实际结果"
+      ],
+      "narration": "这次注册演示先分清邀请来源与接点安置，再配置选填或强制、默认预填和手动修改，通过对应线下范围检查后记录实际关系。大象商城把注册填写与关系校验连接起来，不据此推断任何奖励或晋级结果。",
+      "source": "b05_core_registration.md:8-15;b05_core_registration.md:88-95;b05_core_registration_done.md:63-71",
+      "visual": "close",
+      "phase": 3
+    }
+  ],
+  "phases": [
+    "配置关系",
+    "填写与解析",
+    "线下检查",
+    "安置与记录"
+  ],
+  "accent": "#B6C7C0",
+  "gaps": [
+    "仅注册接点配置与已落地校验；不把core_login整体登录/注册协议/资料审核标完成。",
+    "reg_jiedian_always_show前端未真正参与显隐，不宣传；不推断新旧滑落、大小区或晋级算法。",
+    "注册无mid时的成环检查有路径差异，不宣称所有入口都同样执行每一种校验。"
+  ],
+  "parent_theme": "core_login",
+  "customer_scope": "会员注册：推荐人与接点人校验",
+  "visual_revision": "final_audit_clockwise_recap_1_2_3_4"
+}

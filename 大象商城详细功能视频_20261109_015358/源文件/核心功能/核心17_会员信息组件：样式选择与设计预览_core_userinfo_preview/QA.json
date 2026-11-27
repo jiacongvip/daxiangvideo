@@ -1,0 +1,36 @@
+{
+  "script_sha256": "9d713fcca8ec46db9ef5f2206e18154de24aa6815c641e6dd81994371ab3ac69",
+  "voice_sha256": "9d586a56122294f2ef10b0876623da336a2e7efc56ac7659c974f5f73b3a9f57",
+  "id": "core_userinfo_preview",
+  "title": "会员信息组件：样式选择与设计预览",
+  "duration": 108.625,
+  "video": "/workspace/daxiang_detailed_series/core/core_userinfo_preview/核心17_会员信息组件：样式选择与设计预览_core_userinfo_preview.mp4",
+  "bytes": 2558465,
+  "sha256": "3ac18ad470533bb84786c4540a8b0da91616c6a23966cca7f591b926053b83fa",
+  "full_decode_ok": true,
+  "audio_duration": 108.625,
+  "voice_duration": 108.592,
+  "last_speech_boundary": 108.54,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -3.6457642250298177,
+  "subtitle_count": 15,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅会员信息组件样式与预览，来源是已完成同步修复与验收操作建议，不宣称当前站点百分之百一致。",
+    "不将升级卡片、订单栏与会员码扩写为新的升级/订单/核销能力；未仿造真实产品UI。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

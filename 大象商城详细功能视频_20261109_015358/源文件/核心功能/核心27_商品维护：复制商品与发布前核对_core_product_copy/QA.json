@@ -1,0 +1,36 @@
+{
+  "script_sha256": "04cdb1592cc2b332d207d1628d807b9d8af0c341dc50cfda166483e3e14d6153",
+  "voice_sha256": "329d2fe206f4f13119f7dce0d3151708d1f3eba0dfbd8df2be7ee969bd5fb75f",
+  "id": "core_product_copy",
+  "title": "商品维护：复制商品与发布前核对",
+  "duration": 102.125,
+  "video": "/workspace/daxiang_detailed_series/core/core_product_copy/核心27_商品维护：复制商品与发布前核对_core_product_copy.mp4",
+  "bytes": 2428526,
+  "sha256": "4cccf98ea53b61725714948dda8e0524c56bca91715ba17caf174e92659d1ddc",
+  "full_decode_ok": true,
+  "audio_duration": 102.125,
+  "voice_duration": 102.104,
+  "last_speech_boundary": 102.055,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -3.54468182583723,
+  "subtitle_count": 15,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅商品复制与编辑状态子范围；不承诺库存、销量、订单、外部素材关联的所有复制字段。",
+    "完成说明写已修复，但验证清单未实机完成；不宣传已上线验收或跨应用任意复制。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

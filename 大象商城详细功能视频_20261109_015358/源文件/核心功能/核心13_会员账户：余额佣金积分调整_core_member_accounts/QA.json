@@ -1,0 +1,36 @@
+{
+  "script_sha256": "73df8d2a27859b702351a8b063558c82af114d0ff634f1153eea3162eac7c60d",
+  "voice_sha256": "3783bc87801069f57a5db205810fec930485c596001d97f95edd72004ea5fae3",
+  "id": "core_member_accounts",
+  "title": "会员账户：余额佣金积分调整",
+  "duration": 128.95833333333334,
+  "video": "/workspace/daxiang_detailed_series/core/core_member_accounts/核心13_会员账户：余额佣金积分调整_core_member_accounts.mp4",
+  "bytes": 3045901,
+  "sha256": "42523294b60f568897afcf5b4cdb26969cd6978db589fd82d4974d8863b78fb1",
+  "full_decode_ok": true,
+  "audio_duration": 128.958,
+  "voice_duration": 128.928,
+  "last_speech_boundary": 128.876,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.802181549497373,
+  "subtitle_count": 20,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅已描述的账户调整与日志生成；终极总结的记录列表跳转为TODO预留，不宣传可从操作台直达全量明细。",
+    "不涉及自动审批、实收转账、提现、互转、收益或到账保障。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

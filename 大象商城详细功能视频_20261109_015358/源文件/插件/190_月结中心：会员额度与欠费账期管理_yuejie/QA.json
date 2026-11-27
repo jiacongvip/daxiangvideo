@@ -1,0 +1,36 @@
+{
+  "script_sha256": "5d9776400954bdc10b049f6de064cf431902f1800e0a0e59d6a1d73ae7de428c",
+  "voice_sha256": "3095156ff328ec3a24cf42432d44258084fe79322ce3aedb36df75280c48e611",
+  "id": "yuejie",
+  "title": "月结中心：会员额度与欠费账期管理",
+  "duration": 141.08333333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/190_yuejie/190_月结中心：会员额度与欠费账期管理_yuejie.mp4",
+  "bytes": 3365062,
+  "sha256": "969f38726c4b2c6d07bc025cf1b524df96f21c9d83fbe572107f56afe2f4ce7c",
+  "full_decode_ok": true,
+  "audio_duration": 141.083,
+  "voice_duration": 141.048,
+  "last_speech_boundary": 140.998,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.2828610356372843,
+  "subtitle_count": 20,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "后台已插件化，但支付创建/成功记账仍由商城核心承载，不宣传插件独立改造完所有支付链路。",
+    "无信用自动评分、银行授信、催收、自动还款、具体账期日、额度算法或到账保证的依据，不扩展。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

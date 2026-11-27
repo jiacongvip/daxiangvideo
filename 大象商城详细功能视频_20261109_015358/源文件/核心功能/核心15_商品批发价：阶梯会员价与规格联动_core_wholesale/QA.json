@@ -1,0 +1,37 @@
+{
+  "script_sha256": "00afa4a9f39d848fd643eb9140e415d55bfa6167ba51bfcdb42adb46479c6e94",
+  "voice_sha256": "60ca23999ba1cdc4d283a590c1f12b49442b38ce1b08dd9d2b2c8283eee7dce8",
+  "id": "core_wholesale",
+  "title": "商品批发价：阶梯会员价与规格联动",
+  "duration": 156.91666666666666,
+  "video": "/workspace/daxiang_detailed_series/core/core_wholesale/核心15_商品批发价：阶梯会员价与规格联动_core_wholesale.mp4",
+  "bytes": 3767296,
+  "sha256": "e8c42aa95f349d6751e60806cc6f59e8995ffa516feede4f14b52c2e95b6b858",
+  "full_decode_ok": true,
+  "audio_duration": 156.917,
+  "voice_duration": 156.904,
+  "last_speech_boundary": 156.853,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.8240926035972749,
+  "subtitle_count": 23,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "不是满减/满赠主题，不将core_discount标已完成。",
+    "详情主面板随规格切换、Layui每规格弹窗、后台订单快照列均列未做，不宣传；仅Vue已完成配置范围。",
+    "来源摘录省略运维命令示例，原业务行号保留；不读取或使用任何环境参数。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

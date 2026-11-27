@@ -1,0 +1,35 @@
+{
+  "script_sha256": "1f17594c35b00d9cf92bae896756d3a2f99dd6bd9a3d1a60671ae2d9f3c09859",
+  "voice_sha256": "4055b9a8ab05aa7e5a4e02c2ad787eb8a80c4f1b617989ca292a11e7027398f5",
+  "id": "core_member_dashboard",
+  "title": "会员运营：筛选与统计面板",
+  "duration": 130.04166666666666,
+  "video": "/workspace/daxiang_detailed_series/core/core_member_dashboard/核心14_会员运营：筛选与统计面板_core_member_dashboard.mp4",
+  "bytes": 3078984,
+  "sha256": "d3536b374c65056026b586e1d1d84661ed6bd4598a94241a10a643f952626d31",
+  "full_decode_ok": true,
+  "audio_duration": 130.042,
+  "voice_duration": 130.032,
+  "last_speech_boundary": 129.978,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -3.1670207709592613,
+  "subtitle_count": 20,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "无来源渠道效果归因、销售收入或实际用户量承诺；不重复标签自动升降、导入导出或关系图影片。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

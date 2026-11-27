@@ -1,0 +1,37 @@
+{
+  "script_sha256": "8f92f64a5a42185bc3a247602fa5fbfa1d5b70f719ddb7182a82120444cc9673",
+  "voice_sha256": "393e5b58b3ba369fb32459fd2f6bb12efeead0a3c1f9dd665a1b1bd72828c005",
+  "id": "zichanfenqi",
+  "title": "资产分期：活动转化计划与会员额度",
+  "duration": 225.54166666666666,
+  "video": "/workspace/daxiang_detailed_series/plugins/199_zichanfenqi/199_资产分期：活动转化计划与会员额度_zichanfenqi.mp4",
+  "bytes": 5615896,
+  "sha256": "db339d8856b148a4419864fa84be15331080342dbb9106b85cd15f6b2f10382c",
+  "full_decode_ok": true,
+  "audio_duration": 225.542,
+  "voice_duration": 225.528,
+  "last_speech_boundary": 225.496,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.5808771367732923,
+  "subtitle_count": 29,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "范围为已实施贡献值/会员额度及现有计划日志；按周汇总团队极差只有开发确认进入实施，未讲周结算已可用。",
+    "不演示生成倍数产生收益、保本或现金兑付，不进行真实转化/资金操作；奖励只日志分工，不以多层收入案例推广。",
+    "已实施待上线验证为内部状态，客户不说验收或上线已完成；不把方案与测试清单当已验收。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

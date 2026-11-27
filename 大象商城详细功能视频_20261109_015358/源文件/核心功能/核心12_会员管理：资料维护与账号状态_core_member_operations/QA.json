@@ -1,0 +1,36 @@
+{
+  "script_sha256": "8c7e8c98e3887df1dd15230e68256ed901fed817713b3aaed5497fdd2c0deb3a",
+  "voice_sha256": "584bb55b3573f013e4611d05e57aa69abae697338c962144f15601176444bed3",
+  "id": "core_member_operations",
+  "title": "会员管理：资料维护与账号状态",
+  "duration": 125.0,
+  "video": "/workspace/daxiang_detailed_series/core/core_member_operations/核心12_会员管理：资料维护与账号状态_core_member_operations.mp4",
+  "bytes": 2913798,
+  "sha256": "5731185c523742ab2b573576f8bc7430b60f4b588a12888a7131ba4105dad898",
+  "full_decode_ok": true,
+  "audio_duration": 125.0,
+  "voice_duration": 124.992,
+  "last_speech_boundary": 124.921,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.897035678571629,
+  "subtitle_count": 19,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "不扩写会员密码重置/权限审批；手工等级字段与自动升级规则区分。",
+    "不示范预留的会员记录跳转入口。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

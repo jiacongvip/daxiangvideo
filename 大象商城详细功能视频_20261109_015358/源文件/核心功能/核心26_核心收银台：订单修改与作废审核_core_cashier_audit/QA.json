@@ -1,0 +1,37 @@
+{
+  "script_sha256": "2237fe427e8752aa386f0870715d84525ad905121ddc08edf4498cab6a3c43e8",
+  "voice_sha256": "a39db699e2135d25ae6cad2b6b19afea08aba96974abd9f24ae77b43b98d8cfb",
+  "id": "core_cashier_audit",
+  "title": "核心收银台：订单修改与作废审核",
+  "duration": 126.33333333333333,
+  "video": "/workspace/daxiang_detailed_series/core/core_cashier_audit/核心26_核心收银台：订单修改与作废审核_core_cashier_audit.mp4",
+  "bytes": 3069559,
+  "sha256": "a7c98ea26be89ed268cc0c9085355d3df06e19dc916e404a2286465aea7ade75",
+  "full_decode_ok": true,
+  "audio_duration": 126.333,
+  "voice_duration": 126.304,
+  "last_speech_boundary": 126.244,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.5664622395921648,
+  "subtitle_count": 19,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "这是历史核心收银台业务子功能，不是cashier起步版插件已经接通核心POS。cashier插件仍hold。",
+    "修改审核状态描述在文档有个别与作废混用，片中仅说执行对应操作，不承诺整单返库存或自动退款等细节。",
+    "不覆盖真实收款、支付回调、交班、卡项、提现或支付到账。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

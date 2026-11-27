@@ -1,0 +1,36 @@
+{
+  "script_sha256": "280e40525ef9ea33086cc75aba9f5f817c2ba5fbd45257fa7aca74a22810dbbe",
+  "voice_sha256": "55651e63d43fbca99fd4e6fdee2f7ac4cc6f29d93e5d6b5ff203fe0e1cccf50f",
+  "id": "core_refund_process",
+  "title": "普通商品售后：退款申请与审核处理",
+  "duration": 153.54166666666666,
+  "video": "/workspace/daxiang_detailed_series/core/core_refund_process/核心24_普通商品售后：退款申请与审核处理_core_refund_process.mp4",
+  "bytes": 3741015,
+  "sha256": "e7b46e2f185aabff047493f3fddf000712c2887ed35dedd741ba420105917a39",
+  "full_decode_ok": true,
+  "audio_duration": 153.542,
+  "voice_duration": 153.504,
+  "last_speech_boundary": 153.456,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.0075784521935065,
+  "subtitle_count": 22,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅普通商品退款子范围；完整退货物流、退货设置、其他商品类型、支付通道到账时间不在本片。",
+    "依据业务逻辑文档而非代码检查；不扩写自动秒退、退款成功率或所有前端版本一致。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

@@ -1,0 +1,36 @@
+{
+  "script_sha256": "c41e0cefd781c8d3543554158c3b1e635a0d5a5094b201f8bd68ee8154228b58",
+  "voice_sha256": "a923f4d8209af9c002a3431b5bb053606e736a604deae00ab18d551c553cfa90",
+  "id": "core_delivery_capacity",
+  "title": "同城配送：按容量手动分车与打印",
+  "duration": 128.20833333333334,
+  "video": "/workspace/daxiang_detailed_series/core/core_delivery_capacity/核心20_同城配送：按容量手动分车与打印_core_delivery_capacity.mp4",
+  "bytes": 3012224,
+  "sha256": "9cd14b30d21a1547417ff4be5e567c292881904b34421c1a6f2e293c1c7c3dd0",
+  "full_decode_ok": true,
+  "audio_duration": 128.208,
+  "voice_duration": 128.184,
+  "last_speech_boundary": 128.122,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.7426627971496187,
+  "subtitle_count": 18,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "只按单数/件数拆分，未支持体积重量容量、路径最优或实际车辆载重安全评估；不宣传这些能力。",
+    "只对待配货批次手动触发；改期回首车次保留为重要业务边界，不包装自动智能派车。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

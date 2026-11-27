@@ -1,0 +1,37 @@
+{
+  "script_sha256": "63d295bb7546edc6f3e329a9eb3b57e57c71a989a6bb02d3a4e9d6a19658bdf1",
+  "voice_sha256": "5711970e6ad6a0abfbb8f93c9b276e3d6e3538760f683f51f7b22dc5e1b49f6f",
+  "id": "core_delivery_day",
+  "title": "同城配送：配送日批次与配货送达",
+  "duration": 145.75,
+  "video": "/workspace/daxiang_detailed_series/core/core_delivery_day/核心19_同城配送：配送日批次与配货送达_core_delivery_day.mp4",
+  "bytes": 3439942,
+  "sha256": "262e5b1a2dbd78156962d262b86769c9283e847a4ff4d9433f7cc1d262fc320c",
+  "full_decode_ok": true,
+  "audio_duration": 145.75,
+  "voice_duration": 145.736,
+  "last_speech_boundary": 145.689,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.9681970329123188,
+  "subtitle_count": 19,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "旧流程说明“一人一日一批次”已被后续分车文档扩展，影片交叉修正为可多车次，不宣称旧唯一规则仍固定。",
+    "不宣传真实物流时效、定位采集覆盖、强制送达必可信或库存/提成全链路已验收。",
+    "收货人信息只用角色与抽象纸单，不用真实个人资料；与分车/专属派单分片去重。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

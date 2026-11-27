@@ -1,0 +1,37 @@
+{
+  "script_sha256": "6cd1beb586dea762e296258c9086181f597d15d8305e6bb4d775dd33ac41e815",
+  "voice_sha256": "37cf19d1416e58654708e1d0a8d749a0f4c9884ff7523b82504a5d7454a5913f",
+  "id": "core_member_tags",
+  "title": "会员标签：保持期与升降配置",
+  "duration": 164.95833333333334,
+  "video": "/workspace/daxiang_detailed_series/core/core_member_tags/核心06_会员标签：保持期与升降配置_core_member_tags.mp4",
+  "bytes": 3840477,
+  "sha256": "3c69a8ef4ca0406f2919bcaa116d94b5d79980ca51b2be7c526d573a44c20ce6",
+  "full_decode_ok": true,
+  "audio_duration": 164.958,
+  "voice_duration": 164.944,
+  "last_speech_boundary": 164.886,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.7489705557811954,
+  "subtitle_count": 26,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "原文连续持有天数与连续满足条件用语并存，不扩写中断/重置的精确计天算法。",
+    "自动等级升级仍hold，本主题是标签系统，不混淆会员等级AND/OR升级规则。",
+    "每日自动检查需任务正确配置；不声明当前生产任务已经部署。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

@@ -1,0 +1,37 @@
+{
+  "script_sha256": "0828489e75a3f3e927e1028206fded027ded9fca9b8e39e6a2cc20bf8c9e940d",
+  "voice_sha256": "03df455962cebd64a5152a59f6c1ec31cb7c1fced25be619ecd425b1e8a6b87d",
+  "id": "core_delivery_assign",
+  "title": "同城配送：专属绑定范围派单与排期",
+  "duration": 155.20833333333334,
+  "video": "/workspace/daxiang_detailed_series/core/core_delivery_assign/核心18_同城配送：专属绑定范围派单与排期_core_delivery_assign.mp4",
+  "bytes": 3769004,
+  "sha256": "09da29c1746ad402fdce23d89315e7e6ff1a6c59ac6721029b1ff0ca4097f4dd",
+  "full_decode_ok": true,
+  "audio_duration": 155.208,
+  "voice_duration": 155.168,
+  "last_speech_boundary": 155.108,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -0.8043572454763865,
+  "subtitle_count": 22,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅标准同城配送流程；文档列第三方配送优先级及遗留旁路未统一，不宣传所有入口全部按新派单规则。",
+    "会员任意自助绑定来源预留，片中只讲后台与已列扫码确认。",
+    "父core_delivery的快递、自提、运费完整设置仍待证，不因三条同城子片而整体完成。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

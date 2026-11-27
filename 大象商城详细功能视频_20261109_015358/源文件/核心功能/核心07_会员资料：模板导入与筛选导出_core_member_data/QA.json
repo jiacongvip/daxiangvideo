@@ -1,0 +1,37 @@
+{
+  "script_sha256": "13b2b76983e734a0136dba4846fddc39b8145ba087a1ad6e796ba6ae1da169e7",
+  "voice_sha256": "d8a0cc496595e56e044da900f5cc94832fe9cd8573bb245bb53f160c0f41ca89",
+  "id": "core_member_data",
+  "title": "会员资料：模板导入与筛选导出",
+  "duration": 145.45833333333334,
+  "video": "/workspace/daxiang_detailed_series/core/core_member_data/核心07_会员资料：模板导入与筛选导出_core_member_data.mp4",
+  "bytes": 3376064,
+  "sha256": "67b80ac058d5bc77cd422eea29f3b3bf1a328f3f8cf39ddbc44328a37d841d74",
+  "full_decode_ok": true,
+  "audio_duration": 145.458,
+  "voice_duration": 145.424,
+  "last_speech_boundary": 145.373,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.8759041337999616,
+  "subtitle_count": 22,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "原文按钮写Excel，实际导出CSV+UTF8 BOM；片中明确CSV模板，不宣称原生xlsx解析。",
+    "不承诺覆盖更新、手机号自动合并、错误行自动回滚/自动重试、突破1000上限。",
+    "与标签、足迹、等级主题交叉引用，避免重复制作。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

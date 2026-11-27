@@ -1,0 +1,36 @@
+{
+  "script_sha256": "ff2cbdeef5746788618e196aee1e98ef03fd98417d2ffdb8c664343783fe5d2f",
+  "voice_sha256": "b727032eaf4f3a3abc99f21c5c83a6c32da28020a17959836808495eaf815d13",
+  "id": "core_seckill_detail_designer",
+  "title": "秒杀商品详情：可视化内容设计",
+  "duration": 153.25,
+  "video": "/workspace/daxiang_detailed_series/core/core_seckill_detail_designer/核心28_秒杀商品详情：可视化内容设计_core_seckill_detail_designer.mp4",
+  "bytes": 3682526,
+  "sha256": "260ee6fbf674db143fc50f4ab8d5e591aedd3c927f319eb9909464dfd2c0e256",
+  "full_decode_ok": true,
+  "audio_duration": 153.25,
+  "voice_duration": 153.216,
+  "last_speech_boundary": 153.154,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.73826123940976,
+  "subtitle_count": 22,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "明确已集成的是秒杀商品；拼团、砍价、团购、普通商品在原文仍待集成，不扩展到全部商品。",
+    "不将设计器演示图形伪装为实际UI，不宣称当前部署前端已经完成验收。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

@@ -1,0 +1,37 @@
+{
+  "script_sha256": "cffad81b70f2adbb8254c5460d0075ec911dbb75b635a466761de3218bc597c6",
+  "voice_sha256": "e0b3c77d97871d5f2716097df922a1ebf78ae3216e0b2a6fc4b44e53edbcbee9",
+  "id": "core_register_jiedian",
+  "title": "会员注册：推荐人与接点人校验",
+  "duration": 144.875,
+  "video": "/workspace/daxiang_detailed_series/core/core_register_jiedian/核心16_会员注册：推荐人与接点人校验_core_register_jiedian.mp4",
+  "bytes": 3452953,
+  "sha256": "b87d360d60834ee67cfd3a213675ac73fe1047c88159d918f865bf9d0d550827",
+  "full_decode_ok": true,
+  "audio_duration": 144.875,
+  "voice_duration": 144.872,
+  "last_speech_boundary": 144.803,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -3.3740334128496596,
+  "subtitle_count": 22,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅注册接点配置与已落地校验；不把core_login整体登录/注册协议/资料审核标完成。",
+    "reg_jiedian_always_show前端未真正参与显隐，不宣传；不推断新旧滑落、大小区或晋级算法。",
+    "注册无mid时的成环检查有路径差异，不宣称所有入口都同样执行每一种校验。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

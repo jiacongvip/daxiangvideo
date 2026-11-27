@@ -1,0 +1,39 @@
+{
+  "script_sha256": "0cc2ae8e2a02d2322bc28b14e6dffcdf6630bf085559d56b1d7c8940bf37b5c0",
+  "voice_sha256": "8a133f5fba6d02e80b1ae65b9cef52c94a9271248436064093474f73b5c70717",
+  "id": "core_upgrade",
+  "title": "会员升级申请资料与记录",
+  "duration": 122.41666666666667,
+  "video": "/workspace/daxiang_detailed_series/core/core_upgrade/核心03_会员升级申请资料与记录_core_upgrade.mp4",
+  "bytes": 2931815,
+  "sha256": "89e9450448d4371da769e78b18eac81b4cc16478da20a23955b9ace9907b1164",
+  "full_decode_ok": true,
+  "audio_duration": 122.417,
+  "voice_duration": 122.4,
+  "last_speech_boundary": 122.341,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -3.4101878147993214,
+  "subtitle_count": 20,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "本片只覆盖已完成说明支持的申请资料与记录，不含审核通过动作、自动升级、奖励、降级执行",
+    "自动升级V2文档7,42-60行明确真实执行继续关闭、生产发布与测试待完成；499-504线上后记仅证明队列隔离修复，不证明所有V2规则已启用",
+    "AND/OR历史修复与当前部署完成状态无法确认，不作客户陈述",
+    "表单历史Vue错误配置需重新保存是内部迁移注意事项，不改造成客户产品承诺"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview",
+  "final_hash_and_decode_recheck": true
+}
