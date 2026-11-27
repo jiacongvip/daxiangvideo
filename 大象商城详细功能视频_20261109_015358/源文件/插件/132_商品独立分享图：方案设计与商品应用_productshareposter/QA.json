@@ -1,0 +1,37 @@
+{
+  "script_sha256": "e9cf1c69d23a7aeaa26a29592007395dc3dcbe9cc39a49239eec56331d758b6e",
+  "voice_sha256": "867c21987a6c1ccc02ada4ba59b8ce50d4b858d3785caa75c8df296a5328270f",
+  "id": "productshareposter",
+  "title": "商品独立分享图：方案设计与商品应用",
+  "duration": 154.20833333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/132_productshareposter/132_商品独立分享图：方案设计与商品应用_productshareposter.mp4",
+  "bytes": 3707857,
+  "sha256": "b6b75abd698cbaa38e4551a55a113e49a05c08507c7bef89cbac5c305809d968",
+  "full_decode_ok": true,
+  "audio_duration": 154.208,
+  "voice_duration": 154.184,
+  "last_speech_boundary": 154.143,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.4780779344776356,
+  "subtitle_count": 20,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "不能仅按规划标题hold：第13章明确7月6日已完成一期、0.2二期操作调整；按最新方案→平台版本→商品应用流程制作，不沿用旧先平台再模板作为当前入口。",
+    "不把整个分享海报编辑器升级35%-40%的待做功能混入；不宣称分类默认、导入导出、其他业务商品海报等后续扩展。",
+    "复制海报模板属于旧一期接口，未明确0.2方案复制入口，未作为客户操作扩展。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

@@ -1,0 +1,36 @@
+{
+  "script_sha256": "8d0379b4163748eed819eb281355227a5eebc735f08b593d2f94f6c1fb5638ba",
+  "voice_sha256": "afbeff42c7f20444850c4004d103ebdb84c53613cec35dbd9aca62af921c63ee",
+  "id": "shuquanbaoclient",
+  "title": "数权宝调用端：对接配置与同步记录",
+  "duration": 151.83333333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/156_shuquanbaoclient/156_数权宝调用端：对接配置与同步记录_shuquanbaoclient.mp4",
+  "bytes": 3669997,
+  "sha256": "49ba18ddc16212015be0f258069ecb1268bdbbe67edc888fa070e3d45bc683a3",
+  "full_decode_ok": true,
+  "audio_duration": 151.833,
+  "voice_duration": 151.824,
+  "last_speech_boundary": 151.779,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.043655322803361,
+  "subtitle_count": 21,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅覆盖调用端配置、事件同步与记录。双站联调清单的期望不作已测试通过证明。",
+    "不宣传蚂蚁链正式驱动已接通、真实上链成功、DID法律效力、资产价值、兑换铸造或投资回报；本体主链路另待证。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

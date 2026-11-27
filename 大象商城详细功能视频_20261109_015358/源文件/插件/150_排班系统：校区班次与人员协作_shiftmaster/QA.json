@@ -1,0 +1,36 @@
+{
+  "script_sha256": "3e05b9dd9a4d99dc54e95d3812f765967802800436ae9d9e1ac9b360aba98eed",
+  "voice_sha256": "2665a0adb51fbee4da96abaa2a86e8e02475581f9dc85e5a231f15dbe787c3ac",
+  "id": "shiftmaster",
+  "title": "排班系统：校区班次与人员协作",
+  "duration": 170.66666666666666,
+  "video": "/workspace/daxiang_detailed_series/plugins/150_shiftmaster/150_排班系统：校区班次与人员协作_shiftmaster.mp4",
+  "bytes": 4067060,
+  "sha256": "6cbe5105d1d72e71dffe226d8ef272f036d17563402652388f1c816ff50bbd1f",
+  "full_decode_ok": true,
+  "audio_duration": 170.667,
+  "voice_duration": 170.648,
+  "last_speech_boundary": 170.596,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.0901344221799933,
+  "subtitle_count": 24,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "不推导名额上限、自动排班/冲突检测、取消截止、定位人脸、工资工时、请假审批对原班次影响等规则。",
+    "只读README完成说明，不宣称现场部署验收。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

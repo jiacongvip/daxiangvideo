@@ -1,0 +1,37 @@
+{
+  "script_sha256": "4baa0a5503c7103d738088cc2a8b069b767aed93827e9c876aca6588302acb26",
+  "voice_sha256": "9b30f7678b585daba5fd705b50a143eec002f8f5bcc75615d7b125102e6503f0",
+  "id": "warehouse",
+  "title": "仓库管理：出入库组装与盘点",
+  "duration": 213.0,
+  "video": "/workspace/daxiang_detailed_series/plugins/178_warehouse/178_仓库管理：出入库组装与盘点_warehouse.mp4",
+  "bytes": 5093178,
+  "sha256": "74a8a300f40e5955ef21c408c76fda6a2e8ce18420979017bcd2cbf5c420d249",
+  "full_decode_ok": true,
+  "audio_duration": 213.0,
+  "voice_duration": 212.976,
+  "last_speech_boundary": 212.919,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.08747312277049,
+  "subtitle_count": 31,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "采用2026-06-25 v1.0.1分析的业务功能描述，不把旧README待迁移安装步骤当当前未实现。",
+    "旧README商城订单自动入库概述与细版退货入库触发不同，按详版退货/发货场景限定，不宣称所有下单都入库。",
+    "不扩展成本核算利润、批次保质期、条码枪、采购供应商、扫码盘点等未给定功能。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

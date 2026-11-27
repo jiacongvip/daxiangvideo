@@ -1,0 +1,36 @@
+{
+  "script_sha256": "886c5365611204a9b42c809d4260216528694593d225987699cc38fe7dfb7622",
+  "voice_sha256": "274f6730fd1afe4bb850e55d98a6436d5ea29f48893aebb7b185c8879ec697d0",
+  "id": "peizhen",
+  "title": "陪诊：预约下单与服务工单协作",
+  "duration": 163.875,
+  "video": "/workspace/daxiang_detailed_series/plugins/128_peizhen/128_陪诊：预约下单与服务工单协作_peizhen.mp4",
+  "bytes": 3919917,
+  "sha256": "235864b6027b7e14487c37ccb448617ca527d3d3e49793f4b036fc920be7cc2d",
+  "full_decode_ok": true,
+  "audio_duration": 163.875,
+  "voice_duration": 163.84,
+  "last_speech_boundary": 163.78,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.637807910950225,
+  "subtitle_count": 23,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "不宣称医疗诊断、治疗效果、陪诊师执业资质或覆盖医院范围；不造就诊人隐私资料。",
+    "README未给服务抽成、提现审核或到账规则，片中不扩展。自动关单仅任务能力，不能说当前部署已启用定时。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

@@ -1,0 +1,36 @@
+{
+  "script_sha256": "d5436cca5835490279c1a6352668737a5ac38c10e05478479523aaddbdebf8ad",
+  "voice_sha256": "a0d70f742202e3f830ff0a12b51e5958045498e5966a75eae5563c3cc151e191",
+  "id": "sweepstakes",
+  "title": "幸运抽奖：活动奖项与任务次数管理",
+  "duration": 194.83333333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/160_sweepstakes/160_幸运抽奖：活动奖项与任务次数管理_sweepstakes.mp4",
+  "bytes": 4770611,
+  "sha256": "c57b528761bf77bb55ebb34382ef2b7a9f12272d999c8e9030566f39da58eac2",
+  "full_decode_ok": true,
+  "audio_duration": 194.833,
+  "voice_duration": 194.824,
+  "last_speech_boundary": 194.758,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.4328099329253012,
+  "subtitle_count": 28,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "以现有README剩余库存加权机制为准，不沿用旧开发总结的固定概率或商品奖池待开发描述。",
+    "不宣传必得、保本、赌博收益、现金回报、邀请多层分佣、退款自动撤次数、奖励自动发货或物流必达。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

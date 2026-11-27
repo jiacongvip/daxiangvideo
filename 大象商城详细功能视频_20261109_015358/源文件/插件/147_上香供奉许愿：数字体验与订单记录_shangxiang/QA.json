@@ -1,0 +1,36 @@
+{
+  "script_sha256": "b16eb271702c0f85f6402d271d1684e6474018ce974391fb0bc27734352aeff9",
+  "voice_sha256": "f6d2e3b483aa5da41f0bea2b9e16d0af7f1146180dd5b499e38ae2d1a2825204",
+  "id": "shangxiang",
+  "title": "上香供奉许愿：数字体验与订单记录",
+  "duration": 161.33333333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/147_shangxiang/147_上香供奉许愿：数字体验与订单记录_shangxiang.mp4",
+  "bytes": 3896316,
+  "sha256": "578ac74258ba3d0f998ac87b0cca08b1dcfc3c695279d4374a5ee348a7140c6e",
+  "full_decode_ok": true,
+  "audio_duration": 161.333,
+  "voice_duration": 161.304,
+  "last_speech_boundary": 161.233,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.322896110822095,
+  "subtitle_count": 22,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "不声称宗教效果、愿望必然实现、寺庙背书或线下供奉履行。",
+    "愿望墙、点赞、分享、导出与通知属于后续建议，未讲。没有虚构支付退款、核销、时效规则。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

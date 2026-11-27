@@ -1,0 +1,36 @@
+{
+  "script_sha256": "a9730495df5a7598b10d5dad7cfe82c8bf2057bfb5995f0d0d6e349d16e2c1cf",
+  "voice_sha256": "0376b65c14a7daeac86b22789fa673cef4fb1935fbc2cf98880a5e70955a2799",
+  "id": "peisong",
+  "title": "同城配送：人员订单与运营记录",
+  "duration": 179.33333333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/127_peisong/127_同城配送：人员订单与运营记录_peisong.mp4",
+  "bytes": 4249127,
+  "sha256": "05427e2e0ce82aabc966dc41c2dca5ccb8e121bb9d5517e3617a83a9ddd895e6",
+  "full_decode_ok": true,
+  "audio_duration": 179.333,
+  "voice_duration": 179.32,
+  "last_speech_boundary": 179.272,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.9566932154866379,
+  "subtitle_count": 22,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "已与核心专属派单/范围/排期、日期批次履约、容量分车三片去重；本片补充人员、订单查询导出、评价退框及财务记录。",
+    "仅介绍第三方配置存在，不承诺码科/微信外部渠道联通或服务时效；提成与提现只审核管理，不承诺打款到账。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

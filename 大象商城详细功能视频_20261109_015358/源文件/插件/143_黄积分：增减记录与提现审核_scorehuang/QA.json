@@ -1,0 +1,37 @@
+{
+  "script_sha256": "cb6536a57735421dd85d831df19d715c415208ba0dd38978831166c7ef284586",
+  "voice_sha256": "378bc0f06470bf50528a68776c3c764dc9d137cb70010948df9ccb7e7ea78a0f",
+  "id": "scorehuang",
+  "title": "黄积分：增减记录与提现审核",
+  "duration": 138.70833333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/143_scorehuang/143_黄积分：增减记录与提现审核_scorehuang.mp4",
+  "bytes": 3276041,
+  "sha256": "61241be841917e0e0d8d375e8a7ff6b4c6c081ccd21fe9689bd78723e527f805",
+  "full_decode_ok": true,
+  "audio_duration": 138.708,
+  "voice_duration": 138.672,
+  "last_speech_boundary": 138.615,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.315028916191927,
+  "subtitle_count": 19,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "明确平台级bid=0；不推导积分获得活动、现金价值、兑换比例、自动外部打款或真实到账保证。",
+    "README使用说明明确“标记已打款”，优先采用记录管理口径，不把概述的提现方式当银行卡自动转账接口已接通。",
+    "不操作账户和真实业务；所有数字和账户值均不展示。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

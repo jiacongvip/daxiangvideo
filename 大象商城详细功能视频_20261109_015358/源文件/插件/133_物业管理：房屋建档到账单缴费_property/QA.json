@@ -1,0 +1,37 @@
+{
+  "script_sha256": "8e0fb61fc7469fd39c6f64bc3d2377b6e146b4379f68c915c705e3c2d55de86c",
+  "voice_sha256": "0384aca1c43166c1c2bd6c560b5f22b04623bb95f9be784606372cd2f9a2afc3",
+  "id": "property",
+  "title": "物业管理：房屋建档到账单缴费",
+  "duration": 154.16666666666666,
+  "video": "/workspace/daxiang_detailed_series/plugins/133_property/133_物业管理：房屋建档到账单缴费_property.mp4",
+  "bytes": 3730704,
+  "sha256": "4742452a79bdca188239023128d54697ba37775fcdfa24eeb54d9b09262df406",
+  "full_decode_ok": true,
+  "audio_duration": 154.167,
+  "voice_duration": 154.16,
+  "last_speech_boundary": 154.109,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.2036344751145944,
+  "subtitle_count": 21,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "起步插件复用旧核心不代表业务不存在：有独立完成报告支持具体操作，因此按报告支持的建档/账单/在线缴费介绍，不讲纯Vue重写。",
+    "短信催缴、微信模板提醒、维修报修、停车费、门禁仍扩展建议，不作现有能力；抵扣账单只有菜单未有具体规则，不编造抵扣流程。",
+    "不展示业主真实个人资料、不承诺支付到账、积分收益或自动催缴渠道。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

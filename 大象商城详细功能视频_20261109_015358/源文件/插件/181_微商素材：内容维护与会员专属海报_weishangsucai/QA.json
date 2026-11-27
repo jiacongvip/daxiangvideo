@@ -1,0 +1,36 @@
+{
+  "script_sha256": "c1cc82ca209e591f2f9ae683b6b8b4df8bdbda95c4e77690509a8dc5d7830e27",
+  "voice_sha256": "8e501e74c94c909a0b37fd8cc3c2a02344074035ad842d3ab6b7a30cd5a18029",
+  "id": "weishangsucai",
+  "title": "微商素材：内容维护与会员专属海报",
+  "duration": 163.20833333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/181_weishangsucai/181_微商素材：内容维护与会员专属海报_weishangsucai.mp4",
+  "bytes": 3865390,
+  "sha256": "de63a8eb625b8ca3fcc185e38f8f0bdb22548906d1ab1d6a30dd2578963134a4",
+  "full_decode_ok": true,
+  "audio_duration": 163.208,
+  "voice_duration": 163.184,
+  "last_speech_boundary": 163.136,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.603353790769612,
+  "subtitle_count": 22,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "不宣传自动发布小红书等平台、传播带来成交、会员参数必定绑定分佣、审核定时发布或版权识别。",
+    "与商品独立分享海报是不同业务素材对象，core_design仅交叉覆盖会员素材海报子范围，父主题仍partial。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

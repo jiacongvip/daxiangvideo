@@ -1,0 +1,36 @@
+{
+  "script_sha256": "2444d543963e80cb4ce02e9f7b29eb1080de3a9dba6148221441e6e335c1454a",
+  "voice_sha256": "28f1de9bea2d2ade86752e6a954a36ceeba5121644f7ffb657aec2f141cc50a5",
+  "id": "memberredpacket",
+  "title": "会员拆红包：等级限制与每日活动管理",
+  "duration": 177.0,
+  "video": "/workspace/daxiang_detailed_series/plugins/115_memberredpacket/115_会员拆红包：等级限制与每日活动管理_memberredpacket.mp4",
+  "bytes": 4333311,
+  "sha256": "71d36c61aeae0dfb75f95d5de3b969cb8b1c4becd598f31afd328f30369ac85b",
+  "full_decode_ok": true,
+  "audio_duration": 177.0,
+  "voice_duration": 176.984,
+  "last_speech_boundary": 176.944,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.1409599977854277,
+  "subtitle_count": 26,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "新找到使用说明与开发总结支持所讲业务；仅会员活动发放到商城余额，不承诺银行到账、固定收益或实际任务已部署。",
+    "分享裂变、红包雨、排行榜、记录导出属扩展建议，未放客户片；不把自动补充配置说成当前线上任务必定正常。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

@@ -1,0 +1,38 @@
+{
+  "script_sha256": "ba7a80db0e80bc1d137911236b0fcaf6bc2a17e75c19f62a0f492527438deff8",
+  "voice_sha256": "7adef897cd7088b01f94a6e8430dc2a34d1dd33285f5407a6ea5c0e1f2a078cd",
+  "id": "live",
+  "title": "直播：预告开播互动到商品讲解",
+  "duration": 262.5416666666667,
+  "video": "/workspace/daxiang_detailed_series/plugins/105_live/105_直播：预告开播互动到商品讲解_live.mp4",
+  "bytes": 6305402,
+  "sha256": "c7870b942be9cd29cde7e71734b1320b64ad23542aebdd9b44f2bf9aac135c19",
+  "full_decode_ok": true,
+  "audio_duration": 262.542,
+  "voice_duration": 262.512,
+  "last_speech_boundary": 262.462,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -0.6287980387210884,
+  "subtitle_count": 37,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "未做的控制台一键发券、完整订单佣金归因、GMV数据大屏、场后留存报告、自动录制、多清晰度、付费白名单、连麦、横向扩展不宣传。",
+    "任务领券有较新README0.2.36具体完成说明；只讲其列明条件，不把旧T14未完成的全面佣金归因说完成。",
+    "低延迟小程序权限/云配置不同，未承诺固定秒数、不伪造真实在线人数或打赏销售成绩。",
+    "分享海报只描述已列能力，不编造具体编辑字段；不主张每场自动录播。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

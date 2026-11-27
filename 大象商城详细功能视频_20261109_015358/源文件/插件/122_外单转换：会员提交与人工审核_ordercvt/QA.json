@@ -1,0 +1,37 @@
+{
+  "script_sha256": "3c5387654caadcd64c98cd36ae661cc0e58e1ef5be0cb431a62df51d1a61317c",
+  "voice_sha256": "a2784cb356251a11147bebab7624eeca4941e4ace88169b911bcde08e5d6faa6",
+  "id": "ordercvt",
+  "title": "外单转换：会员提交与人工审核",
+  "duration": 139.29166666666666,
+  "video": "/workspace/daxiang_detailed_series/plugins/122_ordercvt/122_外单转换：会员提交与人工审核_ordercvt.mp4",
+  "bytes": 3185726,
+  "sha256": "3fdd5eaeaa7e91b38ce64a58ce071d615b317310c22367269c5b125824a53704",
+  "full_decode_ok": true,
+  "audio_duration": 139.292,
+  "voice_duration": 139.272,
+  "last_speech_boundary": 139.213,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.9345664068697634,
+  "subtitle_count": 21,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "不爬取/不自动核验真实外单，不修改shop_order；不伪造外部订单或真实凭证截图。",
+    "不编造去重、防伪、自动付款或退款；金额仅示意字段不提供虚假订单数据。",
+    "本片覆盖README全部主要能力与v1.0.1展示设置，未做代码/实机验收。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

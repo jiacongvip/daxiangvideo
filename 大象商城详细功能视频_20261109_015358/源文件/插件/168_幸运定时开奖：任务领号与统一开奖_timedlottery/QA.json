@@ -1,0 +1,36 @@
+{
+  "script_sha256": "a296fd5e1fbd98631506565848f31319fe05eab15076de94515e9c8ee25acfd1",
+  "voice_sha256": "37f08fb60cc82752ef0e8f4ac0c9d627f8df949ae0db4c424e0fd0d6c59911b7",
+  "id": "timedlottery",
+  "title": "幸运定时开奖：任务领号与统一开奖",
+  "duration": 198.95833333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/168_timedlottery/168_幸运定时开奖：任务领号与统一开奖_timedlottery.mp4",
+  "bytes": 4872097,
+  "sha256": "92ada1760fbf7586099c4ba27dfb37c989a52ac424b3b34a02c12fd6a009ed13",
+  "full_decode_ok": true,
+  "audio_duration": 198.958,
+  "voice_duration": 198.952,
+  "last_speech_boundary": 198.894,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.241844151974502,
+  "subtitle_count": 28,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "不承诺中奖、收益或接口到账；指定中奖与名单不包装为纯随机，不提供暗箱操作案例。",
+    "自动开奖需任务运行，未声称用户部署已配置；虚拟接口依赖保留，实物手动处理不说自动发货。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

@@ -1,0 +1,36 @@
+{
+  "script_sha256": "e8ac002ea96c99173a661c968e3e7bfa4647620534228d5938e377b2ca65267f",
+  "voice_sha256": "a894b68db92fce914d33844970646ebd8953c230b3e308f0f0bed36b65d3b567",
+  "id": "presalevoucher",
+  "title": "预售券：先购买再预约与到店核销",
+  "duration": 186.20833333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/131_presalevoucher/131_预售券：先购买再预约与到店核销_presalevoucher.mp4",
+  "bytes": 4546063,
+  "sha256": "175dfe28c2907e498affed357d5a6bfd1d0369e0983e6fae6afd5ba64b501659",
+  "full_decode_ok": true,
+  "audio_duration": 186.208,
+  "voice_duration": 186.168,
+  "last_speech_boundary": 186.121,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.2606706788778004,
+  "subtitle_count": 23,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "以第17章已落地能力覆盖前面需求规划；基础券款退款不宣传插件自动处理，所有券核销后自动完成商城订单明确后续增强未讲。",
+    "不承诺退款到账时间、通知送达或跨门店任意核销；不编日历场次、自动恢复券规则未明细。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

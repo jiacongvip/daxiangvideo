@@ -1,0 +1,37 @@
+{
+  "script_sha256": "c14826277972dc532b4ae1eb372c256f30c4b0bab0f23601d2ce0fa313615d43",
+  "voice_sha256": "94a31cb28b0a43be2723e0111e28d06282eda53814b7cd9fac4938656ddecefe",
+  "id": "linggong",
+  "title": "零工招聘：发布报名到验收结算",
+  "duration": 186.41666666666666,
+  "video": "/workspace/daxiang_detailed_series/plugins/101_linggong/101_零工招聘：发布报名到验收结算_linggong.mp4",
+  "bytes": 4363290,
+  "sha256": "b3dbfbc84137090ee27cb421a4edf515c33d0b86fda69a256b82adefb6b78939",
+  "full_decode_ok": true,
+  "audio_duration": 186.417,
+  "voice_duration": 186.408,
+  "last_speech_boundary": 186.351,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.666760697598957,
+  "subtitle_count": 28,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "已完成一期业务与服务级验证；小程序最终视觉/全局lint未完成，不宣传已实机全面验收。",
+    "保险真实接口、排行榜、邀请奖励、自动派单、隐私号、信用分、导出接统一中心为二期未做，均不宣传。",
+    "不扩写真实银行自动打款、劳动法合规保证、开票已完成或招聘效果。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

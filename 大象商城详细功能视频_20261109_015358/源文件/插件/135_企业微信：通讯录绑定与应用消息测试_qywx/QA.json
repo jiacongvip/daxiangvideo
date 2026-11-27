@@ -1,0 +1,37 @@
+{
+  "script_sha256": "d2de31add4c1f140d8129e0bc20e7ce3412e1c5e46d84d1da3316e3f070a1926",
+  "voice_sha256": "c8c1958fc9221e73ceb655c762bc0459d4bd652af83212d2de061232cdefe473",
+  "id": "qywx",
+  "title": "企业微信：通讯录绑定与应用消息测试",
+  "duration": 155.625,
+  "video": "/workspace/daxiang_detailed_series/plugins/135_qywx/135_企业微信：通讯录绑定与应用消息测试_qywx.mp4",
+  "bytes": 3776131,
+  "sha256": "799283cc22fabcb7ee53aa8eb5d0424b7dd4daa11121751afdd1f2bcd3494eb0",
+  "full_decode_ok": true,
+  "audio_duration": 155.625,
+  "voice_duration": 155.6,
+  "last_speech_boundary": 155.538,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.1643559602674,
+  "subtitle_count": 21,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "同文件18行尚未实现自动触发/回调/SCRM，与后续105行起自动扫描/群券描述冲突；只取8-16及71-103明确可实跑的基础、通讯录、手动测试完整流程。自动业务通知/SCRM子范围仍待闭环。",
+    "不会把小程序群活码示例代码当已经存在页面，不演示凭据值、真实企业成员或实际消息发送；仅生成原创示意。",
+    "插件为partial，核心通知父主题只是增加交叉覆盖，不标短信或日志全主题完成。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

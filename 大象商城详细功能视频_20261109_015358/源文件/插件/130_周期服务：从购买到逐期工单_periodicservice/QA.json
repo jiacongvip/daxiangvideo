@@ -1,0 +1,36 @@
+{
+  "script_sha256": "e440551f9501337f5226c193a6de82cb72880fc8026844134a0ee07b685b3594",
+  "voice_sha256": "d6762c794c9f477791a9100465e22eb8317a9f50b37ae53bb6ad5db6f6eaf445",
+  "id": "periodicservice",
+  "title": "周期服务：从购买到逐期工单",
+  "duration": 128.83333333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/130_periodicservice/130_周期服务：从购买到逐期工单_periodicservice.mp4",
+  "bytes": 3028432,
+  "sha256": "3a7c038576c333999bfc8882c53bb01b5f9892f44a633d73bdc56e0c29d80ac7",
+  "full_decode_ok": true,
+  "audio_duration": 128.833,
+  "voice_duration": 128.808,
+  "last_speech_boundary": 128.748,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.5886445680937855,
+  "subtitle_count": 18,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "不扩展不足月日期顺延、节假日、暂停后自动重排、退款、自动就近派单与通知；这些无业务资料。",
+    "按说明明确激活时生成全部期次，不错误描绘为到了每个日期才临时创建。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

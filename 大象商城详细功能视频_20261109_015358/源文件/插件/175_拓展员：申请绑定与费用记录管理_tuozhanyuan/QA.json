@@ -1,0 +1,37 @@
+{
+  "script_sha256": "5ae45f55518c27d3c1f84cc712f02a28e4e250a47062b934009dc2e196e95fb0",
+  "voice_sha256": "ab498a3f4a4393f13d5b0e9659511a673c955f90bdc3c85f4fdb607d1a3d4d1d",
+  "id": "tuozhanyuan",
+  "title": "拓展员：申请绑定与费用记录管理",
+  "duration": 201.41666666666666,
+  "video": "/workspace/daxiang_detailed_series/plugins/175_tuozhanyuan/175_拓展员：申请绑定与费用记录管理_tuozhanyuan.mp4",
+  "bytes": 4860188,
+  "sha256": "3c032723c006ab92bc60827f45f52d2e21d3e9c71f7697480003a4393fd5bc92",
+  "full_decode_ok": true,
+  "audio_duration": 201.417,
+  "voice_duration": 201.4,
+  "last_speech_boundary": 201.357,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -3.1952575148157125,
+  "subtitle_count": 27,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "只介绍可证配置和真实订单记录，不演示收益放大、拉人收入、提现到账时效或自动银行打款。",
+    "旧拓展员梯度/层级递减说明归Yihuo，未证明等于tuandui或tuanduijicha独立插件，不能跨插件借证。",
+    "新梯度规则与当前插件整合程度未核，保留为未覆盖子范围；本片主题为基础申请绑定及费用管理。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

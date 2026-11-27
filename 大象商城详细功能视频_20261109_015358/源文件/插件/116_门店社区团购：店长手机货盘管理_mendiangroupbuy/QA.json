@@ -1,0 +1,37 @@
+{
+  "script_sha256": "cd653ea6c10d83594f70f07a3fecfcb3f075d292719e73b9203a6884a9e30ec5",
+  "voice_sha256": "53d8585565a6ed360b6173bf90b35c6724946958aba4bb6dac1b570a5d4807c8",
+  "id": "mendiangroupbuy",
+  "title": "门店社区团购：店长手机货盘管理",
+  "duration": 145.70833333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/116_mendiangroupbuy/116_门店社区团购：店长手机货盘管理_mendiangroupbuy.mp4",
+  "bytes": 3362242,
+  "sha256": "e8f8565fa755feeb8d7dab0be370b850144488a96e57f0d2b6d84d8befd472e8",
+  "full_decode_ok": true,
+  "audio_duration": 145.708,
+  "voice_duration": 145.688,
+  "last_speech_boundary": 145.631,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.623183101768929,
+  "subtitle_count": 22,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "本片仅v0.3/P0已完成的手机货盘管理；P1手机订单与分红明确未做，绝不当现有能力。",
+    "插件父范围尚有PC配置、分红、订单等未完整覆盖，标scope_partial不假装全部讲完；后续只补有明确资料的范围。",
+    "移出关系与平台删除区别按货盘独立关系操作口径，不主张任何库存、价格或订单自动更改。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

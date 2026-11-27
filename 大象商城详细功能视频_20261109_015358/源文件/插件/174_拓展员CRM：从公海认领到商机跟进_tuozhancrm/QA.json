@@ -1,0 +1,36 @@
+{
+  "script_sha256": "672f729c1bae48364d59ed3cee1c11cdfb95e32b0164caa91d3f047c00676121",
+  "voice_sha256": "a72e88aad5a95f2b5ca4542e01f61562476c50162e0cfb2ba6f24ae9b4b6dad2",
+  "id": "tuozhancrm",
+  "title": "拓展员CRM：从公海认领到商机跟进",
+  "duration": 172.125,
+  "video": "/workspace/daxiang_detailed_series/plugins/174_tuozhancrm/174_拓展员CRM：从公海认领到商机跟进_tuozhancrm.mp4",
+  "bytes": 4118051,
+  "sha256": "9c9ec66f5f8f6d4dc115a7947f48ca30290b9756ec251b0ec33c0515dfb73439",
+  "full_decode_ok": true,
+  "audio_duration": 172.125,
+  "voice_duration": 172.088,
+  "last_speech_boundary": 172.035,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.4454197724663442,
+  "subtitle_count": 24,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "不声称自动回收、公海领取限额、自动成交预测、消息推送或跨团队权限。",
+    "与拓展员主插件的身份/绑定/费用分工，不把商机归属转出等同会员推荐链变更。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

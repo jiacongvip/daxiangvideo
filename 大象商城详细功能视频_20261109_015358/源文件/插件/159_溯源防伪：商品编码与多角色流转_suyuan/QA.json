@@ -1,0 +1,37 @@
+{
+  "script_sha256": "d599b2ab58fb451ecf99729104f9ae27c9d0a5aede90613a8aaf1846cfea7871",
+  "voice_sha256": "7e4057db5519d593a1b790b5b842fdec75e511a017db0e554f4a39966792fb20",
+  "id": "suyuan",
+  "title": "溯源防伪：商品编码与多角色流转",
+  "duration": 247.83333333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/159_suyuan/159_溯源防伪：商品编码与多角色流转_suyuan.mp4",
+  "bytes": 5920672,
+  "sha256": "741ff260061c51560ae0d113512f3265624d7bd5e7de1ec03200d5f60b330526",
+  "full_decode_ok": true,
+  "audio_duration": 247.833,
+  "voice_duration": 247.808,
+  "last_speech_boundary": 247.763,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.6735555942862104,
+  "subtitle_count": 33,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "已完成P0的后台/手机端能力为范围；同文P1二维码生成进度与待开发项冲突，不讲服务器批量生成二维码图片。",
+    "不宣传超10万异步生码、采购联动佣金钱包、实际正式租户隔离验收或国家认证/绝对防伪/实物品质保证。",
+    "只看业务汇报完成清单，未读代码与数据库。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

@@ -1,0 +1,36 @@
+{
+  "script_sha256": "9385309aef1161b61a04173bb3350f2757fd074b4a1067b69774a106dbe4f68f",
+  "voice_sha256": "45f6dd980d65c787fcac8e54c840c612f20d5763c98246bcc2417d08d441b7e3",
+  "id": "sign",
+  "title": "积分签到：每日参与与连续奖励",
+  "duration": 150.83333333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/157_sign/157_积分签到：每日参与与连续奖励_sign.mp4",
+  "bytes": 3618694,
+  "sha256": "654a7919bed11168c343f2dbfc3935c01d9fdf2a99cae40b703406206e750895",
+  "full_decode_ok": true,
+  "audio_duration": 150.833,
+  "voice_duration": 150.792,
+  "last_speech_boundary": 150.729,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.7826380450065271,
+  "subtitle_count": 21,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "UPGRADE当前为v1.0，v1.1广告、v1.2小数与倍数明确计划中，与README1.2口径冲突；不讲广告/倍数/小数。",
+    "分红/红包/返现等不在当前版本初始功能明确清单，未扩展；不推断断签重置、补签、奖励优先级或券叠加使用规则。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

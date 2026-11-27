@@ -1,0 +1,37 @@
+{
+  "script_sha256": "fc44534f9d2339cd334d2386091e2521bf87f815822dceec35ddde1c1ce54638",
+  "voice_sha256": "32f61dbe3ed73c91e03867ace32ff851cb6ae070d32303abe9f0f35b1ae388ce",
+  "id": "maiyatian",
+  "title": "麦芽田聚合配送：门店接入与状态回查",
+  "duration": 159.125,
+  "video": "/workspace/daxiang_detailed_series/plugins/109_maiyatian/109_麦芽田聚合配送：门店接入与状态回查_maiyatian.mp4",
+  "bytes": 3882840,
+  "sha256": "57bbb8ab8fcd1beeafcdf7f9f9b190efb2ffe626a6bbd289b5347549665120f5",
+  "full_decode_ok": true,
+  "audio_duration": 159.125,
+  "voice_duration": 159.104,
+  "last_speech_boundary": 159.065,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.3785972928321364,
+  "subtitle_count": 22,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "原功能说明“一键”被开发总结56行后续扩展修正，影片明确为业务系统接口接入，绝不声称商城订单详情现成一键按钮或自动全订单发单。",
+    "服务开发总结是实现声明，未执行PHP、外部平台联调或实机验收；不保证第三方运力实际开通、价格、时效与骑手位置覆盖。",
+    "不扩展未做的运费统计卡片、商户端下沉入口和城市字典可视化。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

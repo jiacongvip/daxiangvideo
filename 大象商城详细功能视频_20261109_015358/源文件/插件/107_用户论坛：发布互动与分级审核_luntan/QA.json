@@ -1,0 +1,36 @@
+{
+  "script_sha256": "f5cc4a6c18b45ebb87f0c37c3ec318092ab77e0370524348bc491bcbb5b5da4c",
+  "voice_sha256": "38ff586ab23b621d744bf5d5bcf23202668a52758f1b6f0218364d4c28885d0d",
+  "id": "luntan",
+  "title": "用户论坛：发布互动与分级审核",
+  "duration": 154.25,
+  "video": "/workspace/daxiang_detailed_series/plugins/107_luntan/107_用户论坛：发布互动与分级审核_luntan.mp4",
+  "bytes": 3503853,
+  "sha256": "87fcaf616cb5c13af09d7c6d2cdb4aea14a2fd657d8cc1a1e773d832b304a3e4",
+  "full_decode_ok": true,
+  "audio_duration": 154.25,
+  "voice_duration": 154.232,
+  "last_speech_boundary": 154.171,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.384639305289578,
+  "subtitle_count": 22,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "不宣称审核自动判定内容合规或积分兑付收益；评论审核通过后积分的具体额度只受后台设置，不编造数值。",
+    "只用完成总结与README支持的分类、帖子、评论、回复、权限与统计；无实机或源码验收。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

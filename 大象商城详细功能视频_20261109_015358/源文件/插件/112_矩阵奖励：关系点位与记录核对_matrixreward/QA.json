@@ -1,0 +1,37 @@
+{
+  "script_sha256": "3c736944e8005c96fb40f700cc349935243bde96d094ffbc995c283f22559e67",
+  "voice_sha256": "d250f772169a2990dc15eb88239d2847e256a8d23a727d0ab8d7136ee047599e",
+  "id": "matrixreward",
+  "title": "矩阵奖励：关系点位与记录核对",
+  "duration": 125.25,
+  "video": "/workspace/daxiang_detailed_series/plugins/112_matrixreward/112_矩阵奖励：关系点位与记录核对_matrixreward.mp4",
+  "bytes": 3033771,
+  "sha256": "0859eae8a113d8029c66a95796e1c36af25bd92f515b4d4bcf19962807f896e5",
+  "full_decode_ok": true,
+  "audio_duration": 125.25,
+  "voice_duration": 125.232,
+  "last_speech_boundary": 125.183,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.852259294370678,
+  "subtitle_count": 17,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅后台配置与关系/订单/日志的客观介绍，不给收益示例、佣金层数建议、拉人头或购买解锁操作招募教程；不宣称经营模式合法性背书。",
+    "已按完成总结确认注册/等级/支付/完成钩子集成声明；未做本轮代码与实机验证。",
+    "按件数开层不编造跨层数量上限或组合条件AND/OR。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

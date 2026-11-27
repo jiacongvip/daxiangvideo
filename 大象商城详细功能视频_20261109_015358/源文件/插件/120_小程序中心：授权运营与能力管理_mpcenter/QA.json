@@ -1,0 +1,37 @@
+{
+  "script_sha256": "ec5b0ba03a2a71240d97e695d3f646aceb604f60add4cff6d8b51a96cbf1aec5",
+  "voice_sha256": "286bd3c238ae55bd4202348e858ded0a0ef36f72bc7166d54fd5eb4d34c15588",
+  "id": "mpcenter",
+  "title": "小程序中心：授权运营与能力管理",
+  "duration": 243.33333333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/120_mpcenter/120_小程序中心：授权运营与能力管理_mpcenter.mp4",
+  "bytes": 5970481,
+  "sha256": "6c7f94be632153fdffc44acf5b9f20b705ed0c49400fda428a021836a5545337",
+  "full_decode_ok": true,
+  "audio_duration": 243.333,
+  "voice_duration": 243.304,
+  "last_speech_boundary": 243.255,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.4335779012660776,
+  "subtitle_count": 34,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "README已接入清单支持，但权限集互斥、平台审批及资质要求不能包装为默认开通。能力较宽，按主要模块分组逐项点名，不扩展各官方接口未描述的细节操作。",
+    "AI开放接口的备案只有引导/校验/草稿、不含apply；认证须管理员微信授权付费。代码上传/提审/发布未开放于该包，影片不承诺AI或整个中心自动发布代码。",
+    "好物圈/交易组件/物流/投诉/申诉等互斥标记保留真实边界；不宣称外部审核、申诉或认证一定通过。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

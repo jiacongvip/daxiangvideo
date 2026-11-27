@@ -1,0 +1,37 @@
+{
+  "script_sha256": "d5879ab2ab7737292eb9a7f29c9839d4035ca8881c7afab895e8a8e1a23aebd7",
+  "voice_sha256": "deefe835da0d48218a941e25f69eb7ee033e5d8ba0720032d1a7912ee5852f27",
+  "id": "redpacket",
+  "title": "红包活动：配置打卡解锁与领取记录",
+  "duration": 179.70833333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/137_redpacket/137_红包活动：配置打卡解锁与领取记录_redpacket.mp4",
+  "bytes": 4376840,
+  "sha256": "808bb77fb8a39ed2c9a085405b48ff3247b4142bf52fe1963d1e53c56b07ebca",
+  "full_decode_ok": true,
+  "audio_duration": 179.708,
+  "voice_duration": 179.696,
+  "last_speech_boundary": 179.629,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.730432639608376,
+  "subtitle_count": 25,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "新找到旧归档使用说明明确已完成管理、前端、任务、打卡、发放、统计；仅上述文档支持范围。",
+    "订单支付自动触发仍要求业务接入，部分任务需手动更新；不宣传自动购物触发、外部分享自动核验。",
+    "任务数量原文10种与列13项不一致，不宣称种数；定时自动发放、提醒推送、排行榜、分享抢红包明确可扩展未做，不讲。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}
