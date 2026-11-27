@@ -1,0 +1,68 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Heiti SC,80,&H00FFFFFF,&H000000FF,&H00101010,&H00000000,-1,0,0,0,100,100,0.8,0,1,6,2,2,40,40,0,1
+Style: Tag,Heiti SC,36,&H00FFFFFF,&H000000FF,&H00101010,&H00000000,-1,0,0,0,100,100,0.6,0,1,3,0,7,0,0,0,1
+Style: H1,Heiti SC,60,&H00FFFFFF,&H000000FF,&H00101010,&H00000000,-1,0,0,0,100,100,1.2,0,1,5,3,7,0,0,0,1
+Style: Chip,Heiti SC,46,&H00FFFFFF,&H000000FF,&H00101010,&H00000000,-1,0,0,0,100,100,0.6,0,1,4,0,7,0,0,0,1
+Style: CTA,Heiti SC,52,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0.8,0,1,0,0,5,0,0,0,1
+Style: Shape,Heiti SC,40,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:06.80,Shape,,0,0,0,,{\an7\pos(44,92)\p1\1c&H2C1A0C&\1a&H2C&\bord0\shad0\fad(220,160)}m 20 0 l 340.56 0 b 349.514 0 360.56 11.046 360.56 20 l 360.56 42 b 360.56 50.954 349.514 62 340.56 62 l 20 62 b 11.046 62 0 50.954 0 42 l 0 20 b 0 11.046 11.046 0 20 0{\p0}
+Dialogue: 1,0:00:00.15,0:00:06.80,Tag,,0,0,0,,{\an7\pos(67,105)\fad(220,160)}01 · 别再被外包坑
+Dialogue: 0,0:00:06.95,0:00:19.32,Shape,,0,0,0,,{\an7\pos(44,92)\p1\1c&H2C1A0C&\1a&H2C&\bord0\shad0\fad(220,160)}m 20 0 l 340.56 0 b 349.514 0 360.56 11.046 360.56 20 l 360.56 42 b 360.56 50.954 349.514 62 340.56 62 l 20 62 b 11.046 62 0 50.954 0 42 l 0 20 b 0 11.046 11.046 0 20 0{\p0}
+Dialogue: 1,0:00:06.95,0:00:19.32,Tag,,0,0,0,,{\an7\pos(67,105)\fad(220,160)}02 · 为什么这么贵
+Dialogue: 0,0:00:19.44,0:00:34.94,Shape,,0,0,0,,{\an7\pos(44,92)\p1\1c&H2C1A0C&\1a&H2C&\bord0\shad0\fad(220,160)}m 20 0 l 304.56 0 b 313.514 0 324.56 11.046 324.56 20 l 324.56 42 b 324.56 50.954 313.514 62 304.56 62 l 20 62 b 11.046 62 0 50.954 0 42 l 0 20 b 0 11.046 11.046 0 20 0{\p0}
+Dialogue: 1,0:00:19.44,0:00:34.94,Tag,,0,0,0,,{\an7\pos(67,105)\fad(220,160)}03 · 半小时搭好
+Dialogue: 0,0:00:35.05,0:00:48.85,Shape,,0,0,0,,{\an7\pos(44,92)\p1\1c&H2C1A0C&\1a&H2C&\bord0\shad0\fad(220,160)}m 20 0 l 268.56 0 b 277.514 0 288.56 11.046 288.56 20 l 288.56 42 b 288.56 50.954 277.514 62 268.56 62 l 20 62 b 11.046 62 0 50.954 0 42 l 0 20 b 0 11.046 11.046 0 20 0{\p0}
+Dialogue: 1,0:00:35.05,0:00:48.85,Tag,,0,0,0,,{\an7\pos(67,105)\fad(220,160)}04 · 私域数据
+Dialogue: 0,0:00:48.99,0:00:59.45,Shape,,0,0,0,,{\an7\pos(44,92)\p1\1c&H2C1A0C&\1a&H2C&\bord0\shad0\fad(220,160)}m 20 0 l 304.56 0 b 313.514 0 324.56 11.046 324.56 20 l 324.56 42 b 324.56 50.954 313.514 62 304.56 62 l 20 62 b 11.046 62 0 50.954 0 42 l 0 20 b 0 11.046 11.046 0 20 0{\p0}
+Dialogue: 1,0:00:48.99,0:00:59.45,Tag,,0,0,0,,{\an7\pos(67,105)\fad(220,160)}05 · 怎么找我要
+Dialogue: 2,0:00:06.98,0:00:19.30,H1,,0,0,0,,{\an7\pos(62,210)\fs56\fad(280,200)\fscx106\fscy106\t(0,180,\fscx100\fscy100)}传统外包的真相\N{\c&H4DD2FF&}贵、慢、留不住客户{\c&HFFFFFF&}
+Dialogue: 2,0:00:19.46,0:00:25.86,H1,,0,0,0,,{\an8\pos(540,190)\fs62\fad(280,200)\fscx106\fscy106\t(0,180,\fscx100\fscy100)}后台直接拖拽\N{\c&H4DD2FF&}半小时搭好{\c&HFFFFFF&}
+Dialogue: 2,0:00:25.90,0:00:34.93,H1,,0,0,0,,{\an8\pos(540,190)\fs62\fad(280,200)\fscx106\fscy106\t(0,180,\fscx100\fscy100)}你的品牌小程序\N{\c&H4DD2FF&}就长这个样{\c&HFFFFFF&}
+Dialogue: 2,0:00:35.05,0:00:39.94,H1,,0,0,0,,{\an7\pos(62,210)\fs56\fad(280,200)\fscx106\fscy106\t(0,180,\fscx100\fscy100)}不只是小程序\N{\c&H4DD2FF&}是一套私域抓手{\c&HFFFFFF&}
+Dialogue: 2,0:00:39.95,0:00:48.85,H1,,0,0,0,,{\an7\pos(62,210)\fs56\fad(280,200)\fscx106\fscy106\t(0,180,\fscx100\fscy100)}谁来了、干了啥\N{\c&H4DD2FF&}后台全看得见{\c&HFFFFFF&}
+Dialogue: 2,0:00:49.02,0:00:53.15,H1,,0,0,0,,{\an8\pos(540,190)\fs62\fad(280,200)\fscx106\fscy106\t(0,180,\fscx100\fscy100)}你的行业\N{\c&H4DD2FF&}能做成什么样？{\c&HFFFFFF&}
+Dialogue: 2,0:00:21.60,0:00:25.80,Chip,,0,0,0,,{\an7\pos(96,1170)\fad(240,0)}{\c&H4DD2FF&}01{\c&HFFFFFF&}   各行业成熟模板，直接套用
+Dialogue: 2,0:00:23.40,0:00:25.80,Chip,,0,0,0,,{\an7\pos(96,1260)\fad(240,0)}{\c&H4DD2FF&}02{\c&HFFFFFF&}   商品 / 优惠券 / 私域入口
+Dialogue: 2,0:00:25.40,0:00:25.80,Chip,,0,0,0,,{\an7\pos(96,1350)\fad(240,0)}{\c&H4DD2FF&}03{\c&HFFFFFF&}   拖拽组装，不用懂代码
+Dialogue: 2,0:00:25.90,0:00:28.10,H1,,0,0,0,,{\an8\pos(540,1382)\fs48\c&HFFFFFF&\bord4.5\fad(160,120)\fscx94\fscy94\t(0,140,\fscx100\fscy100)}{\c&H4DD2FF&}校园餐饮{\c&HFFFFFF&} · 会员优惠券
+Dialogue: 2,0:00:28.10,0:00:30.30,H1,,0,0,0,,{\an8\pos(540,1382)\fs48\c&HFFFFFF&\bord4.5\fad(160,120)\fscx94\fscy94\t(0,140,\fscx100\fscy100)}{\c&H4DD2FF&}求职招聘{\c&HFFFFFF&} · 智能匹配
+Dialogue: 2,0:00:30.30,0:00:32.50,H1,,0,0,0,,{\an8\pos(540,1382)\fs48\c&HFFFFFF&\bord4.5\fad(160,120)\fscx94\fscy94\t(0,140,\fscx100\fscy100)}{\c&H4DD2FF&}会展活动{\c&HFFFFFF&} · 展商服务
+Dialogue: 2,0:00:32.50,0:00:34.93,H1,,0,0,0,,{\an8\pos(540,1382)\fs48\c&HFFFFFF&\bord4.5\fad(160,120)\fscx94\fscy94\t(0,140,\fscx100\fscy100)}{\c&H4DD2FF&}大健康{\c&HFFFFFF&} · 产品陈列
+Dialogue: 2,0:00:53.20,0:00:59.50,Shape,,0,0,0,,{\an7\pos(206,996)\p1\1c&H4DD2FF&\1a&H00&\bord0\shad0\fad(260,120)\fscx80\fscy80\t(0,220,\fscx100\fscy100)}m 56 0 l 612 0 b 637.0712 0 668 30.928800000000003 668 56 l 668 56 b 668 81.0712 637.0712 112 612 112 l 56 112 b 30.928800000000003 112 0 81.0712 0 56 l 0 56 b 0 30.928800000000003 30.928800000000003 0 56 0{\p0}
+Dialogue: 3,0:00:53.20,0:00:59.50,CTA,,0,0,0,,{\an5\pos(540,1052)\fad(260,120)\fscx80\fscy80\t(0,220,\fscx100\fscy100)}留个行业，我发你体验号
+Dialogue: 4,0:00:00.03,0:00:02.05,Cap,,0,0,0,,{\an2\pos(540,1760)\fs72\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}现在做个带私域会员的小程序
+Dialogue: 4,0:00:02.30,0:00:04.78,Cap,,0,0,0,,{\an2\pos(540,1760)\fs80\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}居然还有老板花{\c&H4DD2FF&}三五万{\c&HFFFFFF&}\N苦等{\c&H4DD2FF&}两个月{\c&HFFFFFF&}？
+Dialogue: 4,0:00:05.00,0:00:06.82,Cap,,0,0,0,,{\an2\pos(540,1760)\fs74\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}听句劝，别再当{\c&H4DD2FF&}大冤种{\c&HFFFFFF&}了！
+Dialogue: 4,0:00:07.02,0:00:08.06,Cap,,0,0,0,,{\an2\pos(540,1760)\fs80\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}很多老板不知道
+Dialogue: 4,0:00:08.20,0:00:11.28,Cap,,0,0,0,,{\an2\pos(540,1760)\fs78\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}{\c&H4DD2FF&}90%{\c&HFFFFFF&}的商业场景\N根本不用从零写代码
+Dialogue: 4,0:00:11.80,0:00:13.92,Cap,,0,0,0,,{\an2\pos(540,1760)\fs80\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}传统外包不仅贵、上线慢
+Dialogue: 4,0:00:14.04,0:00:16.60,Cap,,0,0,0,,{\an2\pos(540,1760)\fs76\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}最致命的是——\N只给你一个冷冰冰的页面
+Dialogue: 4,0:00:17.05,0:00:19.32,Cap,,0,0,0,,{\an2\pos(540,1760)\fs80\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}客户来了就走\N根本留不下数据
+Dialogue: 4,0:00:19.68,0:00:21.76,Cap,,0,0,0,,{\an2\pos(540,1760)\fs78\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}你看我们这套\N自研的 SaaS 系统
+Dialogue: 4,0:00:22.12,0:00:23.90,Cap,,0,0,0,,{\an2\pos(540,1760)\fs78\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}直接把各行业的\N成熟模板做好了
+Dialogue: 4,0:00:24.09,0:00:25.93,Cap,,0,0,0,,{\an2\pos(540,1760)\fs78\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}不用你懂技术\N后台直接拖拽组件
+Dialogue: 4,0:00:26.27,0:00:31.15,Cap,,0,0,0,,{\an2\pos(540,1760)\fs74\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}把你的产品、优惠券\N还有私域引流入口\N全都挂上去
+Dialogue: 4,0:00:31.69,0:00:34.90,Cap,,0,0,0,,{\an2\pos(540,1760)\fs76\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}半小时就能搭好\N一套你自己的品牌小程序
+Dialogue: 4,0:00:35.24,0:00:36.57,Cap,,0,0,0,,{\an2\pos(540,1760)\fs80\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}而且它不只是个小程序
+Dialogue: 4,0:00:36.84,0:00:38.60,Cap,,0,0,0,,{\an2\pos(540,1760)\fs80\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}更是一套{\c&H4DD2FF&}私域抓手{\c&HFFFFFF&}
+Dialogue: 4,0:00:39.21,0:00:40.64,Cap,,0,0,0,,{\an2\pos(540,1760)\fs78\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}哪个客户进来看了几次
+Dialogue: 4,0:00:40.92,0:00:42.52,Cap,,0,0,0,,{\an2\pos(540,1760)\fs78\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}点没点活动、领没领券
+Dialogue: 4,0:00:42.86,0:00:43.92,Cap,,0,0,0,,{\an2\pos(540,1760)\fs80\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}有没有产生交互
+Dialogue: 4,0:00:44.17,0:00:45.55,Cap,,0,0,0,,{\an2\pos(540,1760)\fs80\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}后台数据{\c&H4DD2FF&}一清二楚{\c&HFFFFFF&}
+Dialogue: 4,0:00:45.87,0:00:48.80,Cap,,0,0,0,,{\an2\pos(540,1760)\fs78\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}帮你把每一次流量\N都变成{\c&H4DD2FF&}私域资产{\c&HFFFFFF&}
+Dialogue: 4,0:00:49.06,0:00:52.06,Cap,,0,0,0,,{\an2\pos(540,1760)\fs78\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}不管你是做门店、零售\N还是企业服务
+Dialogue: 4,0:00:52.26,0:00:55.21,Cap,,0,0,0,,{\an2\pos(540,1760)\fs72\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}想看你的行业\N用这套系统做出来长什么样？
+Dialogue: 4,0:00:55.36,0:00:56.86,Cap,,0,0,0,,{\an2\pos(540,1760)\fs78\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}评论区留个你的行业
+Dialogue: 4,0:00:57.10,0:00:59.41,Cap,,0,0,0,,{\an2\pos(540,1760)\fs78\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}我直接发你体验号\N你自己试！

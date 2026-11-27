@@ -1,0 +1,5 @@
+file '/Users/jiacong/Downloads/剪辑素材/_work/s1.mp4'
+file '/Users/jiacong/Downloads/剪辑素材/_work/s2.mp4'
+file '/Users/jiacong/Downloads/剪辑素材/_work/s3.mp4'
+file '/Users/jiacong/Downloads/剪辑素材/_work/s4.mp4'
+file '/Users/jiacong/Downloads/剪辑素材/_work/s5.mp4'

@@ -1,0 +1,16 @@
+{
+  "destination": "/Users/jiacong/Downloads/大象商城插件视频_20261109_002317",
+  "mp4_count": 200,
+  "total_video_bytes": 128016202,
+  "sha256_all_match": true,
+  "mismatches": 0,
+  "docs": [
+    "制作说明.txt",
+    "插件视频中文索引.csv",
+    "SHA256SUMS.json"
+  ],
+  "spot_ffprobe_count": 20,
+  "spot_ffprobe": "PASS",
+  "transfer_method": "CopyFromBox per-file MP4 (large ZIP packs failed with temporarily unreachable; individual MP4s succeeded)",
+  "drawingboard_included": false
+}

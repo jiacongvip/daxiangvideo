@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>鸡蛋配送案例 · 竖版成片</title>
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  body{background:#0B1220;color:#E9EEF7;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",sans-serif;
+       min-height:100vh;display:flex;flex-direction:column;align-items:center;padding:18px 14px 34px}
+  h1{font-size:17px;font-weight:600;letter-spacing:.3px;margin-bottom:4px;text-align:center}
+  .sub{font-size:12.5px;color:#8A98AD;margin-bottom:14px;text-align:center;line-height:1.6}
+  .player{width:100%;max-width:430px;border-radius:16px;overflow:hidden;background:#000;
+          box-shadow:0 14px 40px rgba(0,0,0,.55);position:relative}
+  video{width:100%;display:block;background:#000}
+  .tip{margin-top:14px;font-size:12.5px;color:#7F8DA3;text-align:center;line-height:1.7}
+  .tip b{color:#FFD24D;font-weight:600}
+  .meta{margin-top:16px;font-size:11.5px;color:#5E6B80;text-align:center;line-height:1.8}
+</style>
+</head>
+<body>
+  <h1>单城卖鸡蛋，一年一个多亿</h1>
+  <div class="sub">真实客户案例 · 竖版成片 81 秒</div>
+
+  <div class="player">
+    <video id="v" src="video.mp4" playsinline webkit-playsinline preload="metadata"
+           controls muted autoplay loop poster=""></video>
+  </div>
+
+  <div class="tip">默认静音播放 · <b>点右下角喇叭</b>开声音</div>
+
+  <div class="meta">1080×1920 / 25fps / 81.1s</div>
+
+<script>
+  var v = document.getElementById('v');
+  document.querySelector('.player').addEventListener('click', function () {
+    if (v.paused) { v.play(); } else { v.pause(); }
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Heiti SC,80,&H00FFFFFF,&H000000FF,&H00101010,&H00000000,-1,0,0,0,100,100,0.8,0,1,6,2,2,40,40,0,1
+Style: Tag,Heiti SC,32,&H00FFFFFF,&H000000FF,&H00101010,&H00000000,-1,0,0,0,100,100,0.6,0,1,3,0,7,0,0,0,1
+Style: Big,Heiti SC,64,&H00FFFFFF,&H000000FF,&H00101010,&H00000000,-1,0,0,0,100,100,1.5,0,1,6,3,8,0,0,0,1
+Style: CTA,Heiti SC,50,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0.8,0,1,0,0,5,0,0,0,1
+Style: Shape,Heiti SC,40,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:18.12,Shape,,0,0,0,,{\an7\pos(44,150)\p1\1c&H2C1A0C&\1a&H2C&\bord0\shad0\fad(200,150)}m 18 0 l 360.88 0 b 368.9386 0 378.88 9.9414 378.88 18 l 378.88 38 b 378.88 46.0586 368.9386 56 360.88 56 l 18 56 b 9.9414 56 0 46.0586 0 38 l 0 18 b 0 9.9414 9.9414 0 18 0{\p0}
+Dialogue: 1,0:00:00.05,0:00:18.12,Tag,,0,0,0,,{\an7\pos(64,162)\fad(200,150)}真实客户案例 · 已脱敏
+Dialogue: 0,0:00:18.25,0:00:34.59,Shape,,0,0,0,,{\an7\pos(60,158)\p1\1c&H4DD2FF&\bord0\shad0\fad(220,160)}m 4 0 l 6 0 b 7.7908 0 10 2.2092 10 4 l 10 36 b 10 37.7908 7.7908 40 6 40 l 4 40 b 2.2092 40 0 37.7908 0 36 l 0 4 b 0 2.2092 2.2092 0 4 0{\p0}
+Dialogue: 1,0:00:18.25,0:00:34.59,Tag,,0,0,0,,{\an7\pos(86,158)\fs34\c&HFFFFFF&\fad(220,160)}01 价格与拓客
+Dialogue: 0,0:01:09.10,0:01:21.11,Shape,,0,0,0,,{\an7\pos(60,158)\p1\1c&H4DD2FF&\bord0\shad0\fad(220,160)}m 4 0 l 6 0 b 7.7908 0 10 2.2092 10 4 l 10 36 b 10 37.7908 7.7908 40 6 40 l 4 40 b 2.2092 40 0 37.7908 0 36 l 0 4 b 0 2.2092 2.2092 0 4 0{\p0}
+Dialogue: 1,0:01:09.10,0:01:21.11,Tag,,0,0,0,,{\an7\pos(86,158)\fs34\c&HFFFFFF&\fad(220,160)}04 怎么看后台
+Dialogue: 2,0:00:12.17,0:00:18.12,Big,,0,0,0,,{\an7\pos(62,252)\fad(240,180)\fscx108\fscy108\t(0,200,\fscx100\fscy100)}一套系统\N{\c&H4DD2FF&}管完整个生意{\c&HFFFFFF&}
+Dialogue: 2,0:00:34.59,0:00:38.15,Big,,0,0,0,,{\an7\pos(62,252)\fad(240,180)\fscx108\fscy108\t(0,200,\fscx100\fscy100)}02 配送\N{\c&H4DD2FF&}批次 · 路线 · 司机{\c&HFFFFFF&}
+Dialogue: 2,0:00:49.50,0:00:53.56,Big,,0,0,0,,{\an7\pos(62,252)\fad(240,180)\fscx108\fscy108\t(0,200,\fscx100\fscy100)}03 结算\N{\c&H4DD2FF&}筐和账，最容易漏{\c&HFFFFFF&}
+Dialogue: 2,0:01:09.05,0:01:13.10,Big,,0,0,0,,{\an7\pos(62,252)\fad(240,180)\fscx108\fscy108\t(0,200,\fscx100\fscy100)}你的行业\N{\c&H4DD2FF&}能做成什么样？{\c&HFFFFFF&}
+Dialogue: 2,0:01:17.04,0:01:21.01,Shape,,0,0,0,,{\an7\pos(170,900)\p1\1c&H4DD2FF&\1a&H00&\bord0\shad0\fad(260,120)\fscx80\fscy80\t(0,220,\fscx100\fscy100)}m 54 0 l 686 0 b 710.1758 0 740 29.8242 740 54 l 740 54 b 740 78.1758 710.1758 108 686 108 l 54 108 b 29.8242 108 0 78.1758 0 54 l 0 54 b 0 29.8242 29.8242 0 54 0{\p0}
+Dialogue: 3,0:01:17.04,0:01:21.01,CTA,,0,0,0,,{\an5\pos(540,954)\fad(260,120)\fscx80\fscy80\t(0,220,\fscx100\fscy100)}留个「配送」，我发你体验号
+Dialogue: 4,0:00:00.00,0:00:03.45,Cap,,0,0,0,,{\an2\pos(540,1450)\fs70\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}在一个城市光靠卖鸡蛋\N一年能干到 1 个多亿？
+Dialogue: 4,0:00:03.45,0:00:06.99,Cap,,0,0,0,,{\an2\pos(540,1450)\fs70\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}这是我们真实服务的\N一家同城配送客户
+Dialogue: 4,0:00:06.99,0:00:12.17,Cap,,0,0,0,,{\an2\pos(540,1450)\fs68\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}很多老板问我\N他怎么管好几千家门店和车队
+Dialogue: 4,0:00:12.17,0:00:14.88,Cap,,0,0,0,,{\an2\pos(540,1450)\fs70\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}核心就靠这套定制的\N同城 B2B 配送系统
+Dialogue: 4,0:00:14.88,0:00:18.12,Cap,,0,0,0,,{\an2\pos(540,1450)\fs70\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}第一，业务员跑市场神器
+Dialogue: 4,0:00:18.20,0:00:25.73,Cap,,0,0,0,,{\an2\pos(540,1450)\fs70\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}做批发最怕价格乱\N系统支持{\c&H4DD2FF&}阶梯价{\c&HFFFFFF&}\N新老客户「一客一价」
+Dialogue: 4,0:00:26.00,0:00:34.59,Cap,,0,0,0,,{\an2\pos(540,1450)\fs68\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}不会用手机的餐饮老板\N业务员手机直接「代客下单」\N业绩自动算提成
+Dialogue: 4,0:00:34.59,0:00:38.15,Cap,,0,0,0,,{\an2\pos(540,1450)\fs70\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}第二，把配送成本压到极致
+Dialogue: 4,0:00:38.15,0:00:44.63,Cap,,0,0,0,,{\an2\pos(540,1450)\fs70\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}每天几千单怎么送\N系统按{\c&H4DD2FF&}配送批次{\c&HFFFFFF&}汇总\N给司机做最优{\c&H4DD2FF&}路径规划{\c&HFFFFFF&}
+Dialogue: 4,0:00:44.63,0:00:49.50,Cap,,0,0,0,,{\an2\pos(540,1450)\fs70\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}过去人工排线要两小时\N现在几秒发到{\c&H4DD2FF&}配送员系统{\c&HFFFFFF&}
+Dialogue: 4,0:00:49.50,0:00:53.56,Cap,,0,0,0,,{\an2\pos(540,1450)\fs70\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}第三，最头疼的烂账和丢筐
+Dialogue: 4,0:00:53.80,0:00:58.45,Cap,,0,0,0,,{\an2\pos(540,1450)\fs70\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}餐饮店习惯「记账月结」\N送鸡蛋每次都要押筐退筐
+Dialogue: 4,0:00:58.45,0:01:09.05,Cap,,0,0,0,,{\an2\pos(540,1450)\fs70\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}系统里有{\c&H4DD2FF&}退筐结算{\c&HFFFFFF&}\N和月结对账\N送货、退筐、欠款一目了然
+Dialogue: 4,0:01:09.05,0:01:16.84,Cap,,0,0,0,,{\an2\pos(540,1450)\fs70\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}做生鲜、冻品、酒水\N或同城批发的老板\N想看后台长什么样？
+Dialogue: 4,0:01:16.84,0:01:20.68,Cap,,0,0,0,,{\an2\pos(540,1450)\fs70\fad(90,0)\fscx104\fscy104\t(0,150,\fscx100\fscy100)}评论区留个「配送」\N我发你演示号自己试
