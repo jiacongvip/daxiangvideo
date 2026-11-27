@@ -1,0 +1,36 @@
+{
+  "id": "aiscene",
+  "title": "AI商品场景",
+  "duration": 128.91666666666666,
+  "video": "/workspace/daxiang_detailed_series/plugins/010_aiscene/010_AI商品场景_aiscene_详细案例.mp4",
+  "bytes": 2921222,
+  "sha256": "d58bf228fe66d541a965e1571c4b85c26fb9d1899f753b540e9ce3a9dc1f7a8d",
+  "full_decode_ok": true,
+  "audio_duration": 128.917,
+  "voice_duration": 128.912,
+  "last_speech_boundary": 128.863,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.3091556941279405,
+  "subtitle_count": 22,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "第三方模型效果与商品一致性未测",
+    "海报/蒙版/异步/独立计数为二期，不能宣传已支持"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview",
+  "script_sha256": "d4997d91b061d81554138febe5aaeea852c1d25a413aa841f9dbe18794eff2f6",
+  "voice_sha256": "3572f11be369ca5caf2dfeb5b2ae0f61d6d045037f47dc8490123b889d6b7d53"
+}

@@ -1,0 +1,36 @@
+{
+  "script_sha256": "c108383c571415fe2827bcf5d1085c413c8ef127c06e6abb61bb69598d83067c",
+  "voice_sha256": "fb9eb9c5db8b9b2587267abc890a92eba96cf0b202adabcef3e3613b14d20a7e",
+  "id": "fxcoupon",
+  "title": "分销发券：额度预算与定向发放",
+  "duration": 122.95833333333333,
+  "video": "/workspace/daxiang_detailed_series/plugins/068_fxcoupon/068_分销发券：额度预算与定向发放_fxcoupon.mp4",
+  "bytes": 2942220,
+  "sha256": "46208a0e17892d6604fadcd5d96d71e25480025aadfbc3317e3de072331ec2f8",
+  "full_decode_ok": true,
+  "audio_duration": 122.958,
+  "voice_duration": 122.952,
+  "last_speech_boundary": 122.894,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.817641772407973,
+  "subtitle_count": 20,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅发券预算与记录，不推断资金充值/提现、退款退额度、券叠加或到期规则。",
+    "不将团队范围用于招募或收益宣传，不给出未经原文说明的层数限制。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

@@ -1,0 +1,37 @@
+{
+  "script_sha256": "d6c1875a33a4e249510fe722bbc4f74fe286894085a2a3123e845dff7518fdd4",
+  "voice_sha256": "80d5f17fa7b3c91a848e32f4b426526b259fc08acc3dafe8dfe39bffd3b746cb",
+  "id": "daojia",
+  "title": "到家服务：会员价与结算配置",
+  "duration": 165.375,
+  "video": "/workspace/daxiang_detailed_series/plugins/045_daojia/045_到家服务：会员价与结算配置_daojia.mp4",
+  "bytes": 3886401,
+  "sha256": "0170417d62d2e61cbcf2df88e06d5f8ffe4aeb61562d5d282001b7860cf2e4d9",
+  "full_decode_ok": true,
+  "audio_duration": 165.375,
+  "voice_duration": 165.352,
+  "last_speech_boundary": 165.296,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.368506959711407,
+  "subtitle_count": 26,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "本片仅会员价与结算参数；元数据技师管理、派单等具体操作缺足够业务说明，不扩写完整履约。",
+    "退款自动冲正、佣金后台查询页明确未做，不展示；不承诺固定分佣层数/收益或自动退款追回。",
+    "不展示预估可赚金额；现有预估与实付取价口径不同，只讲实际订单价格基准。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

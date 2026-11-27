@@ -1,0 +1,36 @@
+{
+  "script_sha256": "b0727cc1b1132494ab9187876651b763c87a0e2c15fa9bd5d5cd9830b17616d4",
+  "voice_sha256": "77dbee9b5060bf2fe771d6ad2a3ca54081cbafe651553f955bf8d39bc4bc00a2",
+  "id": "aliyun-ocr",
+  "title": "阿里云OCR识别",
+  "duration": 142.75,
+  "video": "/workspace/daxiang_detailed_series/plugins/014_aliyun-ocr/014_阿里云OCR识别_aliyun-ocr.mp4",
+  "bytes": 3215576,
+  "sha256": "d044b89da4649e37438e0e68d5d25d06c8e8789bf8578ec953c7572587ec8bbd",
+  "full_decode_ok": true,
+  "audio_duration": 142.75,
+  "voice_duration": 142.736,
+  "last_speech_boundary": 142.685,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.8546328527784004,
+  "subtitle_count": 22,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "业务说明描述原内置同名OCR模块；视频只讲已有模块操作，不宣称插件独立迁移完成或独立安装能力。",
+    "批量识别、识别结果导出、统计图表在后续建议中，全部剔除；识别效果不保证100%。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

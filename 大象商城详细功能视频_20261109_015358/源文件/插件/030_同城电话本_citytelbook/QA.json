@@ -1,0 +1,36 @@
+{
+  "script_sha256": "2b81fdbcf1f102fb3952ffe164f8b1d28826665d62a8558bb2b900e08973bfdc",
+  "voice_sha256": "c8fb93354c43d3ce7f0c84dd892050858f3b8472e92de1fe70917798fec718e1",
+  "id": "citytelbook",
+  "title": "同城电话本",
+  "duration": 164.875,
+  "video": "/workspace/daxiang_detailed_series/plugins/030_citytelbook/030_同城电话本_citytelbook.mp4",
+  "bytes": 3708062,
+  "sha256": "539f682d3b3648a17a07c8ebd159df0612359081377f84435d86e325b0323dbe",
+  "full_decode_ok": true,
+  "audio_duration": 164.875,
+  "voice_duration": 164.872,
+  "last_speech_boundary": 164.818,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.3184017235083738,
+  "subtitle_count": 24,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "基于0.1.0落地记忆交叉核对首版计划，仅使用已落地API范围。",
+    "付费入驻、商家自助上下架、咨询留言、评分、全城地图模式均为后续扩展，不宣称现有能力。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

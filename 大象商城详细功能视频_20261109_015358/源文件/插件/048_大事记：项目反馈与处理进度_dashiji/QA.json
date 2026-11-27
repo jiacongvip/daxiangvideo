@@ -1,0 +1,35 @@
+{
+  "script_sha256": "2eca54ae5edf6d8dc0db4d5c1f78fbeb9b4d55bce96bec68de0fe4bbab2434c8",
+  "voice_sha256": "aaea6250b25233a6bd0cc0571d1c5dc5a372f1607c10efd9d549bd1ca5758643",
+  "id": "dashiji",
+  "title": "大事记：项目反馈与处理进度",
+  "duration": 148.83333333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/048_dashiji/048_大事记：项目反馈与处理进度_dashiji.mp4",
+  "bytes": 3458102,
+  "sha256": "0e4bf70e2377db4f1d43822836de62ca793d4393f4cc38b0c16d290b9b0d1a95",
+  "full_decode_ok": true,
+  "audio_duration": 148.833,
+  "voice_duration": 148.832,
+  "last_speech_boundary": 148.779,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.326073944035908,
+  "subtitle_count": 26,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "功能说明称导出含身份列，总结称默认不含，冲突项不作客户具体承诺；仅说明导出与身份权限独立，未宣称绝对匿名。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

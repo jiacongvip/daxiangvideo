@@ -1,0 +1,36 @@
+{
+  "script_sha256": "93320864525c21a6bfc2cdfeb2c2854dd29c9ae251f1cb6e65f5b7cdd2d610d9",
+  "voice_sha256": "0df77f81e4987d8b4bc32302ba9aafb92cf000f6b623d4d107954323fa599df6",
+  "id": "jietiquanfan",
+  "title": "阶梯全返：活动规则与解锁记录",
+  "duration": 146.08333333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/085_jietiquanfan/085_阶梯全返：活动规则与解锁记录_jietiquanfan.mp4",
+  "bytes": 3556771,
+  "sha256": "875e4931988ae4241a440f2dda9861c20fa5ecf4d79a64edf36759d07d143e4a",
+  "full_decode_ok": true,
+  "audio_duration": 146.083,
+  "voice_duration": 146.072,
+  "last_speech_boundary": 146.013,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.1081194094823372,
+  "subtitle_count": 22,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅客观后台条件与记录，不宣传满员收益，不鼓励拉人头，不用数值回报例。",
+    "发放到系统佣金/余额，不承诺支付通道或银行实际到账；不扩写未描述的财务追缴能力。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

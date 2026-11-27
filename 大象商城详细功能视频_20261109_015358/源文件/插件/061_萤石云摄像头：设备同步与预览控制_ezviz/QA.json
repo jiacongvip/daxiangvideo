@@ -1,0 +1,36 @@
+{
+  "script_sha256": "c26aa73b9d5932320c3a5bb815f244f74ff813b0dd2c2ddeb79f80a4ce6b4f9c",
+  "voice_sha256": "b9641c44148f7991b440da6aaebb8f734e7e4af9e712503f5212ee00779b8bc9",
+  "id": "ezviz",
+  "title": "萤石云摄像头：设备同步与预览控制",
+  "duration": 125.54166666666667,
+  "video": "/workspace/daxiang_detailed_series/plugins/061_ezviz/061_萤石云摄像头：设备同步与预览控制_ezviz.mp4",
+  "bytes": 2940891,
+  "sha256": "87e7e04cbcaed97083cf6c6b438fcadb947d845707647e2f0a27f56d36a56d7e",
+  "full_decode_ok": true,
+  "audio_duration": 125.542,
+  "voice_duration": 125.52,
+  "last_speech_boundary": 125.46,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.7948926857010212,
+  "subtitle_count": 18,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "README对设备验证码是否返回有矛盾；不宣传字段暴露/加密安全保证，不演示真实验证码。",
+    "不扩写录像回放、告警、人脸识别、无限并发或无条件可控。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

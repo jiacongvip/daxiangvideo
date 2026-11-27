@@ -1,0 +1,36 @@
+{
+  "script_sha256": "3e01aa104bbc3c65fe1c7f01cb7bed33f98f97935e36cb380a279efcd6c72a08",
+  "voice_sha256": "f98d3cc2ce4e6795fe874acd8f67888907b441095cf006c8930f5f491229a193",
+  "id": "carouselpay",
+  "title": "轮播支付：易支付通道轮询",
+  "duration": 96.83333333333333,
+  "video": "/workspace/daxiang_detailed_series/plugins/025_carouselpay/025_轮播支付：易支付通道轮询_carouselpay.mp4",
+  "bytes": 2276061,
+  "sha256": "8e99c03172c60d5213e3643778b3abdb0c5fd56e3ca45c2fb8f955416d06c7a9",
+  "full_decode_ok": true,
+  "audio_duration": 96.833,
+  "voice_duration": 96.832,
+  "last_speech_boundary": 96.781,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.0754095328692737,
+  "subtitle_count": 16,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "只讲v1明确已实现的易支付；v2微信/支付宝/中金原生轮播、权重随机、驾驶舱、升级任务均排除。",
+    "未保证支付成功率、自动容灾、成本降低、结算收益或资金安全。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

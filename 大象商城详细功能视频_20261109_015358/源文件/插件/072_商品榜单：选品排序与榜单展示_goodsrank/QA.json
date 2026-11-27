@@ -1,0 +1,36 @@
+{
+  "script_sha256": "342badfb4953be0507cda9c9834cc78a2afb945407c5fa6119f412d19b3dca80",
+  "voice_sha256": "509d9901d0b28bae235827772ed9e12c7b9a32fb0157fb051b558f6582de1d3f",
+  "id": "goodsrank",
+  "title": "商品榜单：选品排序与榜单展示",
+  "duration": 124.58333333333333,
+  "video": "/workspace/daxiang_detailed_series/plugins/072_goodsrank/072_商品榜单：选品排序与榜单展示_goodsrank.mp4",
+  "bytes": 2939601,
+  "sha256": "289a685270a9c69e0bc235f7b69ba4aa4ef6647979c93f9e41e70b052f2aceb6",
+  "full_decode_ok": true,
+  "audio_duration": 124.583,
+  "voice_duration": 124.56,
+  "last_speech_boundary": 124.52,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -3.4177176750028466,
+  "subtitle_count": 19,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "访问统计与商品点击埋点仍为后续，不宣传；不把自选排名包装真实销量排名。",
+    "不保证主题联动，首页与单榜独立设置。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

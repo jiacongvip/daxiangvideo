@@ -1,0 +1,36 @@
+{
+  "script_sha256": "5327967301ea8ccdacf600e69194d8bd74c98f12f9252044946422b5fb266b98",
+  "voice_sha256": "84e91d05487f504f5c9c33fa9e57e2a50b582e2019c918e433b501c9ef1bc2b9",
+  "id": "express100",
+  "title": "快递100：网点配置与电子面单",
+  "duration": 146.04166666666666,
+  "video": "/workspace/daxiang_detailed_series/plugins/060_express100/060_快递100：网点配置与电子面单_express100.mp4",
+  "bytes": 3377790,
+  "sha256": "b4a198cad02b8cea2cd212997c3592dc4834dd8aa62a44bcb9338eb089780d48",
+  "full_decode_ok": true,
+  "audio_duration": 146.042,
+  "voice_duration": 146.024,
+  "last_speech_boundary": 145.973,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.5028796112122227,
+  "subtitle_count": 24,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "开发总结明确P0–P4与批量已完成，但有效账号真机联调尚列后续；仅讲软件操作和外部结果处理，不声称真实网点已开通或打印机已验证。",
+    "不宣传尚待扩展的记录导出、订单类型筛选、寄件地址簿或打印机绑定校验。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

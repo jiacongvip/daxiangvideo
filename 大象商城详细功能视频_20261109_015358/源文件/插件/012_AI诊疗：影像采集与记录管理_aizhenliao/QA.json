@@ -1,0 +1,36 @@
+{
+  "script_sha256": "7602bd67853cf41f425167111841ae815fe580588a047a867a8fad96e22f43c1",
+  "voice_sha256": "cb8fc7b04d221419e00bbe380adef702d06df3609cdbfdacf311fe8e92b448a4",
+  "id": "aizhenliao",
+  "title": "AI诊疗：影像采集与记录管理",
+  "duration": 181.95833333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/012_aizhenliao/012_AI诊疗：影像采集与记录管理_aizhenliao.mp4",
+  "bytes": 4202806,
+  "sha256": "20035f71fc223e35f810060ef9296755d407d0f09ca978d91b1980189ebe63b2",
+  "full_decode_ok": true,
+  "audio_duration": 181.958,
+  "voice_duration": 181.944,
+  "last_speech_boundary": 181.878,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.500404728368119,
+  "subtitle_count": 26,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "独立前端/API未迁移；共享原模块数据；专家入口仍跨内置，均不宣称独立隔离或已迁移。",
+    "仅介绍影像与资料管理，不承诺诊断准确性、疗效、替代医生或推荐商品疗效。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

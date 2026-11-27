@@ -1,0 +1,38 @@
+{
+  "script_sha256": "e389c28ad9184090a6dcc670ecd9997c1a7a083f320edeb6b8eead28da8d511b",
+  "voice_sha256": "60ee7921f8f3ed0f8b74f666746fbec8208256716aaf5db4eb6f9b8b38486bbf",
+  "id": "hbtk",
+  "title": "拓客活动：订单参与抽奖与履约记录",
+  "duration": 181.04166666666666,
+  "video": "/workspace/daxiang_detailed_series/plugins/074_hbtk/074_拓客活动：订单参与抽奖与履约记录_hbtk.mp4",
+  "bytes": 4305587,
+  "sha256": "ac590b66c8607f3ec2c570a8cb04b056b4b5084f5caf4466a6532aa5fbbc7426",
+  "full_decode_ok": true,
+  "audio_duration": 181.042,
+  "voice_duration": 181.032,
+  "last_speech_boundary": 180.967,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.2104880046695734,
+  "subtitle_count": 27,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅业务说明明确的活动订单与资格/记录；不宣传现金奖品、保中奖、分佣收益或促销效果。",
+    "核销文档后端其他接口仍写需修改，不声称全终端核销已验收；只讲明确的活动核销员范围与已有核销流程。",
+    "未覆盖抽奖分账渠道，另缺完整支付服务闭环证据；不作分账到账承诺。",
+    "排行榜资料中的“用户数”实为订单计数口径；片中仅说记录范围，不宣传真实去重人数或无限层数。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

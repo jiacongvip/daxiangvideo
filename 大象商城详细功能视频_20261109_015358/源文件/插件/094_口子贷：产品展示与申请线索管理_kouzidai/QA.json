@@ -1,0 +1,37 @@
+{
+  "script_sha256": "acb266b045af1b0bb821a91c708342a2eff06966314d9f8d90cf24fbdf7b14c9",
+  "voice_sha256": "5631b2cff43150918c567e293d02d21ded8db0fdc449c8b31d3d85b78ab7fac7",
+  "id": "kouzidai",
+  "title": "口子贷：产品展示与申请线索管理",
+  "duration": 156.70833333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/094_kouzidai/094_口子贷：产品展示与申请线索管理_kouzidai.mp4",
+  "bytes": 3652127,
+  "sha256": "b840fa95c7b764f6462a0debf9a6e7c2e4beba525d9091c621e1a6b0af4c5ea0",
+  "full_decode_ok": true,
+  "audio_duration": 156.708,
+  "voice_duration": 156.704,
+  "last_speech_boundary": 156.655,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.649818753661413,
+  "subtitle_count": 23,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "明确一期二期仅线索收集，不对接真实资金方，客户片保留这一产品边界，不讲银行审批或实际放款。",
+    "延迟拒绝客观描述产品策略，绝不包装真实银行审核；不制作诱导购买会员即可获贷的案例。",
+    "原metadata自动审核用语较宽，按完成总结限定人工或初审后延时拒绝；不新增自主风控评分、征信查询、贷款额度核验。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

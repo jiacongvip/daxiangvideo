@@ -1,0 +1,35 @@
+{
+  "script_sha256": "e1c4c40c25202cdb4407518eaa11d8365cb0851b473d4ef4d0497b8754408362",
+  "voice_sha256": "6c1a5cbf75b0d9e40abd00c606e59d7c44e00a8843b2a9161ac7cb7dc9ac0bc7",
+  "id": "equitypool",
+  "title": "股权池：后台台账与参数管理",
+  "duration": 129.20833333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/056_equitypool/056_股权池：后台台账与参数管理_equitypool.mp4",
+  "bytes": 3006235,
+  "sha256": "88dc9e82985dda43d5abd058075272e06670f40ab33d33865855fdc75e663301",
+  "full_decode_ok": true,
+  "audio_duration": 129.208,
+  "voice_duration": 129.168,
+  "last_speech_boundary": 129.114,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.4949746597993805,
+  "subtitle_count": 20,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "无证券/确权/收益/分红到账承诺；不推断同步来源与比例公式。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

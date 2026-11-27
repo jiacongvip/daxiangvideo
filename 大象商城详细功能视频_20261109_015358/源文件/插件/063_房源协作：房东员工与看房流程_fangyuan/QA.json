@@ -1,0 +1,35 @@
+{
+  "script_sha256": "0ea9894dd7e9a8cff8cbd59d01a18aa5b21e0e395d1ba2759a4053b17b7b0ec9",
+  "voice_sha256": "18ecd569dc6affb503e2a47bfe05bd66cf17666d36c31923c00a37ba2e688b59",
+  "id": "fangyuan",
+  "title": "房源协作：房东员工与看房流程",
+  "duration": 166.875,
+  "video": "/workspace/daxiang_detailed_series/plugins/063_fangyuan/063_房源协作：房东员工与看房流程_fangyuan.mp4",
+  "bytes": 3920845,
+  "sha256": "0159f621c71b859c89c92c835bfe34e26de6e18f282c6284712e39d76d0d2c6f",
+  "full_decode_ok": true,
+  "audio_duration": 166.875,
+  "voice_duration": 166.84,
+  "last_speech_boundary": 166.776,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.8383268392465182,
+  "subtitle_count": 27,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "一期任务页明确静态占位，未展示或宣传任务中心自动派单；不保证成交、不展示真实房源/电话/价格。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

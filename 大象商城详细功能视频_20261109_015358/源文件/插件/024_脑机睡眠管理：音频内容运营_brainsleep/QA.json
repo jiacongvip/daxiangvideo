@@ -1,0 +1,36 @@
+{
+  "script_sha256": "924e9f4689deed473df7336bfd7ee3c428aa5e20a32b50d0846ffbfb6f411a04",
+  "voice_sha256": "40e7aed7b266b542d1519f9b2b03174843c4a4b56e79602e56b4d7a4b9185dd2",
+  "id": "brainsleep",
+  "title": "脑机睡眠管理：音频内容运营",
+  "duration": 162.95833333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/024_brainsleep/024_脑机睡眠管理：音频内容运营_brainsleep.mp4",
+  "bytes": 3752966,
+  "sha256": "cb8a6f6a6382bbcdb21b329605bc1cc26b8a0210dd1062467f8dccee317f81bd",
+  "full_decode_ok": true,
+  "audio_duration": 162.958,
+  "voice_duration": 162.952,
+  "last_speech_boundary": 162.885,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.5177982030352513,
+  "subtitle_count": 25,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "设备连接明确为占位；设备协议、蓝牙扫描和厂商SDK未接入，完全不展示设备连接能力。",
+    "无疗效/治疗/助眠效果承诺；仅场景音频内容运营。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

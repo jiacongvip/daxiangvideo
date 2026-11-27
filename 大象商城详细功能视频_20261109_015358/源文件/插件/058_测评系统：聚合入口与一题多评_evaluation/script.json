@@ -1,0 +1,127 @@
+{
+  "id": "evaluation",
+  "title": "测评系统：聚合入口与一题多评",
+  "index": 58,
+  "kind": "plugin",
+  "output_filename": "058_测评系统：聚合入口与一题多评_evaluation.mp4",
+  "chapters": [
+    {
+      "heading": "一次部门测评，怎样组织入口",
+      "role": "演示：内部满意度测评",
+      "points": [
+        "聚合分组",
+        "项目入口",
+        "参与与提交"
+      ],
+      "narration": "这里是大象商城。以一次演示内部满意度测评为例，看怎样把多个项目放进聚合入口，再配置一题多评的评价要求。参与人自己填写评价，后台组织项目和入口，再由参与人按实际情况进入填写。",
+      "source": "b04_evaluation_groups.md:3-4;b04_evaluation_options.md:3-7",
+      "visual": "intro",
+      "phase": 0
+    },
+    {
+      "heading": "先建分组，管理多个聚合页",
+      "role": "后台运营人员",
+      "points": [
+        "名称",
+        "排序",
+        "启用状态"
+      ],
+      "narration": "后台新增聚合页面分组，填写名称、排序和状态。已有分组可以编辑、停用，排序值越大越靠前。分组下面已有聚合页面时，不允许直接删除，先整理所属页面，再处理分组。",
+      "source": "b04_evaluation_groups.md:56-88;b04_evaluation_groups.md:100-105",
+      "visual": "groups",
+      "phase": 0
+    },
+    {
+      "heading": "聚合页，组织项目与展示资料",
+      "role": "后台运营人员",
+      "points": [
+        "所属分组",
+        "背景与标题",
+        "项目列表"
+      ],
+      "narration": "新增或编辑聚合页时，可以选择所属分组，也可以保持未分组。页面可配置背景颜色或图片，背景图片优先展示；标题和可选备注帮助参与人识别本次活动。多个测评项目集中到同一入口，再按分组筛选管理。",
+      "source": "b04_evaluation_groups.md:65-88;b04_evaluation_groups.md:100-105;b04_evaluation_groups.md:119-133",
+      "visual": "page",
+      "phase": 1
+    },
+    {
+      "heading": "参与前，先看时间和完成状态",
+      "role": "测评参与人",
+      "points": [
+        "未开始 / 进行中",
+        "已结束",
+        "待完成 / 已完成"
+      ],
+      "narration": "参与人进入聚合页，查看项目名称、时间范围和完成状态。未开始或已结束的项目不能进入，已完成的项目不能重复测评。登录用户按账号判断完成情况，未登录用户按本地会话判断，二者的识别范围不同。",
+      "source": "b04_evaluation_groups.md:128-139",
+      "visual": "status",
+      "phase": 1
+    },
+    {
+      "heading": "一题多评，有两种提交要求",
+      "role": "项目配置人员",
+      "points": [
+        "必须全评",
+        "可选评价",
+        "按场景配置"
+      ],
+      "narration": "在一题多评模式下，管理员可以选择必须全评，或者可选评价。必须全评要求每题的所有被评单位都完成评价；可选评价允许只评价部分单位，但至少评价一个单位，不能空白提交。这个配置不是一题一评的选项。",
+      "source": "b04_evaluation_options.md:45-57;b04_evaluation_options.md:253-265",
+      "visual": "choices",
+      "phase": 2
+    },
+    {
+      "heading": "选项限制，随评价模式区分",
+      "role": "项目配置人员",
+      "points": [
+        "全评检查最少数",
+        "可选不强制最少数",
+        "占比基数不同"
+      ],
+      "narration": "必须全评时，提交会检查最少选择数量，并以全部单位作为最多占比的计算基数。可选评价跳过最少数量限制，最多占比则按实际已评价的单位数计算。先确定参与方式，再配置限制，避免把不同模式套用同一套理解。",
+      "source": "b04_evaluation_options.md:81-108;b04_evaluation_options.md:199-207",
+      "visual": "rules",
+      "phase": 2
+    },
+    {
+      "heading": "入口生成后，让参与人进入",
+      "role": "后台运营人员",
+      "points": [
+        "二维码",
+        "H五链接",
+        "小程序路径"
+      ],
+      "narration": "聚合页列表提供链接查看，可以取二维码、复制H五链接与小程序路径，并生成小程序码。运营人员先确认项目与分组，再分发对应入口。参与人进入后，仍按项目时间、完成状态与评价规则继续填写。",
+      "source": "b04_evaluation_groups.md:203-219;b04_evaluation_groups.md:128-139",
+      "visual": "links",
+      "phase": 3
+    },
+    {
+      "heading": "把入口、参与范围与提交要求对齐",
+      "role": "功能回顾",
+      "points": [
+        "分组管理",
+        "聚合展示",
+        "真实参与填写"
+      ],
+      "narration": "这次演示先组织分组和聚合页，再让参与人识别项目状态，按必须全评或可选评价提交。大象商城测评系统把项目入口与参与要求衔接起来，让每份评价来自参与人的实际填写。",
+      "source": "b04_evaluation_groups.md:56-88;b04_evaluation_options.md:45-57",
+      "visual": "close",
+      "phase": 3
+    }
+  ],
+  "phases": [
+    "组织分组",
+    "聚合项目",
+    "评价要求",
+    "分发入口"
+  ],
+  "accent": "#ABBFC9",
+  "gaps": [
+    "仅聚合与一题多评子范围；不将其描述为心理诊断/考试系统或生成评价工具；未覆盖完整评分报表与其他模式。",
+    "来源关于至少评价一单位的逐题/全局文字有细节差异，不扩写跨题豁免。"
+  ],
+  "parent_theme": null,
+  "customer_scope": "测评系统：聚合入口与一题多评",
+  "visual_revision": "final_audit_clockwise_recap_1_2_3_4"
+}

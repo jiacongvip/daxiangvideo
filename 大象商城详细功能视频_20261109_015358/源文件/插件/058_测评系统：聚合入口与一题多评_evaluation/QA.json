@@ -1,0 +1,36 @@
+{
+  "script_sha256": "72c8f1a884c7e459f33956ce12bebe5ed31109b446766f997fcbb45f8e365d24",
+  "voice_sha256": "376708c3f3c47647a4c1936ee1685260f68ac266a529897be3d9e19fba281ea6",
+  "id": "evaluation",
+  "title": "测评系统：聚合入口与一题多评",
+  "duration": 146.54166666666666,
+  "video": "/workspace/daxiang_detailed_series/plugins/058_evaluation/058_测评系统：聚合入口与一题多评_evaluation.mp4",
+  "bytes": 3386588,
+  "sha256": "6ba4fde8b195c52084ce0fb3660f60040bcc90d7caf9e13264e69aed6ca4d240",
+  "full_decode_ok": true,
+  "audio_duration": 146.542,
+  "voice_duration": 146.504,
+  "last_speech_boundary": 146.456,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.29122736078789,
+  "subtitle_count": 23,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅聚合与一题多评子范围；不将其描述为心理诊断/考试系统或生成评价工具；未覆盖完整评分报表与其他模式。",
+    "来源关于至少评价一单位的逐题/全局文字有细节差异，不扩写跨题豁免。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

@@ -1,0 +1,140 @@
+{
+  "id": "citytelbook",
+  "title": "同城电话本",
+  "index": 30,
+  "kind": "plugin",
+  "output_filename": "030_同城电话本_citytelbook.mp4",
+  "chapters": [
+    {
+      "heading": "让用户找到商家，再联系商家",
+      "role": "演示：本地商家入驻",
+      "points": [
+        "录入或申请",
+        "审核上架",
+        "浏览与联系"
+      ],
+      "narration": "这里是大象商城。用一家演示商家的入驻流程，介绍同城电话本。后台可以直接录入，商家也可以登录后提交资料；通过后台审核，再让用户按城市和行业查找，查看介绍、拨打电话或收藏。",
+      "source": "b03_citytelbook.md:6-8;b03_citytelbook.md:174-208;b03_citytelbook_plan.md:9-43",
+      "visual": "intro",
+      "phase": 0
+    },
+    {
+      "heading": "城市与行业分类，先组织好",
+      "role": "后台管理员",
+      "points": [
+        "默认城市",
+        "三级行业",
+        "分类排序与启停"
+      ],
+      "narration": "电话本用城市和行业分类组织条目。后台管理分类树，新增、修改、删除或排序分类；首页展示启用的分类和推荐条目。列表支持城市、三级分类、关键词与排序条件，用户可以逐步缩小查找范围。",
+      "source": "b03_citytelbook.md:179-190;b03_citytelbook_plan.md:9-16",
+      "visual": "category",
+      "phase": 0
+    },
+    {
+      "heading": "一份商家资料，两种录入方式",
+      "role": "后台与入驻商家",
+      "points": [
+        "后台手工录入",
+        "商家自助申请",
+        "统一商家条目"
+      ],
+      "narration": "后台人员可以录入商家条目；商家则从自助入驻提交分类、名称、电话、地址、营业时间、简介、标志图和照片集。照片最多九张。两种方式都围绕同一类商家资料组织，但自助申请先走对应审核配置。",
+      "source": "b03_citytelbook_plan.md:13-15;b03_citytelbook_plan.md:26-41;b03_citytelbook.md:21-28",
+      "visual": "apply",
+      "phase": 1
+    },
+    {
+      "heading": "审核通过或驳回，都有去向",
+      "role": "后台审核人员与商家",
+      "points": [
+        "查看申请",
+        "通过 / 驳回",
+        "我的申请"
+      ],
+      "narration": "后台查看入驻申请与详情，再通过或驳回。商家可以从我的申请查看处理状态；已通过的条目也有自己的列表。编辑已有条目时，仍通过新的申请交回审核，不把资料修改直接等同上架生效。",
+      "source": "b03_citytelbook.md:59-63;b03_citytelbook.md:179-195;b03_citytelbook_plan.md:33-35",
+      "visual": "audit",
+      "phase": 1
+    },
+    {
+      "heading": "上架和推荐，由后台管理",
+      "role": "后台管理员",
+      "points": [
+        "条目状态",
+        "推荐设置",
+        "商家不能自行上下架"
+      ],
+      "narration": "后台可编辑或删除条目、设置上下架状态和推荐。商家不能自行切换上下架，也没有自行删除条目的入口。入驻开关、是否需要审核、同一会员能否提交多条，都可在插件设置里分别配置。",
+      "source": "b03_citytelbook.md:25-28;b03_citytelbook.md:179-183;b03_citytelbook.md:200-208",
+      "visual": "status",
+      "phase": 2
+    },
+    {
+      "heading": "用户先筛选，再看完整介绍",
+      "role": "浏览用户",
+      "points": [
+        "城市与分类",
+        "图文与营业时间",
+        "商家详情"
+      ],
+      "narration": "用户可以先按城市、行业或关键词查找，再进入详情查看图片、简介、营业时间和联系信息。游客可浏览列表与详情；涉及提交申请、收藏或举报等写入操作时，需要先登录，不把浏览权限和管理权限混在一起。",
+      "source": "b03_citytelbook.md:29-32;b03_citytelbook.md:188-196;b03_citytelbook_plan.md:38-43",
+      "visual": "browse",
+      "phase": 2
+    },
+    {
+      "heading": "电话、位置、收藏，各有用途",
+      "role": "浏览用户",
+      "points": [
+        "点击拨打",
+        "地址导航",
+        "我的收藏"
+      ],
+      "narration": "详情中的电话可点击拨打，地址可以调起地图导航；需要以后再找的商家，可以收藏到我的收藏。浏览、拨打和分享行为可记录，收藏和取消收藏也各有处理，分别用于回看和联系商家。",
+      "source": "b03_citytelbook_plan.md:38-43;b03_citytelbook.md:188-196;b03_citytelbook.md:84-115",
+      "visual": "contact",
+      "phase": 3
+    },
+    {
+      "heading": "后台统计，回看使用情况",
+      "role": "后台运营人员",
+      "points": [
+        "浏览与拨打",
+        "入驻申请",
+        "统计概览"
+      ],
+      "narration": "后台提供统计概览，可以围绕浏览、拨打和入驻申请查看使用情况。运营人员结合条目状态、推荐设置和审核待办继续维护内容。统计记录反映的是行为记录，不直接等同已经成交的客户或销售收入。",
+      "source": "b03_citytelbook.md:179-183;b03_citytelbook_plan.md:316-322",
+      "visual": "statistics",
+      "phase": 3
+    },
+    {
+      "heading": "资料进来，用户找得到、联系得上",
+      "role": "功能回顾",
+      "points": [
+        "分类与城市",
+        "录入与审核",
+        "浏览与联系"
+      ],
+      "narration": "从城市和分类，到资料录入、入驻审核，再到用户浏览、电话联系、地址导航和收藏，同城电话本把商家信息的进入、展示和使用连接起来。大象商城帮助后台把这份本地商家名录持续维护清楚。",
+      "source": "b03_citytelbook.md:174-208;b03_citytelbook_plan.md:26-43",
+      "visual": "close",
+      "phase": 3
+    }
+  ],
+  "phases": [
+    "城市分类",
+    "录入审核",
+    "条目展示",
+    "联系与统计"
+  ],
+  "accent": "#B4C8AD",
+  "gaps": [
+    "基于0.1.0落地记忆交叉核对首版计划，仅使用已落地API范围。",
+    "付费入驻、商家自助上下架、咨询留言、评分、全城地图模式均为后续扩展，不宣称现有能力。"
+  ],
+  "parent_theme": null,
+  "customer_scope": "同城电话本",
+  "visual_revision": "final_audit_clockwise_recap_1_2_3_4"
+}

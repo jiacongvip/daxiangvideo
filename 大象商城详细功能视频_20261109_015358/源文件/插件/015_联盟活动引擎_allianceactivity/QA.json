@@ -1,0 +1,37 @@
+{
+  "script_sha256": "d426c5af07fe3e6e616a292c1e203c38683de292670ae4e0f04f200c8d402d65",
+  "voice_sha256": "9510238b57289e642382fb7f2ec4e4aa11ce6baa9351ac645124de10a2441556",
+  "id": "allianceactivity",
+  "title": "联盟活动引擎",
+  "duration": 206.375,
+  "video": "/workspace/daxiang_detailed_series/plugins/015_allianceactivity/015_联盟活动引擎_allianceactivity.mp4",
+  "bytes": 4805935,
+  "sha256": "f3e1b3138055216bf81786d491202f62b547d05e10e5ea56225e3884fd2b7122",
+  "full_decode_ok": true,
+  "audio_duration": 206.375,
+  "voice_duration": 206.36,
+  "last_speech_boundary": 206.308,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.5447878017517018,
+  "subtitle_count": 30,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "数据大屏只有元数据名称，无可靠具体操作，未讲。",
+    "钱包/结算/老客名单只支持模块存在，未扩写提现、到账、资金托管、审核权限。",
+    "未讲佣金层数、具体金额、发放期限或收益；未保证经营结果。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

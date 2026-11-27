@@ -1,0 +1,37 @@
+{
+  "script_sha256": "031b9c27d64284c88c8cf0dd7086f22fe1a3ea6900d663c52e2eb94fa2f4abb9",
+  "voice_sha256": "d71d89394a7902cef23fe1b49def9df2d84fbecbe5671b8d13a531962b5c99d9",
+  "id": "jushuitan",
+  "title": "聚水潭ERP：授权绑定到订单回写",
+  "duration": 178.75,
+  "video": "/workspace/daxiang_detailed_series/plugins/090_jushuitan/090_聚水潭ERP：授权绑定到订单回写_jushuitan.mp4",
+  "bytes": 4228319,
+  "sha256": "0c605b7c214e9d2b259ffd26d8e6be9e9d62086673e0cbcce07a1c19b1f355f3",
+  "full_decode_ok": true,
+  "audio_duration": 178.75,
+  "voice_duration": 178.744,
+  "last_speech_boundary": 178.684,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.6260398175333033,
+  "subtitle_count": 27,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅软件对接配置与处理记录，不保证真实外部接口永远可用、库存零延迟或仓库已发货。",
+    "官方资料明确测试环境不能完成第三方授权；片中不教复制令牌或复用登录，不展示任何真实授权资料。",
+    "不扩写拆单退款、分仓路由优先级或未说明的自动对账。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

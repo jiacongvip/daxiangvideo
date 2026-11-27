@@ -1,0 +1,36 @@
+{
+  "script_sha256": "5b16ee436f58d8f5caa35c6ce4f9c22f08ce719c7662bf83347eeae555c32909",
+  "voice_sha256": "8c7ac95688cd82e19df312628085554ea0bda6cbab3cbda9b0b25538927ec68d",
+  "id": "coupon_hub",
+  "title": "超级发券：业务领券与后台发放",
+  "duration": 154.54166666666666,
+  "video": "/workspace/daxiang_detailed_series/plugins/035_coupon_hub/035_超级发券：业务领券与后台发放_coupon_hub.mp4",
+  "bytes": 3610650,
+  "sha256": "8f945382946ee020a1ea41b604b385c719af19fc094df164a2eeed7a2a47e940",
+  "full_decode_ok": true,
+  "audio_duration": 154.542,
+  "voice_duration": 154.528,
+  "last_speech_boundary": 154.475,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.327836873193923,
+  "subtitle_count": 23,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅介绍1.6.1明确发放/领取能力；README末尾团购拼团结算接入与预约金额对齐仍TODO，不宣称跨业务抵扣消费/退款回滚已完整联通。",
+    "不把超级发券替代商城营销优惠券；不扩写券有效期、金额与叠加规则。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

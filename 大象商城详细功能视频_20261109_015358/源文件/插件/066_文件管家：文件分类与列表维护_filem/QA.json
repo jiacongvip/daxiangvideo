@@ -1,0 +1,35 @@
+{
+  "script_sha256": "3faa2202ff8b4b285bfc86a7eb5830493fbd982852e56f4bf9ccd90ae540d6ca",
+  "voice_sha256": "ff618876c2cf3bd08823ac781ac1013c94ff835802a914b131c409026bd3f69d",
+  "id": "filem",
+  "title": "文件管家：文件分类与列表维护",
+  "duration": 108.33333333333333,
+  "video": "/workspace/daxiang_detailed_series/plugins/066_filem/066_文件管家：文件分类与列表维护_filem.mp4",
+  "bytes": 2569649,
+  "sha256": "d7a04d64ae31cd4db6ba099a2168aef47e8061a3ebb60ffabed53fb465be7ace",
+  "full_decode_ok": true,
+  "audio_duration": 108.333,
+  "voice_duration": 108.304,
+  "last_speech_boundary": 108.255,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -3.1998139979341715,
+  "subtitle_count": 19,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "系统设置具体字段未列明，不补云存储、访问权限、下载计费、病毒扫描等能力；简单内部工具不硬凑两分钟。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

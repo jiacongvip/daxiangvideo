@@ -1,0 +1,36 @@
+{
+  "script_sha256": "8f532e50578f7545cafb2e6b262d72c99bc50a87e80f4fc61f8ef95e1528f10d",
+  "voice_sha256": "bfcd7e6e76b81f588d79efbce755e26808970a2aa071e3bb8a1103bcf3ad2b9b",
+  "id": "danshujiang",
+  "title": "单数奖励：活动规则与记录管理",
+  "duration": 185.5,
+  "video": "/workspace/daxiang_detailed_series/plugins/044_danshujiang/044_单数奖励：活动规则与记录管理_danshujiang.mp4",
+  "bytes": 4362711,
+  "sha256": "479216477f71d4352e5b83e8f307c1345157dd8ecb0c81b22c1ebe7319b8b436",
+  "full_decode_ok": true,
+  "audio_duration": 185.5,
+  "voice_duration": 185.472,
+  "last_speech_boundary": 185.407,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.784649126761172,
+  "subtitle_count": 27,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "README新版本1.1声明统一结算，旧注意事项保留“需要订单接入”；影片保留正常产品接入前置，不声称当前站点已接通或已运行验收。",
+    "仅客观配置与订单处理，不教唆拉人头、不讲赚钱案例/具体比例/收益承诺；退款仅按1.1明确状态描述。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

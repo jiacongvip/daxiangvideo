@@ -1,0 +1,36 @@
+{
+  "script_sha256": "b85a1476cf669be74843e96d7d98cb9030a3535ea5504dfcd638d261f741800d",
+  "voice_sha256": "a19b7bf2b7367ba16b8a5e2a2f7d5d25456b997eb02699e9199df29d60588ffa",
+  "id": "holiday",
+  "title": "节日管理：日期资料与启停维护",
+  "duration": 104.875,
+  "video": "/workspace/daxiang_detailed_series/plugins/076_holiday/076_节日管理：日期资料与启停维护_holiday.mp4",
+  "bytes": 2445320,
+  "sha256": "e0f371588eb80e6ebf1e0efeec5e30b64d9e5563790b2cf79a343b146a73a1b8",
+  "full_decode_ok": true,
+  "audio_duration": 104.875,
+  "voice_duration": 104.848,
+  "last_speech_boundary": 104.79,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.8401413819397185,
+  "subtitle_count": 17,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "提醒、活动关联、统计报表、日历视图与推送均为后续建议，未宣传。",
+    "简单平台工具不强拉长案例；日期像素数字为真实配置要求，不是客户业绩。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

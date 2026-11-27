@@ -1,0 +1,37 @@
+{
+  "script_sha256": "d39da6f192bec251f39d3c76c3465f2c09b62384ba0e87af4514cbbde462d1a0",
+  "voice_sha256": "7e3ffa9375d9971a7b0a0e93f1bfb458c3c2d9f2c33bb47eb87213a97b4dde40",
+  "id": "form",
+  "title": "自定义表单：字段收集到审核查询",
+  "duration": 197.79166666666666,
+  "video": "/workspace/daxiang_detailed_series/plugins/067_form/067_自定义表单：字段收集到审核查询_form.mp4",
+  "bytes": 4664533,
+  "sha256": "9c8bdf45575ca5d480b1cf911d7991e68e57eba91d0a5a00ca96f1b1f801229e",
+  "full_decode_ok": true,
+  "audio_duration": 197.792,
+  "voice_duration": 197.76,
+  "last_speech_boundary": 197.718,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.5935518534826807,
+  "subtitle_count": 30,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "Vue编辑页仍待完善，字段配置使用原版后台；Vue数据页已有确认/驳回，导出/退款等只归原版能力，不宣传新版全部入口打通。",
+    "README与完成总结对付费且无需审核时的等级时机描述不够细，片中不承诺未付款立即升级；不扩写免费/支付/审核优先级。",
+    "不宣传仍建议阶段的模板市场、二维码、访问统计或批量审核。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

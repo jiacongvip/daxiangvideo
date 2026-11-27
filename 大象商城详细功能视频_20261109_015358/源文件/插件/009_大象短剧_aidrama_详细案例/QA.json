@@ -1,0 +1,37 @@
+{
+  "id": "aidrama",
+  "title": "大象短剧",
+  "duration": 171.20833333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/009_aidrama/009_大象短剧_aidrama_详细案例.mp4",
+  "bytes": 3770791,
+  "sha256": "f45804593429bbbdfd0ec34cb95ec9e47b4f4ddc4521f31a179bfaa61f6a0d5b",
+  "full_decode_ok": true,
+  "audio_duration": 171.208,
+  "voice_duration": 171.168,
+  "last_speech_boundary": 171.12,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.1288446504294205,
+  "subtitle_count": 27,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "验收表未填未签，不是已通过证明",
+    "验收条目2与11对缺密钥处理存在前后差异",
+    "未展示真实生成质量、服务成本、当前支付可用性"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview",
+  "script_sha256": "cbcc38233e6aa2fe12436fdf9a73aa25028981fabb51813d5e58e108b9c7cc2d",
+  "voice_sha256": "eb10c097fc58cfa63229601d3e19166fb2e696e946340309732e74b3b8ac7e02"
+}

@@ -1,0 +1,36 @@
+{
+  "script_sha256": "3586ef43a16826ca5a5fe9a38cda8774ac0b611f5f28e5c0b2342a805e298b74",
+  "voice_sha256": "c172398c204f49b6934c45c2dbdee75b573f0a0ed8cb81427e1539a33934f9bd",
+  "id": "fadada",
+  "title": "法大大电子签：模板配置到合同签署",
+  "duration": 128.66666666666666,
+  "video": "/workspace/daxiang_detailed_series/plugins/062_fadada/062_法大大电子签：模板配置到合同签署_fadada.mp4",
+  "bytes": 3051778,
+  "sha256": "b3e8c96ce7b50f9360a969107c4c0e7f477f7f8afa7b615c5700f9d7a987d0c8",
+  "full_decode_ok": true,
+  "audio_duration": 128.667,
+  "voice_duration": 128.664,
+  "last_speech_boundary": 128.608,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.8064311597937879,
+  "subtitle_count": 21,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "P5统计、异步补偿对账、导出和教程仍未完成，均不宣传。",
+    "仅明确代理升级适配器已接通；不说订单/寄售/灵工全部接入，不保证法律有效性与第三方审核。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

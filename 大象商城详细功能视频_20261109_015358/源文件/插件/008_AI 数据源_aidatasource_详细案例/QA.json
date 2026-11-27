@@ -1,0 +1,36 @@
+{
+  "id": "aidatasource",
+  "title": "AI 数据源",
+  "duration": 101.83333333333333,
+  "video": "/workspace/daxiang_detailed_series/plugins/008_aidatasource/008_AI 数据源_aidatasource_详细案例.mp4",
+  "bytes": 2267325,
+  "sha256": "6c9957c08698f778ecacaab9b62a234c56973b8b3c1a3413e06822b9074afa6c",
+  "full_decode_ok": true,
+  "audio_duration": 101.833,
+  "voice_duration": 101.808,
+  "last_speech_boundary": 101.749,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.571215487884197,
+  "subtitle_count": 17,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "平台当前可用性与授权未核实",
+    "没有任务参数全表、成功率或导出证据"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview",
+  "script_sha256": "150f4c90722230b1d67d6ab85a67efadbe4593a32e97202c98833393e44434ff",
+  "voice_sha256": "76fd07601d026044b4ce4e7ba35d219b16a89392f570278baf3e883d5535a51f"
+}

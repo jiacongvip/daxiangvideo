@@ -1,0 +1,37 @@
+{
+  "script_sha256": "156fa03ba75e22c3ed0062cfafb1edbf27e5c54ecce0369a6e4db5bc57716c42",
+  "voice_sha256": "5592ca974595ba0d1e1a54bb85f354d365d4d80ecda56358397b65bbe237da8e",
+  "id": "dailyjinju",
+  "title": "每日金句：累计登录解锁学习",
+  "duration": 159.95833333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/043_dailyjinju/043_每日金句：累计登录解锁学习_dailyjinju.mp4",
+  "bytes": 3715087,
+  "sha256": "51033cea76976a06521ff7882db4d4b4ba651a50a532a1e4e4a82ae351bea728",
+  "full_decode_ok": true,
+  "audio_duration": 159.958,
+  "voice_duration": 159.928,
+  "last_speech_boundary": 159.879,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -3.191220544168483,
+  "subtitle_count": 25,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "基础与扩展说明的等级规则有单选及以上/多选指定差异，采用明确后续多选更新，不宣称等级继承。",
+    "免费、等级限制、打卡的组合优先级未独立证实，不编造绕过顺序。",
+    "不声称音频播放、学习时长、社交分享等后续建议已完成。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

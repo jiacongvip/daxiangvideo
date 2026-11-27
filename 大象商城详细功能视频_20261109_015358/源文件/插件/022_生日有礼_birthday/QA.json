@@ -1,0 +1,36 @@
+{
+  "script_sha256": "efd4fbd592953d78007666165ad4d39b928133089d342bd76057246fd34f24d2",
+  "voice_sha256": "5d57af9be1f840c6be694355728949dfbaf58d24643aa47c8dbdd7cc3824a0ce",
+  "id": "birthday",
+  "title": "生日有礼",
+  "duration": 159.29166666666666,
+  "video": "/workspace/daxiang_detailed_series/plugins/022_birthday/022_生日有礼_birthday.mp4",
+  "bytes": 3571085,
+  "sha256": "ec9fd45dff265a6b554bf7050b1cf5e43631f13af72fe9ced7a02b3c9cc8d03b",
+  "full_decode_ok": true,
+  "audio_duration": 159.292,
+  "voice_duration": 159.256,
+  "last_speech_boundary": 159.195,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.4092872868419564,
+  "subtitle_count": 24,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "未实际执行计划任务；不承诺所有环境已经配置。",
+    "不扩写优惠券有效期、发放金额、税务或兑换规则；储值券依赖明确保留为产品使用条件。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

@@ -1,0 +1,37 @@
+{
+  "script_sha256": "b82b4c4e2afcf40edd1ee589514f0bf294a4695fb008dc1391cda6fa93eba735",
+  "voice_sha256": "864790952bbed971be54104e3a613afbffe2d29124be7431afd3ce48a69087a2",
+  "id": "cpcnpay",
+  "title": "中金支付：商户进件流程",
+  "duration": 165.83333333333334,
+  "video": "/workspace/daxiang_detailed_series/plugins/037_cpcnpay/037_中金支付：商户进件流程_cpcnpay.mp4",
+  "bytes": 3863693,
+  "sha256": "01cb41c5c3f69acafc9a0a9c56dcf8dd45d3a6290f0632008d80e508cfee20f1",
+  "full_decode_ok": true,
+  "audio_duration": 165.833,
+  "voice_duration": 165.832,
+  "last_speech_boundary": 165.786,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.9208241601270035,
+  "subtitle_count": 23,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "来源为原有中金业务模块；插件元数据说明复用入口，影片不宣称迁移重构或当前生产已开通。",
+    "本片仅商户进件；提现、分账、账户注销的具体操作仍缺足够业务完成资料，不能据菜单补细节。",
+    "不展示真实账户、验证码、证书或私密信息；不保证审核/到账/收款结果。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

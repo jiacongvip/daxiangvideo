@@ -1,0 +1,37 @@
+{
+  "script_sha256": "c23a74d35032c3bc61a7429134158912e59948c6cf07ec25910cc658372715f8",
+  "voice_sha256": "f8cd934a62a8dcdf9ec8e146b6cd29266c493cff54fb5391c9df8ca1620677bb",
+  "id": "cityagent",
+  "title": "城市代理：区域身份与后台管理",
+  "duration": 186.54166666666666,
+  "video": "/workspace/daxiang_detailed_series/plugins/029_cityagent/029_城市代理：区域身份与后台管理_cityagent.mp4",
+  "bytes": 4369288,
+  "sha256": "bfb3c9371bdec55ab988827c82cecb785c7a938fb76af6974b2f4630d82bfb12",
+  "full_decode_ok": true,
+  "audio_duration": 186.542,
+  "voice_duration": 186.504,
+  "last_speech_boundary": 186.454,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.5440297781080845,
+  "subtitle_count": 29,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "不宣称2026区域分配规划已完成；不讲具体收益率、到账期限或收入承诺。",
+    "旧文单绑定与新版多身份存在版本差异，采用2025-11-29明确多身份说明；不推断其他联动规则。",
+    "元数据提及CPCN提现，但本次资料未证实该新通道，未展示中金自动打款能力。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}
