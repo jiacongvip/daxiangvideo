@@ -1,0 +1,36 @@
+{
+  "id": "address",
+  "title": "地址库",
+  "duration": 100.54166666666667,
+  "video": "/workspace/daxiang_detailed_series/plugins/003_address/003_地址库_address_详细案例.mp4",
+  "bytes": 2255259,
+  "sha256": "3e906dcb28a1ceb3f5835d3e024bf4c0199207fdc2483726a5dcd2da92289b12",
+  "full_decode_ok": true,
+  "audio_duration": 100.542,
+  "voice_duration": 100.536,
+  "last_speech_boundary": 100.47,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.798886656572571,
+  "subtitle_count": 19,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "地图与第三方识别未实测",
+    "旧README，当前界面与权限待验收"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview",
+  "script_sha256": "a6abda23ef640a992877c7d22e9dd082db447e938fd5f18c473b3bb77eb6b200",
+  "voice_sha256": "59a857b006201ae6fc2827ddcb0fdb46a76a088a346920f677cfd23e334e0850"
+}

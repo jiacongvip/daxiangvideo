@@ -1,0 +1,37 @@
+{
+  "script_sha256": "caa2083913d47ab0116f9ddbf3c523f12a79c6ce8b4769c4924ff545ec01236c",
+  "voice_sha256": "c08858b74c15935bb9edeb73e347eb55afd137b302ee23fd14e518346729ba2f",
+  "id": "activity",
+  "title": "活动报名：周末手作体验客户版",
+  "duration": 221.54166666666666,
+  "video": "/workspace/daxiang_detailed_series/plugins/001_activity/001_活动报名：周末手作体验客户版_activity.mp4",
+  "bytes": 5240644,
+  "sha256": "2337890214f7277c0d253d71ecb6c4160e594f6f6a6e6578d8062c6769cb9886",
+  "full_decode_ok": true,
+  "audio_duration": 221.542,
+  "voice_duration": 221.504,
+  "last_speech_boundary": 221.45,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.5074335975187405,
+  "subtitle_count": 30,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "保留已认可周末手作案例、发布报名支付订单核销主流程与晓晓配音风格；删原片所有内部文档/未验收制作说明与未证实日期场次细则。",
+    "日期预约日历、场次细则未获充分操作证据，不引入；核销权限次数、具体字段类型、支付渠道与退款规则不猜。",
+    "虚拟销量虽README有名词，不制作虚假销量或真实业绩背书；仅原创流程图形与演示角色。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

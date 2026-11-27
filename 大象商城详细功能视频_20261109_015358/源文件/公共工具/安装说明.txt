@@ -1,0 +1,7 @@
+依赖安装（macOS / Linux）
+1. Python 3.10+
+2. ffmpeg（需在 PATH 中）：macOS 可用 brew install ffmpeg
+3. 本目录已附带 Noto Sans CJK 字体（fonts/），graphics.py 会优先读取相对路径，无需系统字体。
+4. pip install -r requirements.txt
+5. 仅改文案重出画面：python render_one.py ../插件/某项目文件夹
+6. 改旁白需 edge-tts 重新生成逐句 audio/*.mp3 后再对齐（见上级 README）。

@@ -1,0 +1,36 @@
+{
+  "id": "agentrecharge",
+  "title": "代理充值升级",
+  "duration": 79.08333333333333,
+  "video": "/workspace/daxiang_detailed_series/plugins/005_agentrecharge/005_代理充值升级_agentrecharge_详细案例.mp4",
+  "bytes": 1891074,
+  "sha256": "a6e48d3a65fc4bb5deb9f73503ee09a68adf59dcc1c251b73def5cf07a2d2118",
+  "full_decode_ok": true,
+  "audio_duration": 79.083,
+  "voice_duration": 79.056,
+  "last_speech_boundary": 79.012,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.652239283970659,
+  "subtitle_count": 15,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "签约失败、拒审、退款规则未说明",
+    "第三方签约支付未实测"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview",
+  "script_sha256": "17cb536aa078fcfc5c0119e44c5f61ef7c815ff3c3e43de58d60f9868787fbbf",
+  "voice_sha256": "d420809944f94c93612da027f6757692fda1cec983225aac9f7aaf3536efb0d9"
+}
