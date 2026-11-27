@@ -1,0 +1,36 @@
+{
+  "script_sha256": "7ba2c965d9d80f3b5f1b3820cc87413e3dd829ad053519f60b166f0461a13773",
+  "voice_sha256": "fa3533fd7b6b95c0012e5b519dd28f3c7a7ac564d29416441a43bb8b81aa1443",
+  "id": "core_menu_layout",
+  "title": "按钮导航：布局图标与文字配置",
+  "duration": 117.04166666666667,
+  "video": "/workspace/daxiang_detailed_series/core/core_menu_layout/核心32_按钮导航：布局图标与文字配置_core_menu_layout.mp4",
+  "bytes": 2709462,
+  "sha256": "dfd297260f7bd7970fb298f4ff6701a0679e3a8e4a3c8115344e2bba9cd5798c",
+  "full_decode_ok": true,
+  "audio_duration": 117.042,
+  "voice_duration": 117.04,
+  "last_speech_boundary": 116.982,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.9407659330847182,
+  "subtitle_count": 17,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅已完成按钮导航样式配置；本资料未给目标链接编辑完整操作，不扩写导航权限执行或全站装修全部已完成。",
+    "不把完成报告所述1对1比率或当前所有平台效果当实机验证承诺。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

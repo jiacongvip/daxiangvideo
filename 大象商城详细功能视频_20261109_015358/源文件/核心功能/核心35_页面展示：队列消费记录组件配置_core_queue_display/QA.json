@@ -1,0 +1,36 @@
+{
+  "script_sha256": "7a96acbd07f2e8204d0794a4e72cf81c30d9bdbfb69a8a37896c73ca2f034eb4",
+  "voice_sha256": "741624e085c5d71e10dbd18ac5da049f52d65f1f6d3af3ed369cac4868f022e1",
+  "id": "core_queue_display",
+  "title": "页面展示：队列消费记录组件配置",
+  "duration": 104.20833333333333,
+  "video": "/workspace/daxiang_detailed_series/core/core_queue_display/核心35_页面展示：队列消费记录组件配置_core_queue_display.mp4",
+  "bytes": 2505750,
+  "sha256": "d8f1b71c0e503e9efbe4a0dc9a37433c841eb3ad8df1638440dcb3a3e9440da7",
+  "full_decode_ok": true,
+  "audio_duration": 104.208,
+  "voice_duration": 104.192,
+  "last_speech_boundary": 104.152,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.2465705637207694,
+  "subtitle_count": 15,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅历史核心DIY组件展示，不证明paidui新插件队列资金、免单、自动发放或新多池规则已完成，paidui仍hold。",
+    "不模拟用户收益或真实补贴数字，不宣传数据展示即资金兑付。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

@@ -1,0 +1,36 @@
+{
+  "script_sha256": "873e793ca1a4821d699e9e526b1c90a7b0b092d1364c5f83f4af4de9efee18c1",
+  "voice_sha256": "27074a09d395038b34aec09af375ac8b6dfbb6844db7b14f073e1dde6e532eaa",
+  "id": "core_design_group_preview",
+  "title": "页面商品组件：分类来源与预览更新",
+  "duration": 98.33333333333333,
+  "video": "/workspace/daxiang_detailed_series/core/core_design_group_preview/核心40_页面商品组件：分类来源与预览更新_core_design_group_preview.mp4",
+  "bytes": 2309912,
+  "sha256": "c38e4d649ec5c9746cbc35aa2d4bcdd57ca2a0c0ef5a8859ced5e1d8d41d4979",
+  "full_decode_ok": true,
+  "audio_duration": 98.333,
+  "voice_duration": 98.312,
+  "last_speech_boundary": 98.255,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -3.3012163138272124,
+  "subtitle_count": 14,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅页面商品组件，不证明分类管理CRUD或所有详情组件集成。",
+    "多分组选择在支持表与后续优化存在冲突，剔除多选说法；排序自定义、加载状态和错误提示属后续建议，不讲。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

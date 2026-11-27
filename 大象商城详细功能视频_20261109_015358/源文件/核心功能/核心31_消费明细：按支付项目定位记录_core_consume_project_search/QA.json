@@ -1,0 +1,36 @@
+{
+  "script_sha256": "8d9a570ac56f6ae790a9e4da6c2c23a3b27fbd666f1354c3bf90749005485ec0",
+  "voice_sha256": "62a2a5aaa941ae9acfee98aa503381d5253870dcc732bbba639a4603325e68fb",
+  "id": "core_consume_project_search",
+  "title": "消费明细：按支付项目定位记录",
+  "duration": 78.29166666666667,
+  "video": "/workspace/daxiang_detailed_series/core/core_consume_project_search/核心31_消费明细：按支付项目定位记录_core_consume_project_search.mp4",
+  "bytes": 1790049,
+  "sha256": "b092c586f02dc937a598ea53580a0628b295eb769c5e9be4e7f7855c1e6ac596",
+  "full_decode_ok": true,
+  "audio_duration": 78.292,
+  "voice_duration": 78.264,
+  "last_speech_boundary": 78.205,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.455871367018752,
+  "subtitle_count": 10,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅支付项目标题筛选增强；自动补全、快捷选项、搜索历史、全文搜索是后续建议，未讲。",
+    "不外推消费明细全部权限、统计和导出规则，不处理实际支付或资金。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

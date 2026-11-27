@@ -1,0 +1,36 @@
+{
+  "script_sha256": "0e1016c151849f9fd3bd12673d243ad3ec83b9d6d394051fb6e791ef2d56151e",
+  "voice_sha256": "c8d70608ec7903b371896d518ab42cda8e9658901f6a01f0e8eaf4b0e2190ecc",
+  "id": "core_hualuo_threshold",
+  "title": "阈值配置：流水与利润计算口径",
+  "duration": 93.91666666666667,
+  "video": "/workspace/daxiang_detailed_series/core/core_hualuo_threshold/核心43_阈值配置：流水与利润计算口径_core_hualuo_threshold.mp4",
+  "bytes": 2193534,
+  "sha256": "f17e4d7fce9ef6cd420e345d464a03d330c197ee52cd2349f04882181c71e71f",
+  "full_decode_ok": true,
+  "audio_duration": 93.917,
+  "voice_duration": 93.896,
+  "last_speech_boundary": 93.832,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.028329683655878,
+  "subtitle_count": 13,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅历史核心配置说明的具体口径，部署测试未勾选，不宣称当前部署已生效或全晋级模块完成。",
+    "不讲招募、层级网络或收益；未来毛利率、报表和批量配置不讲。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

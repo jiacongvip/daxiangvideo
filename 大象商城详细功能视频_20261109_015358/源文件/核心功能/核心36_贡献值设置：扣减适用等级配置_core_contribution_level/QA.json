@@ -1,0 +1,36 @@
+{
+  "script_sha256": "d2e238496a3fb430f63edc6aa466fa5c685d8f39a859dcbd8aec76876a814387",
+  "voice_sha256": "8e51773ad961ee7cc0e883c24afe0210cc7b505b2fbf79ba53f37ed2b709964a",
+  "id": "core_contribution_level",
+  "title": "贡献值设置：扣减适用等级配置",
+  "duration": 104.29166666666667,
+  "video": "/workspace/daxiang_detailed_series/core/core_contribution_level/核心36_贡献值设置：扣减适用等级配置_core_contribution_level.mp4",
+  "bytes": 2562658,
+  "sha256": "5ca4777ba2f8c70660d06f0e06f82eeaadf84018b77fc42b3d6217faa030d43c",
+  "full_decode_ok": true,
+  "audio_duration": 104.292,
+  "voice_duration": 104.288,
+  "last_speech_boundary": 104.24,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.9135803918037095,
+  "subtitle_count": 13,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "历史核心贡献值等级限制有实现说明，不证明gongxianzhi待插件化模块完整迁移，原插件仍hold。",
+    "不承诺具体扣减比例、不足处置算法、银行提现或收益；只解释适用等级和文档明示日志。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

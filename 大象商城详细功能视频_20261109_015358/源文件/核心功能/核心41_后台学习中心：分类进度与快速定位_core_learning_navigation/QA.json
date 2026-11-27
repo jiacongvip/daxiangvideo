@@ -1,0 +1,36 @@
+{
+  "script_sha256": "9a3cf455967b08c5ff96aa96695e260be55424f0cb1bb56b9fd5fb7e7fd9b013",
+  "voice_sha256": "bc226dc3ebecc642e7a3a0d02aea2e832f709110b4eafdce180be7e8676fea4f",
+  "id": "core_learning_navigation",
+  "title": "后台学习中心：分类进度与快速定位",
+  "duration": 101.875,
+  "video": "/workspace/daxiang_detailed_series/core/core_learning_navigation/核心41_后台学习中心：分类进度与快速定位_core_learning_navigation.mp4",
+  "bytes": 2362975,
+  "sha256": "d9a19a46dbb68849fdda5406aa63a35a8d3a74294b2f08044ee755172aaae285",
+  "full_decode_ok": true,
+  "audio_duration": 101.875,
+  "voice_duration": 101.864,
+  "last_speech_boundary": 101.803,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -3.1456480846321613,
+  "subtitle_count": 14,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "明确后台help_center_progress，不冒充客户课程系统。完成说明明确已实现；测试清单未勾选，不做实际兼容性能承诺。",
+    "搜索、排序、批量完成、总体学习时长均未来扩展，未讲。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

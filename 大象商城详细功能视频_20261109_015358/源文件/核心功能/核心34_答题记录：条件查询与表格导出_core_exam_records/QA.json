@@ -1,0 +1,37 @@
+{
+  "script_sha256": "8afd70ada5c0700e66e2ebc4fa815853404f8bdc497e402970d06198f1749720",
+  "voice_sha256": "1c72f70980dfa391af784c472df186f01b96d2123a270234e8a9545c1bbcc2fd",
+  "id": "core_exam_records",
+  "title": "答题记录：条件查询与表格导出",
+  "duration": 123.79166666666667,
+  "video": "/workspace/daxiang_detailed_series/core/core_exam_records/核心34_答题记录：条件查询与表格导出_core_exam_records.mp4",
+  "bytes": 2948682,
+  "sha256": "6b62a04838281192c8ec58d256a753813a0e4328bb6a05205668f9e48e35c5d0",
+  "full_decode_ok": true,
+  "audio_duration": 123.792,
+  "voice_duration": 123.784,
+  "last_speech_boundary": 123.733,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.4630002430452897,
+  "subtitle_count": 17,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "历史核心答题记录完成说明，不证明exam新插件前端、题库和迁移完成，exam仍hold。",
+    "原文页面称Excel且例文件xlsx，但实现说明明确CSV+BOM；片中只按CSV内容说明，不承诺原生xlsx。",
+    "不扩写改分、证书、题库发布或考试自动通过。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

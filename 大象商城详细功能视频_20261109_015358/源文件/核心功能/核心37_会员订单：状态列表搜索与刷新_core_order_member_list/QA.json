@@ -1,0 +1,36 @@
+{
+  "script_sha256": "c21e012cb0deb9c31b6fe4b7f2ddc50f93081f3bc50e53dd02d9f0753d2b1317",
+  "voice_sha256": "7daa7e23398c05f851147a6247bec542781ffc822960007e4c7376e197a3efd1",
+  "id": "core_order_member_list",
+  "title": "会员订单：状态列表搜索与刷新",
+  "duration": 100.95833333333333,
+  "video": "/workspace/daxiang_detailed_series/core/core_order_member_list/核心37_会员订单：状态列表搜索与刷新_core_order_member_list.mp4",
+  "bytes": 2396338,
+  "sha256": "935a45e47d4b05f8b19c508f77f8a73b38e88a7552160166b8d67abd262eee6a",
+  "full_decode_ok": true,
+  "audio_duration": 100.958,
+  "voice_duration": 100.928,
+  "last_speech_boundary": 100.874,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.611868731697328,
+  "subtitle_count": 14,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅会员端订单列表。非空完成说明明确含状态切换、搜索、刷新与空状态测试；不证明后台全订单查询/详情、发货、退款整体已完成。",
+    "不使用原报告无依据满意度提升比例、性能和帧率成绩；不猜搜索匹配字段、批量操作或订单详情具体能力。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

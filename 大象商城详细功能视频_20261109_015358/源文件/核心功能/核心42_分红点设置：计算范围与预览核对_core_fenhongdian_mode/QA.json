@@ -1,0 +1,36 @@
+{
+  "script_sha256": "023c3e850117ef19d8ab7ac39294bb0f2b6bb08ce07c08324c5fcfb41e2230ab",
+  "voice_sha256": "9da821bc17889f2aa7d189004b59465aa3e5a310183cf144f7b87f212c6005f4",
+  "id": "core_fenhongdian_mode",
+  "title": "分红点设置：计算范围与预览核对",
+  "duration": 99.54166666666667,
+  "video": "/workspace/daxiang_detailed_series/core/core_fenhongdian_mode/核心42_分红点设置：计算范围与预览核对_core_fenhongdian_mode.mp4",
+  "bytes": 2371573,
+  "sha256": "1b35e451655ff0e89989168ad50131957bd2af36be49c284aec74f365f014151",
+  "full_decode_ok": true,
+  "audio_duration": 99.542,
+  "voice_duration": 99.536,
+  "last_speech_boundary": 99.5,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.987621722623288,
+  "subtitle_count": 13,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "旧核心设置有保存修复并验证通过说明；不证明独立fenhongdian插件订单钩子接入。",
+    "不使用宣传性公平、获利、投资数字；原说明全局不再参与语句与选项不够一致，按修复记录的两种计算口径讲，不外推实际分配上限。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

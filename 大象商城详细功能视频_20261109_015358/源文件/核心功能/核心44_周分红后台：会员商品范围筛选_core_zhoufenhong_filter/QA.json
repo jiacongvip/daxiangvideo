@@ -1,0 +1,36 @@
+{
+  "script_sha256": "437a674c75e9f74b4aad89496a12d6fe4a5210967490b1960cab4f92bec77055",
+  "voice_sha256": "326ee0306485bd7b4759d68d4b8a0b8731aeb940236bcf8ef22374eed043e02b",
+  "id": "core_zhoufenhong_filter",
+  "title": "周分红后台：会员商品范围筛选",
+  "duration": 102.66666666666667,
+  "video": "/workspace/daxiang_detailed_series/core/core_zhoufenhong_filter/核心44_周分红后台：会员商品范围筛选_core_zhoufenhong_filter.mp4",
+  "bytes": 2442697,
+  "sha256": "b79060279570acb2716f4ca3c9f396a87d42010e664a4ea237b0dee828a3f163",
+  "full_decode_ok": true,
+  "audio_duration": 102.667,
+  "voice_duration": 102.656,
+  "last_speech_boundary": 102.599,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -2.255951749914079,
+  "subtitle_count": 15,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "仅历史核心筛选与记录范围，不证明独立zhoufenhong插件完整迁移。",
+    "不讲七层奖励、收益基数、拉人动员；例4标题与效果不一致，已剔除自动排除商品说法。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

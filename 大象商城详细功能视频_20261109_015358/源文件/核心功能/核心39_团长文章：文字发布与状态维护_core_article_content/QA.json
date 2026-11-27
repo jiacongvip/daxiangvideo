@@ -1,0 +1,37 @@
+{
+  "script_sha256": "1797e5f49c73aea637ff0fbf0055f39a40fef1a3ed9144bc023b99303df58569",
+  "voice_sha256": "cb942dfb578293b0ab94f46c526536fcb7d57d26ad68daf43f56a0cc5f900748",
+  "id": "core_article_content",
+  "title": "团长文章：文字发布与状态维护",
+  "duration": 106.45833333333333,
+  "video": "/workspace/daxiang_detailed_series/core/core_article_content/核心39_团长文章：文字发布与状态维护_core_article_content.mp4",
+  "bytes": 2589469,
+  "sha256": "26a21f16a4a506708a32d54df8e957208e20e87c698feb2b67f3edc85da57855",
+  "full_decode_ok": true,
+  "audio_duration": 106.458,
+  "voice_duration": 106.424,
+  "last_speech_boundary": 106.362,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -0.8185167117907028,
+  "subtitle_count": 15,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "局部文字编辑与状态有开发完成说明，图片上传明确待接入，已剔除。",
+    "商品关联在两文档冲突，不讲；推荐功能属带货团另一管理对象，未混为团长同一链路。推荐测试未勾选，不另补空泛片。",
+    "不证明article独立插件迁移或所有内容类型完成。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}

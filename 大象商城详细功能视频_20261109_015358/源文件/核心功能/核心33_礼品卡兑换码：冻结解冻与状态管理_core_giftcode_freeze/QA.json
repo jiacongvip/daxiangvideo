@@ -1,0 +1,36 @@
+{
+  "script_sha256": "aa710123b13fa51cd7a844c7802c2ae1c23830d86d0d98d402dbe8f07addd067",
+  "voice_sha256": "86bb950226e17da7a4ae38744004260806d9c5da7e445cc2e5db9d427cae9a77",
+  "id": "core_giftcode_freeze",
+  "title": "礼品卡兑换码：冻结解冻与状态管理",
+  "duration": 116.70833333333333,
+  "video": "/workspace/daxiang_detailed_series/core/core_giftcode_freeze/核心33_礼品卡兑换码：冻结解冻与状态管理_core_giftcode_freeze.mp4",
+  "bytes": 2792754,
+  "sha256": "f96c7eea55652f141363899513f9e83ce1acf2bdbb139fcb967a7fbdf677e8c5",
+  "full_decode_ok": true,
+  "audio_duration": 116.708,
+  "voice_duration": 116.68,
+  "last_speech_boundary": 116.629,
+  "voice_not_truncated": true,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 24,
+  "codecs": [
+    "h264",
+    "aac"
+  ],
+  "music_rms_below_voice_db": 22,
+  "mixed_peak_dbfs": -1.9881712398404228,
+  "subtitle_count": 17,
+  "subtitle_alignment": "TTS SentenceBoundary",
+  "all_frame_text_bounds_asserted": true,
+  "customer_internal_disclaimer_check": true,
+  "evidence_gaps": [
+    "历史核心礼品卡冻结功能有实现与使用说明；不证明lipin新独立插件迁移、发卡、激活和订单闭环完成，lipin仍hold。",
+    "不宣传防绕过绝对安全、任何字段升级已在当前部署执行或冻结自动退款。"
+  ],
+  "implementation_verified": false,
+  "human_video_review": "pending parent videoReview"
+}
