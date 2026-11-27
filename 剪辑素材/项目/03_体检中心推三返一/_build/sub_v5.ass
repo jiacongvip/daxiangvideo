@@ -1,0 +1,41 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Hiragino Sans GB W6,80,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,-1,0,0,0,100,100,1.6,0,1,6,3,2,60,60,462,1
+Style: SubD,Hiragino Sans GB W6,72,&H00202020,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,1.6,0,1,5,2,2,60,60,470,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.80,Sub,,0,0,0,,{\fad(70,70)}为什么你做小程序分销\N{\c&H5A5AFF&}根本没人{\c&HFFFFFF&\fscx100\fscy100}愿意帮你推
+Dialogue: 0,0:00:02.82,0:00:04.60,Sub,,0,0,0,,{\fad(70,70)}因为你不{\c&H6ED6FF&}懂人性{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:04.62,0:00:07.92,Sub,,0,0,0,,{\fad(70,70)}看看我们给一家体检中心\N做的{\c&H6ED6FF&}推三返一{\c&HFFFFFF&\fscx100\fscy100}系统
+Dialogue: 0,0:00:07.94,0:00:09.76,Sub,,0,0,0,,{\fad(70,70)}是怎么{\c&H6ED6FF&}引爆客流{\c&HFFFFFF&\fscx100\fscy100}的
+Dialogue: 0,0:00:09.78,0:00:13.48,Sub,,0,0,0,,{\fad(70,70)}他的体检套餐\N一单{\c&H6ED6FF&}{\fscx116\fscy116}2000{\c&HFFFFFF&\fscx100\fscy100}块，{\c&H5A5AFF&}很难卖{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:13.50,0:00:16.32,Sub,,0,0,0,,{\fad(70,70)}我们帮他在小程序里\N{\c&HA0E23C&}改了个规则{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:16.34,0:00:18.96,Sub,,0,0,0,,{\fad(70,70)}凡是下单{\c&H6ED6FF&}{\fscx116\fscy116}2000{\c&HFFFFFF&\fscx100\fscy100}块套餐\N的客户
+Dialogue: 0,0:00:18.98,0:00:22.68,Sub,,0,0,0,,{\fad(70,70)}系统直接送他{\c&H6ED6FF&}{\fscx116\fscy116}20 张{\c&HFFFFFF&\fscx100\fscy100}\N低成本的基础小体检卡
+Dialogue: 0,0:00:22.70,0:00:24.92,Sub,,0,0,0,,{\fad(70,70)}让他扫码{\c&HA0E23C&}送给家人朋友{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:24.94,0:00:26.64,Sub,,0,0,0,,{\fad(70,70)}朋友拿卡{\c&H6ED6FF&}来体验完{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:26.66,0:00:28.56,Sub,,0,0,0,,{\fad(70,70)}只要在平台上{\c&H6ED6FF&}消费升级{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:28.58,0:00:30.20,Sub,,0,0,0,,{\fad(70,70)}系统{\c&H6ED6FF&}立马启动{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:30.22,0:00:31.24,Sub,,0,0,0,,{\fad(70,70)}{\c&H6ED6FF&}推三返一{\c&HFFFFFF&\fscx100\fscy100}算法
+Dialogue: 0,0:00:31.26,0:00:33.04,Sub,,0,0,0,,{\fad(70,70)}第一单奖励{\c&H6ED6FF&}{\fscx116\fscy116}10%{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:33.06,0:00:34.72,Sub,,0,0,0,,{\fad(70,70)}第二单{\c&H6ED6FF&}{\fscx116\fscy116}20%{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:34.74,0:00:37.24,Sub,,0,0,0,,{\fad(70,70)}第三单直接给到{\c&H6ED6FF&}{\fscx116\fscy116}70%{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:37.26,0:00:38.40,SubD,,0,0,0,,{\fad(70,70)}你{\c&H0078C7&}品品{\c&H202020&\fscx100\fscy100}这个逻辑
+Dialogue: 0,0:00:38.42,0:00:40.56,SubD,,0,0,0,,{\fad(70,70)}{\c&H0078C7&}{\fscx116\fscy116}20 个{\c&H202020&\fscx100\fscy100}朋友免费领了卡
+Dialogue: 0,0:00:40.58,0:00:42.04,SubD,,0,0,0,,{\fad(70,70)}只要有{\c&H0078C7&}{\fscx116\fscy116}3 个人{\c&H202020&\fscx100\fscy100}转化
+Dialogue: 0,0:00:42.06,0:00:44.88,SubD,,0,0,0,,{\fad(70,70)}老客户这{\c&H0078C7&}{\fscx116\fscy116}2000{\c&H202020&\fscx100\fscy100}块\N就直接{\c&H4F7900&}免单回本{\c&H202020&\fscx100\fscy100}
+Dialogue: 0,0:00:44.90,0:00:46.84,SubD,,0,0,0,,{\fad(70,70)}尤其是卡在{\c&H2828C6&}第二单{\c&H202020&\fscx100\fscy100}的时候
+Dialogue: 0,0:00:46.86,0:00:49.00,SubD,,0,0,0,,{\fad(70,70)}为了拿第三单那{\c&H0078C7&}{\fscx116\fscy116}70%{\c&H202020&\fscx100\fscy100}
+Dialogue: 0,0:00:49.02,0:00:51.64,SubD,,0,0,0,,{\fad(70,70)}客户自己都会{\c&H2828C6&}拼命{\c&H202020&\fscx100\fscy100}\N帮你催朋友下单
+Dialogue: 0,0:00:51.66,0:00:54.52,Sub,,0,0,0,,{\fad(70,70)}想把这套{\c&H6ED6FF&}裂变模型{\c&HFFFFFF&\fscx100\fscy100}\N装进你的小程序里吗？
+Dialogue: 0,0:00:54.54,0:00:56.84,Sub,,0,0,0,,{\fad(70,70)}{\c&H6ED6FF&}评论区{\c&HFFFFFF&\fscx100\fscy100}告诉我你的行业
+Dialogue: 0,0:00:56.86,0:00:59.14,Sub,,0,0,0,,{\fad(70,70)}我发你系统后台{\c&HA0E23C&}自己试{\c&HFFFFFF&\fscx100\fscy100}

@@ -1,0 +1,40 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Hiragino Sans GB W6,76,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,-1,0,0,0,100,100,1.6,0,1,6,3,2,60,60,462,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.62,Sub,,0,0,0,,{\fad(60,60)}今天看到一个做批发生意的\N朋友在网上求助
+Dialogue: 0,0:00:03.62,0:00:05.42,Sub,,0,0,0,,{\fad(60,60)}每天盯着电脑上的微信
+Dialogue: 0,0:00:05.42,0:00:09.02,Sub,,0,0,0,,{\fad(60,60)}客户报来鸡蛋{\c&H6ED6FF&}{\fscx112\fscy112}20 箱{\c&HFFFFFF&\fscx100\fscy100}\N调料{\c&H6ED6FF&}{\fscx112\fscy112}10 包{\c&HFFFFFF&\fscx100\fscy100}、蒜米{\c&H6ED6FF&}{\fscx112\fscy112}5 斤{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:09.02,0:00:11.24,Sub,,0,0,0,,{\fad(60,60)}他得一行行肉眼看
+Dialogue: 0,0:00:11.24,0:00:14.24,Sub,,0,0,0,,{\fad(60,60)}手敲进软件里打印\N{\c&H5A5AFF&}眼睛都快看瞎了{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:14.24,0:00:17.82,Sub,,0,0,0,,{\fad(60,60)}{\c&H5A5AFF&}更头疼的是{\c&HFFFFFF&\fscx100\fscy100}\N客户只发一句「调料 10 包」
+Dialogue: 0,0:00:17.82,0:00:21.02,Sub,,0,0,0,,{\fad(60,60)}具体是哪款调料\N{\c&H5A5AFF&}全靠老板脑子记{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:21.02,0:00:23.42,Sub,,0,0,0,,{\fad(60,60)}很多人劝他\N找人写复杂的 AI
+Dialogue: 0,0:00:23.42,0:00:26.02,Sub,,0,0,0,,{\fad(60,60)}其实解决这个事\N底层逻辑就{\c&H187AFF&}三步{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:26.02,0:00:28.62,Sub,,0,0,0,,{\fad(60,60)}{\c&H187AFF&}第一步{\c&HFFFFFF&\fscx100\fscy100}，电脑端\N挂一个微信助手
+Dialogue: 0,0:00:28.82,0:00:31.42,Sub,,0,0,0,,{\fad(60,60)}{\c&H6ED6FF&}24 小时{\c&HFFFFFF&\fscx100\fscy100}自动监控聊天记录
+Dialogue: 0,0:00:31.42,0:00:33.62,Sub,,0,0,0,,{\fad(60,60)}客户不管是发文本\N还是发语音
+Dialogue: 0,0:00:33.62,0:00:37.62,Sub,,0,0,0,,{\fad(60,60)}自动把商品和数量抓下来\N{\c&HA0E23C&}生成待发清单{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:37.62,0:00:40.02,Sub,,0,0,0,,{\fad(60,60)}{\c&H187AFF&}第二步{\c&HFFFFFF&\fscx100\fscy100}，解决模糊报单
+Dialogue: 0,0:00:40.02,0:00:42.02,Sub,,0,0,0,,{\fad(60,60)}客户说「{\c&H6ED6FF&}调料 10 包{\c&HFFFFFF&\fscx100\fscy100}」
+Dialogue: 0,0:00:42.02,0:00:45.02,Sub,,0,0,0,,{\fad(60,60)}程序直接翻\N该客户的{\c&H6ED6FF&}历史常购记录{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:45.02,0:00:47.62,Sub,,0,0,0,,{\fad(60,60)}{\c&HA0E23C&}自动匹配{\c&HFFFFFF&\fscx100\fscy100}出\N他平时买的具体规格
+Dialogue: 0,0:00:47.62,0:00:49.62,Sub,,0,0,0,,{\fad(60,60)}不用老板每次费脑子回忆
+Dialogue: 0,0:00:49.62,0:00:51.82,Sub,,0,0,0,,{\fad(60,60)}{\c&H187AFF&}第三步{\c&HFFFFFF&\fscx100\fscy100}，防错闭环
+Dialogue: 0,0:00:51.82,0:00:56.02,Sub,,0,0,0,,{\fad(60,60)}单子生成后\N自动推一条{\c&H6ED6FF&}小程序{\c&HFFFFFF&\fscx100\fscy100}给客户确认
+Dialogue: 0,0:00:56.02,0:00:58.82,Sub,,0,0,0,,{\fad(60,60)}或者直接发到老板手机上\N一秒核对
+Dialogue: 0,0:00:58.82,0:01:02.82,Sub,,0,0,0,,{\fad(60,60)}核对没问题\N{\c&HA0E23C&}热敏打印机直接自动出单{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:01:02.82,0:01:06.22,Sub,,0,0,0,,{\fad(60,60)}每天手动搬单不仅累\N还容易{\c&H5A5AFF&}漏单错单{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:01:06.22,0:01:09.22,Sub,,0,0,0,,{\fad(60,60)}如果有同行也在\N被微信报单折磨
+Dialogue: 0,0:01:09.22,0:01:11.82,Sub,,0,0,0,,{\fad(60,60)}想了解这套\N自动抓单的实现流程
+Dialogue: 0,0:01:11.82,0:01:13.19,Sub,,0,0,0,,{\fad(60,60)}可以在{\c&H6ED6FF&}评论区{\c&HFFFFFF&\fscx100\fscy100}交流

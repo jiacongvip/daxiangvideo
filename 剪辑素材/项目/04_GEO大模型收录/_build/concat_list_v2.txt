@@ -1,0 +1,5 @@
+file '/Users/jiacong/Downloads/剪辑素材/项目/04_GEO大模型收录/_build/seg1_face_v2.mp4'
+file '/Users/jiacong/Downloads/剪辑素材/项目/04_GEO大模型收录/_build/seg2_face_v2.mp4'
+file '/Users/jiacong/Downloads/剪辑素材/项目/04_GEO大模型收录/_build/seg3_card_v2.mp4'
+file '/Users/jiacong/Downloads/剪辑素材/项目/04_GEO大模型收录/_build/seg4_card_v2.mp4'
+file '/Users/jiacong/Downloads/剪辑素材/项目/04_GEO大模型收录/_build/seg5_card_v2.mp4'

@@ -1,0 +1,5 @@
+file '/Users/jiacong/Downloads/剪辑素材/项目/05_批发微信自动抓单/_build/seg1_face.mp4'
+file '/Users/jiacong/Downloads/剪辑素材/项目/05_批发微信自动抓单/_build/seg2_card1.mp4'
+file '/Users/jiacong/Downloads/剪辑素材/项目/05_批发微信自动抓单/_build/seg3_card2.mp4'
+file '/Users/jiacong/Downloads/剪辑素材/项目/05_批发微信自动抓单/_build/seg4_card3.mp4'
+file '/Users/jiacong/Downloads/剪辑素材/项目/05_批发微信自动抓单/_build/seg5_face.mp4'

@@ -1,0 +1,40 @@
+creds ok base=https://duomiapi.com key=EAT7NM… src=mysql_aid62
+try model=gpt-image-2.5-sunburst size=1024x1536
+submit 200 tid= body={'code': 400, 'msg': '请求失败，API账户余额不足或没有权限', 'data': None, 'exec_time': 0.071876, 'ip': '114.226.175.199'}
+MySQL key 余额不足 → sticker duomi.json key
+fallback submit 200 tid=dc9b70f7-28a7-0c8c-142a-63750468a6e2 body={'id': 'dc9b70f7-28a7-0c8c-142a-63750468a6e2'}
+poll 0 running
+poll 1 running
+poll 2 running
+poll 3 running
+poll 4 running
+poll 5 running
+poll 6 running
+poll 7 running
+poll 8 running
+poll 9 running
+poll 10 running
+poll 11 running
+poll 12 running
+poll 13 running
+poll 14 succeeded
+downloaded /Users/jiacong/Downloads/剪辑素材/项目/05_批发微信自动抓单/_build/_cover/duomi_raw_cover.png from https://cdn3.dmiapi.com/img/2026/11/02/15/task_uwuEYAIniWJMCkjCTvkL7ACJeDjJwBie/0.png
+raw size=(1024, 1536)
+{
+  "task": "dc9b70f7-28a7-0c8c-142a-63750468a6e2",
+  "model": "gpt-image-2.5-sunburst",
+  "size_requested": "1024x1536",
+  "raw": "/Users/jiacong/Downloads/剪辑素材/项目/05_批发微信自动抓单/_build/_cover/duomi_raw_cover.png",
+  "raw_wh": [
+    1024,
+    1536
+  ],
+  "out_1920": "/Users/jiacong/Downloads/剪辑素材/项目/05_批发微信自动抓单/04_成片/封面_爆款_1080x1920.png",
+  "out_1440": "/Users/jiacong/Downloads/剪辑素材/项目/05_批发微信自动抓单/04_成片/封面_爆款_1080x1440_抖音.png",
+  "bytes_1920": 1753630,
+  "bytes_1440": 1321201,
+  "cred_source": "sticker_duomi_json",
+  "cdn_url": "https://cdn3.dmiapi.com/img/2026/11/02/15/task_uwuEYAIniWJMCkjCTvkL7ACJeDjJwBie/0.png",
+  "prompt_head": "Create a high-CTR vertical Douyin / TikTok thumbnail cover (portrait), Chinese short-video style.\n\nSTRICT: ZERO humans, ZERO faces, ZERO digital humans, ZERO talking heads, ZERO stock photo people, ZE"
+}
+DONE

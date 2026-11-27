@@ -1,0 +1,45 @@
+creds ok base=https://duomiapi.com key=EAT7NM…
+try model=gpt-image-2.5-sunburst size=1024x1536
+submit 200 tid= body={'code': 400, 'msg': '请求失败，API账户余额不足或没有权限', 'data': None, 'exec_time': 0.062668, 'ip': '114.226.175.199'}
+BALANCE_INSUFFICIENT {"code": 400, "msg": "请求失败，API账户余额不足或没有权限", "data": null, "exec_time": 0.062668, "ip": "114.226.175.199"}
+creds ok base=https://duomiapi.com key=EAT7NM…
+try model=gpt-image-2.5-sunburst size=1024x1536
+submit 200 tid= body={'code': 400, 'msg': '请求失败，API账户余额不足或没有权限', 'data': None, 'exec_time': 0.072677, 'ip': '114.226.175.199'}
+MySQL key balance不足 → fallback to GEO-sticker/Unichant duomi.json key
+fallback submit 200 tid=5776322c-9296-cc06-bb6b-391a163a0bc6 body={'id': '5776322c-9296-cc06-bb6b-391a163a0bc6'}
+poll 0 running
+poll 1 running
+poll 2 running
+poll 3 running
+poll 4 running
+poll 5 running
+poll 6 running
+poll 7 running
+poll 8 running
+poll 9 running
+poll 10 running
+poll 11 running
+poll 12 running
+poll 13 running
+poll 14 succeeded
+downloaded /Users/jiacong/Downloads/剪辑素材/项目/04_GEO大模型收录/_build/_cover/duomi_raw_cover.png from https://cdn3.dmiapi.com/img/2026/11/01/15/task_mrxkr9EDkqfPQaAh4avExSbEen7UsIOU/0.png
+raw size=(1024, 1536)
+{
+  "task": "5776322c-9296-cc06-bb6b-391a163a0bc6",
+  "model": "gpt-image-2.5-sunburst",
+  "size_requested": "1024x1536",
+  "raw": "/Users/jiacong/Downloads/剪辑素材/项目/04_GEO大模型收录/_build/_cover/duomi_raw_cover.png",
+  "raw_wh": [
+    1024,
+    1536
+  ],
+  "out_1920": "/Users/jiacong/Downloads/剪辑素材/项目/04_GEO大模型收录/04_成片/封面_爆款_1080x1920.png",
+  "out_1440": "/Users/jiacong/Downloads/剪辑素材/项目/04_GEO大模型收录/04_成片/封面_爆款_1080x1440_抖音.png",
+  "bytes_1920": 2155522,
+  "bytes_1440": 1645739,
+  "pil_overlay": false,
+  "cred_source": "sticker_duomi_json",
+  "cdn_url": "https://cdn3.dmiapi.com/img/2026/11/01/15/task_mrxkr9EDkqfPQaAh4avExSbEen7UsIOU/0.png",
+  "prompt_head": "Create a high-CTR vertical Douyin / TikTok thumbnail cover (portrait), Chinese short-video style.\n\nSTRICT: ZERO humans, ZERO faces, ZERO digital humans, ZERO talking heads, ZERO st"
+}
+DONE

@@ -1,0 +1,6 @@
+jrqkm=73.250
+zkyiv=74.190
+scale=1.012833
+face1=0.000-21.290
+face2=63.626-74.190
+out=/Users/jiacong/Downloads/剪辑素材/项目/05_批发微信自动抓单/_build/cover_voice_face_zkyiv.wav

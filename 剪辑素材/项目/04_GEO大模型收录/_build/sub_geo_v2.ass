@@ -1,0 +1,40 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Hiragino Sans GB W6,80,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,-1,0,0,0,100,100,1.6,0,1,6,3,2,60,60,462,1
+Style: SubD,Hiragino Sans GB W6,72,&H00202020,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,1.6,0,1,5,2,2,60,60,470,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.10,Sub,,0,0,0,,{\fad(70,70)}千万别再花{\c&H6ED6FF&}{\fscx116\fscy116}几万块{\c&HFFFFFF&\fscx100\fscy100}\N找代运营刷{\c&H5A5AFF&}GEO垃圾稿{\c&HFFFFFF&\fscx100\fscy100}了
+Dialogue: 0,0:00:03.12,0:00:04.48,Sub,,0,0,0,,{\fad(70,70)}大模型根本{\c&H5A5AFF&}不读{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:04.50,0:00:07.88,Sub,,0,0,0,,{\fad(70,70)}今天花{\c&H6ED6FF&}{\fscx116\fscy116}一分钟{\c&HFFFFFF&\fscx100\fscy100}把\N{\c&H6ED6FF&}DeepSeek、豆包、元宝{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:07.90,0:00:10.72,Sub,,0,0,0,,{\fad(70,70)}都在用的{\c&H6ED6FF&}GEO核心底层逻辑{\c&HFFFFFF&\fscx100\fscy100}\N给你讲透
+Dialogue: 0,0:00:10.74,0:00:15.68,Sub,,0,0,0,,{\fad(70,70)}很多人以为做GEO\N就是用AI{\c&H5A5AFF&}批量生成几千篇文章{\c&HFFFFFF&\fscx100\fscy100}去群发
+Dialogue: 0,0:00:15.70,0:00:17.58,Sub,,0,0,0,,{\fad(70,70)}这在今天{\c&H5A5AFF&}纯属自嗨{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:17.60,0:00:19.63,Sub,,0,0,0,,{\fad(70,70)}真正的核心只有{\c&H6ED6FF&}{\fscx116\fscy116}三步{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:19.65,0:00:21.88,Sub,,0,0,0,,{\fad(70,70)}{\c&H6ED6FF&}第一步{\c&HFFFFFF&\fscx100\fscy100} 反向逆推信源
+Dialogue: 0,0:00:21.90,0:00:24.78,Sub,,0,0,0,,{\fad(70,70)}去各大AI平台\N搜你行业的关键词
+Dialogue: 0,0:00:24.80,0:00:26.28,Sub,,0,0,0,,{\fad(70,70)}如果推荐的{\c&H5A5AFF&}不是你{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:26.30,0:00:29.38,Sub,,0,0,0,,{\fad(70,70)}立刻点开大模型回答下面的\N{\c&H6ED6FF&}引用来源{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:29.40,0:00:32.48,Sub,,0,0,0,,{\fad(70,70)}看他抓取了{\c&H6ED6FF&}知乎、公众号{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:32.50,0:00:34.48,Sub,,0,0,0,,{\fad(70,70)}垂直论坛还是行业站
+Dialogue: 0,0:00:34.50,0:00:37.01,Sub,,0,0,0,,{\fad(70,70)}这就是AI认可的{\c&HA0E23C&}高权重信源{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:37.03,0:00:39.38,Sub,,0,0,0,,{\fad(70,70)}{\c&H6ED6FF&}第二步{\c&HFFFFFF&\fscx100\fscy100} 精准定点投放
+Dialogue: 0,0:00:39.40,0:00:41.38,Sub,,0,0,0,,{\fad(70,70)}既然知道它引用谁
+Dialogue: 0,0:00:41.40,0:00:45.28,Sub,,0,0,0,,{\fad(70,70)}我们直接去这些\N{\c&HA0E23C&}被收录的平台{\c&HFFFFFF&\fscx100\fscy100}上投放内容
+Dialogue: 0,0:00:45.30,0:00:47.78,Sub,,0,0,0,,{\fad(70,70)}记住，千万别发{\c&H5A5AFF&}纯AI废话{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:47.80,0:00:49.28,Sub,,0,0,0,,{\fad(70,70)}哪怕找AI辅助
+Dialogue: 0,0:00:49.30,0:00:52.38,Sub,,0,0,0,,{\fad(70,70)}也必须写进你的\N{\c&H6ED6FF&}真实优势和核心观点{\c&HFFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:52.40,0:00:55.06,Sub,,0,0,0,,{\fad(70,70)}{\c&HA0E23C&}真实且有价值{\c&HFFFFFF&\fscx100\fscy100}的内容\NAI才会抓取
+Dialogue: 0,0:00:55.08,0:00:57.38,Sub,,0,0,0,,{\fad(70,70)}{\c&H6ED6FF&}第三步{\c&HFFFFFF&\fscx100\fscy100} 低成本放大
+Dialogue: 0,0:00:57.40,0:01:01.38,Sub,,0,0,0,,{\fad(70,70)}{\c&H6ED6FF&}本地小店{\c&HFFFFFF&\fscx100\fscy100}在垂直平台\N发几篇高质量内容就能被收录
+Dialogue: 0,0:01:01.40,0:01:05.08,Sub,,0,0,0,,{\fad(70,70)}大企业花{\c&H6ED6FF&}{\fscx116\fscy116}几十上百块{\c&HFFFFFF&\fscx100\fscy100}\N走新闻发稿渠道
+Dialogue: 0,0:01:05.10,0:01:07.49,Sub,,0,0,0,,{\fad(70,70)}直接{\c&HA0E23C&}打穿主流媒体源{\c&HFFFFFF&\fscx100\fscy100}
